@@ -1,0 +1,104 @@
+:root {
+
+    --b1 : 10px;
+    --b2 : 10px;
+    --b3 : 10px;
+    --b4 : 10px;
+
+    --bt1 : 0px;
+    --bt2 : 0px;
+    --bt3 : 0px;
+    --bt4 : 0px;
+
+}
+
+#game {
+    /*Style*/
+    height: 500px;
+    width: 500px;
+    
+    margin-top: 50px;
+
+    border-radius: 50px;
+
+    text-align: center;
+
+    padding-top: 50px;
+    /**/
+
+    /*Center*/
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    /**/
+
+    /*Test*/
+    background-color: whitesmoke;
+}
+
+#sign {
+
+    width: 350px;
+    height: 100px;
+    border-radius: 50px;
+
+    margin: auto;
+
+    padding-top: 50px;
+    background-color: lightgreen;
+
+    box-shadow: green 0px 10px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+#box {
+    
+    margin-top: 100px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.buttons {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 150px;
+    height: 50px;
+
+    border-radius: 25px;
+
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-top: 15%;
+
+    transition: 0.2s;
+
+}
+
+#b1 {
+    box-shadow: lightskyblue 0px var(--b1);
+    translate: 0px var(--bt1);
+}
+#b2 {
+    box-shadow: lightskyblue 0px var(--b2);
+    translate: 0px var(--bt2);
+}
+#b3 {
+    box-shadow: lightskyblue 0px var(--b3);
+    translate: 0px var(--bt3);
+}
+#b4 {
+    box-shadow: lightskyblue 0px var(--b4);
+    translate: 0px var(--bt4);
+}

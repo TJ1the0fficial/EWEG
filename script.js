@@ -27,7 +27,7 @@ let r4 = 0;
 
 async function loadWords() { // ChatGPT supported this function, cause I don't really know JSON
     try {
-        const response = await fetch("Unit5_EnglishWords_56-65.json");
+        const response = await fetch("UnitOfWords.json");
         const data = await response.json();
 
         console.log("Words loaded:", data);

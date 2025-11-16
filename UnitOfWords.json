@@ -1,716 +1,992 @@
 {
     "EnglishWords": [
         {
-            "hun": "Szándékalapú hálózatkezelés (IBN)",
-            "en": "Intent-based networking (IBN)"
+            "hun": "hálózati protokollok",
+            "en": "networking protocols"
         },
         {
-            "hun": "Hálózati szoftver menedzsment",
-            "en": "Network software management"
+            "hun": "videokonferencia",
+            "en": "videoconferencing"
         },
         {
-            "hun": "Gépi tanulás",
-            "en": "Machine learning"
+            "hun": "távmunka",
+            "en": "telecommuting"
         },
         {
-            "hun": "Fejlett vezénylés / Összehangolás",
-            "en": "Advanced orchestration"
+            "hun": "távsebészet",
+            "en": "telesurgery"
         },
         {
-            "hun": "Hálózati irányelvek",
-            "en": "Network policies"
+            "hun": "szándék alapú hálózatépítés",
+            "en": "Intent-based networking"
         },
         {
-            "hun": "Hálózati rendszergazdák",
-            "en": "Network administrators"
+            "hun": "hálózati szoftvermenedzsment",
+            "en": "network software management"
         },
         {
-            "hun": "Hálózati berendezés / Felszerelés",
-            "en": "Network equipment"
+            "hun": "gépi tanulás",
+            "en": "machine learning"
         },
         {
-            "hun": "Felhasználói hozzáférés biztosítása",
-            "en": "Provisioning user access"
+            "hun": "fejlett orkesztráció",
+            "en": "advanced orchestration"
         },
         {
-            "hun": "Parancssori felület (CLI)",
-            "en": "Command line interface (CLI)"
+            "hun": "hálózati házirendek",
+            "en": "network policies"
         },
         {
-            "hun": "Skálázódik (képesség)",
-            "en": "Scale (verb)"
+            "hun": "hálózati rendszergazdák",
+            "en": "network administrators"
         },
         {
-            "hun": "Automatikus végrehajtás",
-            "en": "Automatically implements"
+            "hun": "hálózati berendezések",
+            "en": "network equipment"
         },
         {
-            "hun": "Hálózati hardver",
-            "en": "Network hardware"
+            "hun": "felhasználói hozzáférés kiépítése",
+            "en": "provisioning user access"
+        },
+        {
+            "hun": "parancssori felületek",
+            "en": "command line interfaces"
+        },
+        {
+            "hun": "hálózati hardver",
+            "en": "network hardware"
+        },
+        {
+            "hun": "tűzfal",
+            "en": "firewall"
         },
         {
             "hun": "WAN kapcsolat",
             "en": "WAN link"
         },
         {
-            "hun": "Érzékeny betegadatok",
-            "en": "Sensitive patient data"
+            "hun": "érzékeny betegadatok",
+            "en": "sensitive patient data"
         },
         {
-            "hun": "Hozzáférési irányelv",
-            "en": "Access policy"
+            "hun": "hozzáférési házirend",
+            "en": "access policy"
         },
         {
-            "hun": "Kutatócég",
-            "en": "Research firm"
-        },
-        {
-            "hun": "Szándékalapú hálózatkezelő rendszerek (IBNS)",
-            "en": "IBNS"
-        },
-        {
-            "hun": "Fordítás és érvényesítés",
+            "hun": "fordítás és validálás",
             "en": "Translation and validation"
         },
         {
-            "hun": "Alapvető tételek / Elvek",
-            "en": "Key tenets"
+            "hun": "alapelv",
+            "en": "tenet"
         },
         {
-            "hun": "Magas szintű üzleti irányelv",
-            "en": "High-level business policy"
+            "hun": "üzleti irányelv",
+            "en": "business policy"
         },
         {
-            "hun": "Automatizált végrehajtás",
+            "hun": "automatizált megvalósítás",
             "en": "Automated implementation"
         },
         {
-            "hun": "Kívánt állapot",
-            "en": "Desired state"
+            "hun": "hálózati erőforrások",
+            "en": "network resources"
         },
         {
-            "hun": "Hálózati erőforrások",
-            "en": "Network resources"
-        },
-        {
-            "hun": "Állapot tudatosság",
+            "hun": "állapot tudatosság",
             "en": "Awareness of state"
         },
         {
-            "hun": "Dinamikus optimalizálás",
-            "en": "Dynamic optimization"
+            "hun": "dinamikus optimalizálás és javítás",
+            "en": "Dynamic optimization and remediation"
         },
         {
-            "hun": "Helyreállítás / Javítás",
-            "en": "Remediation"
+            "hun": "biztonsági vonatkozások",
+            "en": "security implications"
         },
         {
-            "hun": "Automatizált hálózatmenedzsment platform",
-            "en": "Automated network management platform"
+            "hun": "incidensre adott válasz",
+            "en": "incident response"
         },
         {
-            "hun": "Biztonsági vonatkozások",
-            "en": "Security implications"
+            "hun": "kiaknázatlan piac",
+            "en": "untapped market"
         },
         {
-            "hun": "Incidensreakció",
-            "en": "Incident response"
+            "hun": "úttörők",
+            "en": "pioneers"
         },
         {
-            "hun": "Közös hely",
-            "en": "Common place"
+            "hun": "intuitív hálózat",
+            "en": "intuitive network"
         },
         {
-            "hun": "Teljes portfólió",
-            "en": "Entire portfolio"
+            "hun": "média figyelmet kapott",
+            "en": "garnered quite a bit of media attention"
         },
         {
-            "hun": "Biztosítás / Garancia",
-            "en": "Assurance"
+            "hun": "autonóm vagy intelligens",
+            "en": "autonomous or intelligent"
         },
         {
-            "hun": "Hálózati analitika",
-            "en": "Network analytics"
+            "hun": "mesterséges intelligencia",
+            "en": "artificial intelligence"
         },
         {
-            "hun": "Forradalmi lépés",
-            "en": "Revolutionary step"
+            "hun": "adat elemzés",
+            "en": "data analytics"
         },
         {
-            "hun": "Vezényel / Összehangol",
-            "en": "Orchestrate"
+            "hun": "automatizálás",
+            "en": "automation"
         },
         {
-            "hun": "Alapelv / Tétel",
-            "en": "Tenet"
+            "hun": "cselekedetek sodra",
+            "en": "flurry of actions"
         },
         {
-            "hun": "Elkerül / Tartózkodik vmitől",
-            "en": "Shun"
+            "hun": "elkerülni",
+            "en": "shunning"
         },
         {
-            "hun": "Felkarol / Elfogad",
-            "en": "Embrace"
+            "hun": "alapozó évek",
+            "en": "formative years"
         },
         {
-            "hun": "Intranet",
-            "en": "Intranet"
+            "hun": "költségcsökkentés",
+            "en": "cut cost"
         },
         {
-            "hun": "Titkosított forgalom analitika",
-            "en": "Encrypted traffic analytics"
+            "hun": "digitális hálózatok",
+            "en": "digital networks"
         },
         {
-            "hun": "Visszafejtés / Dekódolás",
-            "en": "Decrypting"
+            "hun": "divatszó",
+            "en": "buzzword-du-jour"
         },
         {
-            "hun": "Adatközponti kapcsolás",
-            "en": "Data-center switching"
+            "hun": "hálózati médiák",
+            "en": "networking media"
         },
         {
-            "hun": "Kampusz kapcsoló",
-            "en": "Campus switch"
+            "hun": "vezeték nélküli jelek",
+            "en": "wireless signals"
         },
         {
-            "hun": "Vezeték nélküli növekedés",
-            "en": "Wireless growth"
+            "hun": "optikai szálas",
+            "en": "fiber-optic"
         },
         {
-            "hun": "Integráció / Beépítés",
-            "en": "Integration"
+            "hun": "csavart érpárú",
+            "en": "twisted-pair"
         },
         {
-            "hun": "Fenyegetési információ",
-            "en": "Threat information"
+            "hun": "koaxiális kábel",
+            "en": "coaxial cable"
         },
         {
-            "hun": "Dinamikusan védekezik",
-            "en": "Dynamically defend"
+            "hun": "vezeték nélküli hálózatépítés (Wi-Fi)",
+            "en": "Wireless Networking (Wi-Fi)"
         },
         {
-            "hun": "Teljes architektúra",
-            "en": "Entire architecture"
+            "hun": "rádió technológiák",
+            "en": "Radio technologies"
         },
         {
-            "hun": "Mesterséges intelligencia (AI) csúcstalálkozó",
-            "en": "AI summit"
+            "hun": "analóg celluláris rendszerek",
+            "en": "analogue cellular systems"
         },
         {
-            "hun": "Áthatol / Átjár",
-            "en": "Permeate"
+            "hun": "digitális vezeték nélküli kommunikációs rendszerek",
+            "en": "digital wireless communication systems"
         },
         {
-            "hun": "Táppendlik / Távmunka",
-            "en": "Telecommuting"
+            "hun": "kiugró jellemzők",
+            "en": "salient features"
         },
         {
-            "hun": "Távegészségügyi stratégia",
-            "en": "Telehealth strategy"
+            "hun": "mindennapi élet",
+            "en": "mundane life"
         },
         {
-            "hun": "Egyenrangú (P2P) hálózatkezelés",
-            "en": "Peer-to-peer (P2P) networking"
+            "hun": "szupersebesség",
+            "en": "super speed"
         },
         {
-            "hun": "Szabályozott",
-            "en": "Regulated"
+            "hun": "késleltetés",
+            "en": "latency"
         },
         {
-            "hun": "Jogszerű használat",
-            "en": "Legitimate use"
+            "hun": "sávszélesség egységnyi területenként",
+            "en": "bandwidth per unit area"
         },
         {
-            "hun": "Illegális célok",
-            "en": "Illegal purposes"
+            "hun": "hálózati energiafelhasználás csökkentése",
+            "en": "reduction in network energy usage"
         },
         {
-            "hun": "Főkeret számítógépes feldolgozás",
-            "en": "Mainframe processing"
+            "hun": "folyamatos és egyenletes lefedettség",
+            "en": "contiguous and consistent coverage"
         },
         {
-            "hun": "E-kereskedelem",
-            "en": "E-commerce"
+            "hun": "szélesebb területű mobilitás",
+            "en": "wider area mobility"
         },
         {
-            "hun": "Felhőszolgáltató",
-            "en": "Cloud provider"
+            "hun": "hálózati elemek",
+            "en": "network elements"
         },
         {
-            "hun": "Privát adatközponti infrastruktúra",
-            "en": "Private data-center infrastructure"
+            "hun": "terminálok",
+            "en": "terminals"
         },
         {
-            "hun": "Hálózati biztosítási motor",
-            "en": "Network assurance engine"
+            "hun": "értéknövelt szolgáltatások",
+            "en": "value-added services"
         },
         {
-            "hun": "Környezet / Összefüggés",
-            "en": "Context"
+            "hun": "frissíthetőség",
+            "en": "upgradeability"
         },
         {
-            "hun": "Láthatóság / Betekintés",
-            "en": "Visibility"
+            "hun": "kognitív rádió technológia",
+            "en": "cognitive radio technology"
         },
         {
-            "hun": "Csomópont",
-            "en": "Node"
+            "hun": "átviteli berendezés (sugár)",
+            "en": "transceiver (beam)"
         },
         {
-            "hun": "Csomag",
-            "en": "Packet"
+            "hun": "perceptíven érzékel",
+            "en": "perceptively can catch"
         },
         {
-            "hun": "Keret",
-            "en": "Frame"
-        },
-        {
-            "hun": "Hálózati adathordozók",
-            "en": "Networking media"
-        },
-        {
-            "hun": "Vezeték nélküli jelek",
-            "en": "Wireless signals"
-        },
-        {
-            "hun": "Optikai kábel",
-            "en": "Fiber-optic cable"
-        },
-        {
-            "hun": "Csavart érpárú kábel",
-            "en": "Twisted-pair cable"
-        },
-        {
-            "hun": "Koaxiális kábel",
-            "en": "Coaxial cable"
-        },
-        {
-            "hun": "Analóg mobilhálózatok",
-            "en": "Analogue cellular systems"
-        },
-        {
-            "hun": "Digitális vezeték nélküli kommunikációs rendszerek",
-            "en": "Digital wireless communication systems"
-        },
-        {
-            "hun": "Ötödik generációs technológia (5G)",
-            "en": "Fifth Generation technology (5G)"
-        },
-        {
-            "hun": "Főbb jellemzők",
-            "en": "Salient features"
-        },
-        {
-            "hun": "Szupersebesség",
-            "en": "Super speed"
-        },
-        {
-            "hun": "Késleltetés",
-            "en": "Latency"
-        },
-        {
-            "hun": "Végponttól végpontig tartó oda-vissza út",
-            "en": "End-to-end round trip"
-        },
-        {
-            "hun": "Sávszélesség egységnyi területre vetítve",
-            "en": "Bandwidth per unit area"
-        },
-        {
-            "hun": "Világméretű lefedettség",
-            "en": "Worldwide coverage"
-        },
-        {
-            "hun": "Hálózati energiafelhasználás",
-            "en": "Network energy usage"
-        },
-        {
-            "hun": "Akkumulátor élettartam",
-            "en": "Battery life"
-        },
-        {
-            "hun": "Wi-Fi zóna",
-            "en": "Wi-Fi zone"
-        },
-        {
-            "hun": "Rádiócsatornák",
-            "en": "Radio channels"
-        },
-        {
-            "hun": "Összefüggő lefedettség",
-            "en": "Contiguous coverage"
-        },
-        {
-            "hun": "Egységes lefedettség",
-            "en": "Consistent coverage"
-        },
-        {
-            "hun": "Architektúra / Felépítés",
-            "en": "Architecture"
-        },
-        {
-            "hun": "Hálózati elemek",
-            "en": "Network elements"
-        },
-        {
-            "hun": "Végberendezések",
-            "en": "Terminals"
-        },
-        {
-            "hun": "Szolgáltatók",
-            "en": "Service providers"
-        },
-        {
-            "hun": "Hozzáadott értékű szolgáltatások",
-            "en": "Value-added services"
-        },
-        {
-            "hun": "Fejleszthetőség",
-            "en": "Upgradeability"
-        },
-        {
-            "hun": "Kognitív rádiótechnológia",
-            "en": "Cognitive radio technology"
-        },
-        {
-            "hun": "Földrajzi helyzet",
-            "en": "Geographical location"
-        },
-        {
-            "hun": "Adó-vevő (nyaláb)",
-            "en": "Transceiver (beam)"
-        },
-        {
-            "hun": "Megszakítás nélküli minőségi szolgáltatás",
-            "en": "Uninterrupted quality service"
-        },
-        {
-            "hun": "Rendszermodell",
-            "en": "System model"
+            "hun": "megszakítás nélküli minőségi szolgáltatás",
+            "en": "uninterrupted quality service"
         },
         {
             "hun": "IP alapú modell",
             "en": "IP based model"
         },
         {
-            "hun": "Rádiós hozzáférési technológiák",
-            "en": "Radio access technologies"
+            "hun": "autonóm rádió hozzáférési technológiák",
+            "en": "autonomous radio access technologies"
         },
         {
-            "hun": "IP kapcsolat",
+            "hun": "IP link",
             "en": "IP link"
         },
         {
-            "hun": "IP csomagok útválasztása",
-            "en": "Routing of IP packets"
+            "hun": "vezérlési adatok",
+            "en": "control data"
         },
         {
-            "hun": "Alkalmazáskapcsolatok",
-            "en": "Application connections"
+            "hun": "IP csomagok",
+            "en": "IP packets"
         },
         {
-            "hun": "Konvergencia pont",
-            "en": "Convergence point"
+            "hun": "alkalmazás kapcsolatok",
+            "en": "application connections"
         },
         {
-            "hun": "Mérhetetlen adatforgalom",
-            "en": "Immeasurable data broadcast"
+            "hun": "munkamenetek",
+            "en": "sessions"
         },
         {
-            "hun": "Mobil operációs rendszer",
-            "en": "Mobile operating system"
+            "hun": "konvergencia pont",
+            "en": "convergence point"
         },
         {
-            "hun": "Ultra nagy sebesség",
-            "en": "Ultra-high speed"
+            "hun": "párhuzamos multimódusú",
+            "en": "parallel multimode"
         },
         {
-            "hun": "Szélessávú internetkapcsolat",
-            "en": "Broadband internet connection"
+            "hun": "RAN és Különböző Hozzáférési Hálózatok (DAT)",
+            "en": "RAN and Different Access Networks (DAT)"
         },
         {
-            "hun": "Válaszidő",
-            "en": "Response time"
+            "hun": "világ kombinált szolgáltatási mód (WCSM)",
+            "en": "World Combination Service Mode (WCSM)"
         },
         {
-            "hun": "Szabályozó hatóságok",
-            "en": "Regulators"
+            "hun": "elképesztő és figyelemre méltó adatkapacitás",
+            "en": "incredible and remarkable data capabilities"
         },
         {
-            "hun": "Jó kormányzás",
-            "en": "Good governance"
+            "hun": "akadálytalan hívásmennyiség",
+            "en": "unhindered call volumes"
         },
         {
-            "hun": "Folyamatos befektetés",
-            "en": "Continuing investment"
+            "hun": "mérhetetlen adatátvitel",
+            "en": "immeasurable data broadcast"
         },
         {
-            "hun": "Megvalósítás / Bevezetés",
-            "en": "Implementation"
+            "hun": "legújabb mobil operációs rendszer",
+            "en": "latest mobile operating system"
         },
         {
-            "hun": "Származékok (nyelvtani)",
-            "en": "Derivatives"
+            "hun": "univerzális és megszakítás nélküli hozzáférés",
+            "en": "universal and uninterrupted access"
         },
         {
-            "hun": "Alátámaszt / Igazol",
-            "en": "Substantiate"
+            "hun": "következő mobil technológiai forradalom",
+            "en": "forthcoming revolution of mobile technology"
         },
         {
-            "hun": "Hálózati hardver",
-            "en": "Networking hardware"
+            "hun": "ultra-nagy sebességű",
+            "en": "ultra-high speed"
         },
         {
-            "hun": "Helyszíni adatközpontok",
-            "en": "On-premises data centers"
+            "hun": "innovatív funkciók széles választéka",
+            "en": "huge array of innovative features"
         },
         {
-            "hun": "IT felszerelés",
+            "hun": "szélessávú internet kapcsolat",
+            "en": "broadband internet connection"
+        },
+        {
+            "hun": "zéró késleltetés",
+            "en": "zero latency"
+        },
+        {
+            "hun": "gyorsabb válaszidő",
+            "en": "faster response time"
+        },
+        {
+            "hun": "jó kormányzás",
+            "en": "good governance"
+        },
+        {
+            "hun": "egészségesebb környezetek",
+            "en": "healthier environments"
+        },
+        {
+            "hun": "folyamatos befektetés",
+            "en": "continuing investment"
+        },
+        {
+            "hun": "előző innovációk",
+            "en": "past innovations"
+        },
+        {
+            "hun": "hálózati hardver",
+            "en": "networking hardware"
+        },
+        {
+            "hun": "helyszíni adatközpontok",
+            "en": "on-premises data centers"
+        },
+        {
+            "hun": "számítástechnika a felhőben",
+            "en": "computing is accomplished in the cloud"
+        },
+        {
+            "hun": "vállalati felhő tervek",
+            "en": "enterprise cloud plans"
+        },
+        {
+            "hun": "informatikai eszközök",
             "en": "IT gear"
         },
         {
-            "hun": "Hibrid IT modell",
-            "en": "Hybrid IT model"
+            "hun": "hibrid IT modell",
+            "en": "hybrid IT model"
         },
         {
-            "hun": "Értékcsökkenő berendezési költségek",
-            "en": "Depreciating equipment costs"
+            "hun": "adókódex változások",
+            "en": "tax law changes"
         },
         {
-            "hun": "Beruházási költség (CapEx)",
-            "en": "Capital expenditure (CapEx)"
+            "hun": "berendezések értékcsökkenése",
+            "en": "depreciating equipment costs"
         },
         {
-            "hun": "Működési költség (OpEx)",
-            "en": "Operating expenditure (OpEx)"
+            "hun": "gyenge dollár",
+            "en": "weak dollar"
         },
         {
-            "hun": "Fogyasztóorientált technológiai ciklusok",
-            "en": "Consumer-oriented tech cycles"
+            "hun": "alacsonyabb memóriaköltségek",
+            "en": "lower memory costs"
         },
         {
-            "hun": "Ipari innováció",
-            "en": "Industrial innovation"
+            "hun": "fogyasztói-orientált technológiai ciklusok",
+            "en": "consumer-oriented tech cycles"
         },
         {
-            "hun": "Dolgok Internete (IoT)",
+            "hun": "ipari innováció",
+            "en": "industrial innovation"
+        },
+        {
+            "hun": "dolgok internete (IoT)",
             "en": "Internet of Things (IoT)"
         },
         {
-            "hun": "Bonyolult folyamatok",
-            "en": "Intricate processes"
+            "hun": "egyre bonyolultabb folyamatok",
+            "en": "increasingly intricate processes"
         },
         {
-            "hun": "Együttműködők",
-            "en": "Collaborators"
+            "hun": "munkatársak",
+            "en": "collaborators"
         },
         {
-            "hun": "Szolgáltató",
-            "en": "Service provider"
+            "hun": "OSI referenciamodell",
+            "en": "OSI Reference Model"
         },
         {
-            "hun": "Protokollfüggetlen szabvány",
-            "en": "Protocol independent standard"
+            "hun": "TCP/IP referenciamodell",
+            "en": "TCP/IP Reference Model"
         },
         {
-            "hun": "Kommunikációs átjáró",
-            "en": "Communication gateway"
+            "hun": "protokollfüggetlen szabvány",
+            "en": "protocol independent standard"
         },
         {
-            "hun": "Szállítási réteg",
-            "en": "Transport layer"
+            "hun": "kommunikációs átjáró",
+            "en": "communication gateway"
         },
         {
-            "hun": "Csomagok kézbesítése",
-            "en": "Delivery of packets"
+            "hun": "szállítási réteg",
+            "en": "transport layer"
         },
         {
-            "hun": "Horizontális megközelítés",
-            "en": "Horizontal approach"
+            "hun": "csomagok kézbesítése",
+            "en": "delivery of packets"
         },
         {
-            "hun": "Megjelenítési réteg",
-            "en": "Presentation layer"
+            "hun": "vízszintes megközelítés",
+            "en": "horizontal approach"
         },
         {
-            "hun": "Munkamenet réteg",
+            "hun": "külön bemutató réteg",
+            "en": "separate Presentation layer"
+        },
+        {
+            "hun": "munkamenet réteg",
             "en": "Session layer"
         },
         {
-            "hun": "Kapcsolatorientált",
-            "en": "Connection oriented"
+            "hun": "implementáció",
+            "en": "implementation"
         },
         {
-            "hun": "Kapcsolat nélküli szolgáltatás",
-            "en": "Connectionless service"
+            "hun": "hálózati réteg",
+            "en": "Network layer"
         },
         {
-            "hun": "Rejtett protokollok",
-            "en": "Hidden protocols"
+            "hun": "kapcsolat alapú szolgáltatás",
+            "en": "connection oriented service"
         },
         {
-            "hun": "Könnyen cserélhető",
-            "en": "Easily replaced"
+            "hun": "kapcsolat nélküli szolgáltatás",
+            "en": "connectionless service"
         },
         {
-            "hun": "Interfészek",
-            "en": "Interfaces"
+            "hun": "protokollok rejtve vannak",
+            "en": "Protocols are hidden"
         },
         {
-            "hun": "Világos különbségtétel",
-            "en": "Clear distinction"
+            "hun": "szolgáltatásokat, interfészeket és protokollokat",
+            "en": "services, interfaces and protocols"
         },
         {
-            "hun": "Potenciális veszélyek",
-            "en": "Potential dangers"
+            "hun": "potenciális veszélyei",
+            "en": "potential dangers"
         },
         {
-            "hun": "Vezeték nélküli eszközök interferenciája",
+            "hun": "zavarok a vezeték nélküli eszközökkel",
             "en": "Interference with wireless devices"
         },
         {
-            "hun": "Engedély nélküli rádiófrekvenciák",
-            "en": "Unlicensed radio frequencies"
+            "hun": "engedély nélküli rádiófrekvenciák",
+            "en": "unlicensed radio frequencies"
         },
         {
-            "hun": "Gyártók",
-            "en": "Manufacturers"
+            "hun": "szabályozatlan rádióhullámok",
+            "en": "unregulated airwaves"
         },
         {
-            "hun": "Szabályozott rádióhullámok",
-            "en": "Regulated airwaves"
+            "hun": "fájlok és egyéb erőforrások megosztása",
+            "en": "sharing files and other resources"
         },
         {
-            "hun": "Megoldás",
-            "en": "Solution"
+            "hun": "legálisan cserélt tartalom",
+            "en": "legally exchanged via"
         },
         {
-            "hun": "Felelős",
-            "en": "Responsible"
+            "hun": "illegálisan cserélt tartalom",
+            "en": "exchanged illegally"
         },
         {
-            "hun": "Előnyök",
-            "en": "Pros"
+            "hun": "szabályozott",
+            "en": "regulated"
         },
         {
-            "hun": "Hátrányok",
-            "en": "Cons"
+            "hun": "legális tevékenységek",
+            "en": "legal activities"
         },
         {
-            "hun": "Jelentős alkalmazások",
-            "en": "Significant applications"
+            "hun": "legitim használat",
+            "en": "legitimate use"
         },
         {
-            "hun": "Világméretű hatás",
-            "en": "Worldwide impact"
+            "hun": "felelős",
+            "en": "responsible"
         },
         {
-            "hun": "Veszélyes",
-            "en": "Dangerous"
+            "hun": "jövőbeni fejlesztés",
+            "en": "Future Development"
         },
         {
-            "hun": "Előny",
-            "en": "Advantage"
+            "hun": "előnyök és hátrányok",
+            "en": "Advantages and Disadvantages"
         },
         {
-            "hun": "Hátrány",
-            "en": "Disadvantage"
+            "hun": "világméretű hatás",
+            "en": "worldwide impact"
         },
         {
-            "hun": "Használ / Kihasznál",
-            "en": "Utilize"
+            "hun": "hálózati média",
+            "en": "networking media"
         },
         {
-            "hun": "Bonyolultság",
-            "en": "Complexity"
+            "hun": "vezeték nélküli jelek",
+            "en": "wireless signals"
         },
         {
-            "hun": "Kezelés / Irányítás",
-            "en": "Managing"
+            "hun": "roham",
+            "en": "flurry"
         },
         {
-            "hun": "Karbantartás",
-            "en": "Maintaining"
+            "hun": "hálózati menedzsment platform",
+            "en": "network management platform"
         },
         {
-            "hun": "Konfigurálás",
-            "en": "Configuring"
+            "hun": "beállítja",
+            "en": "configures"
         },
         {
-            "hun": "Ellenőrzés / Vezérlés",
-            "en": "Control"
+            "hun": "diktálja a szándékot",
+            "en": "dictate their intent"
         },
         {
-            "hun": "Nem szabályozott / Szabályozatlan",
-            "en": "Unregulated"
+            "hun": "végrehajtja",
+            "en": "executes"
         },
         {
-            "hun": "Úttörők",
-            "en": "Pioneers"
+            "hun": "képes felismerni",
+            "en": "recognizes"
         },
         {
-            "hun": "Analitika / Elemzés",
-            "en": "Analytics"
+            "hun": "biztosítja",
+            "en": "ensures"
         },
         {
-            "hun": "Forradalmi",
-            "en": "Revolutionary"
+            "hun": "manipulálja",
+            "en": "manipulates"
         },
         {
-            "hun": "Jellemzők",
-            "en": "Features"
+            "hun": "gyűjti az adatokat",
+            "en": "gathering of data"
         },
         {
-            "hun": "Sebesség",
-            "en": "Speed"
+            "hun": "alkalmazkodik a változásokhoz",
+            "en": "adapts to changes"
         },
         {
-            "hun": "Használat / Felhasználás",
-            "en": "Usage"
+            "hun": "fenntartja a kívánt állapotot",
+            "en": "maintain the desired state"
         },
         {
-            "hun": "Hibrid",
-            "en": "Hybrid"
+            "hun": "beveszi, megemészti",
+            "en": "ingests"
         },
         {
-            "hun": "Költségek",
-            "en": "Costs"
+            "hun": "felszabadítja",
+            "en": "frees up"
         },
         {
-            "hun": "Ipari",
-            "en": "Industrial"
+            "hun": "visszaesik",
+            "en": "fairing"
         },
         {
-            "hun": "Élettartam (akkumulátor élettartam)",
-            "en": "Life (battery life)"
+            "hun": "gyűjtött",
+            "en": "garnered"
         },
         {
-            "hun": "Csatornák",
-            "en": "Channels"
+            "hun": "terjedelem, szakasz",
+            "en": "stretch"
         },
         {
-            "hun": "Meglévő",
-            "en": "Existing"
+            "hun": "ugrott",
+            "en": "leaped"
         },
         {
-            "hun": "Mobil",
-            "en": "Mobile"
+            "hun": "átalakítja",
+            "en": "transforming"
         },
         {
-            "hun": "Szélessávú",
-            "en": "Broadband"
+            "hun": "hagyományos módok",
+            "en": "modern ways"
         },
         {
-            "hun": "Válasz / Reakció",
-            "en": "Response"
+            "hun": "gyorsabban és olcsóbban",
+            "en": "faster and cheaper"
         },
         {
-            "hun": "Kormányzás / Irányítás",
-            "en": "Governance"
+            "hun": "veszélyei",
+            "en": "perils"
         },
         {
-            "hun": "Befektetés",
-            "en": "Investment"
+            "hun": "rázza fel a piacokat",
+            "en": "shake up our markets"
+        },
+        {
+            "hun": "kihasználja a hálózatokat",
+            "en": "utilize networks"
+        },
+        {
+            "hun": "alkalmazások",
+            "en": "applications"
+        },
+        {
+            "hun": "folyamatosan",
+            "en": "consistently"
+        },
+        {
+            "hun": "érvényesít",
+            "en": "enforce"
+        },
+        {
+            "hun": "potenciális",
+            "en": "potential"
+        },
+        {
+            "hun": "érvényesül",
+            "en": "permeate"
+        },
+        {
+            "hun": "felgyorsult",
+            "en": "ramping"
+        },
+        {
+            "hun": "kritikus",
+            "en": "crux"
+        },
+        {
+            "hun": "adattároló infrastruktúra",
+            "en": "data-center infrastructure"
+        },
+        {
+            "hun": "fenyegetés információ",
+            "en": "threat information"
+        },
+        {
+            "hun": "dinamikusan véd",
+            "en": "dynamically defend"
+        },
+        {
+            "hun": "kritikus problémák előtt jár",
+            "en": "stay ahead of critical issues"
+        },
+        {
+            "hun": "hálózati architektúra",
+            "en": "entire architecture"
+        },
+        {
+            "hun": "fokozott növekedés",
+            "en": "strong growth"
+        },
+        {
+            "hun": "vezeték nélküli növekedés",
+            "en": "wireless growth"
+        },
+        {
+            "hun": "két számjegyű növekedés",
+            "en": "double digits"
+        },
+        {
+            "hun": "vállalati routerek",
+            "en": "enterprise routing"
+        },
+        {
+            "hun": "integráció",
+            "en": "integration"
+        },
+        {
+            "hun": "fejlett szoftver előfizetés",
+            "en": "advanced software subscription"
+        },
+        {
+            "hun": "biztosítás",
+            "en": "assurance"
+        },
+        {
+            "hun": "dekódolás",
+            "en": "decrypting"
+        },
+        {
+            "hun": "malware",
+            "en": "malware"
+        },
+        {
+            "hun": "titkosított forgalom",
+            "en": "encrypted traffic"
+        },
+        {
+            "hun": "kontextus",
+            "en": "context"
+        },
+        {
+            "hun": "hálózati biztosítási motor",
+            "en": "Network Assurance engine"
+        },
+        {
+            "hun": "API struktúrák",
+            "en": "API structures"
+        },
+        {
+            "hun": "programozhatóság",
+            "en": "programmability"
+        },
+        {
+            "hun": "elemzési képességek",
+            "en": "analytics capabilities"
+        },
+        {
+            "hun": "hálózatról",
+            "en": "out of the network"
+        },
+        {
+            "hun": "létrehozza a kívánt állapotot",
+            "en": "create the desired state"
+        },
+        {
+            "hun": "erősítés",
+            "en": "fortification"
+        },
+        {
+            "hun": "érvényesít",
+            "en": "validate"
+        },
+        {
+            "hun": "személyes alkalmazások",
+            "en": "personal applications"
+        },
+        {
+            "hun": "átalakult",
+            "en": "transformed"
+        },
+        {
+            "hun": "orvosok",
+            "en": "physicians"
+        },
+        {
+            "hun": "előnyök",
+            "en": "advantages"
+        },
+        {
+            "hun": "definiálja a hálózatot",
+            "en": "define a computer network"
+        },
+        {
+            "hun": "nagyot szólt",
+            "en": "made a big splash"
+        },
+        {
+            "hun": "következő evolúció",
+            "en": "next evolution"
+        },
+        {
+            "hun": "csökkenti a komplexitást",
+            "en": "reduce the complexity"
+        },
+        {
+            "hun": "karbantartja",
+            "en": "maintaining"
+        },
+        {
+            "hun": "összetett folyamat",
+            "en": "complex process"
+        },
+        {
+            "hun": "hálózatkezelés",
+            "en": "managing networks"
+        },
+        {
+            "hun": "nem skálázódik jól",
+            "en": "does not scale very well"
+        },
+        {
+            "hun": "automatikusan implementálja",
+            "en": "automatically implements it"
+        },
+        {
+            "hun": "hálózati rendszer",
+            "en": "networking system"
+        },
+        {
+            "hun": "kölcsönhatásba léphet",
+            "en": "interact with"
+        },
+        {
+            "hun": "négy összetevőből áll",
+            "en": "having four components"
+        },
+        {
+            "hun": "kulcsfontosságú alapelvek",
+            "en": "key tenets"
+        },
+        {
+            "hun": "képes lefordítani",
+            "en": "ability to translate"
+        },
+        {
+            "hun": "magas szintű üzleti házirend",
+            "en": "high-level business policy"
+        },
+        {
+            "hun": "ellenőrzi, hogy végrehajtható-e",
+            "en": "verifies that the policy can be executed"
+        },
+        {
+            "hun": "kívánt állapotot hoz létre",
+            "en": "create the desired state"
+        },
+        {
+            "hun": "fenntartja a kívánt állapotot",
+            "en": "maintain the desired state"
+        },
+        {
+            "hun": "dióhéjban",
+            "en": "in a nutshell"
+        },
+        {
+            "hun": "ígéretesek",
+            "en": "are promising"
+        },
+        {
+            "hun": "incidensre adott válasz",
+            "en": "incident response"
+        },
+        {
+            "hun": "bevezette",
+            "en": "launched"
+        },
+        {
+            "hun": "beágyazott",
+            "en": "embedded"
+        },
+        {
+            "hun": "teljes portfólió",
+            "en": "entire portfolio"
+        },
+        {
+            "hun": "elosztott",
+            "en": "distributed"
+        },
+        {
+            "hun": "kibernetikai biztonság",
+            "en": "cybersecurity"
+        },
+        {
+            "hun": "biztosítani",
+            "en": "ensure"
+        },
+        {
+            "hun": "fejlődik",
+            "en": "evolving"
+        },
+        {
+            "hun": "terjedelem",
+            "en": "scope"
+        },
+        {
+            "hun": "összehasonlítás",
+            "en": "comparison"
+        },
+        {
+            "hun": "hálózati szegmens",
+            "en": "network segment"
+        },
+        {
+            "hun": "nyomon követés",
+            "en": "monitoring"
+        },
+        {
+            "hun": "észlelése",
+            "en": "detection"
+        },
+        {
+            "hun": "folyamatos felügyelet",
+            "en": "constant monitoring"
+        },
+        {
+            "hun": "megelőző",
+            "en": "proactive"
+        },
+        {
+            "hun": "helyreállító",
+            "en": "remediative"
+        },
+        {
+            "hun": "teljesítmény optimalizálása",
+            "en": "optimizing performance"
+        },
+        {
+            "hun": "hibaforrás",
+            "en": "source of errors"
+        },
+        {
+            "hun": "hálózati felügyeleti szoftver",
+            "en": "network monitoring software"
+        },
+        {
+            "hun": "konfigurációs menedzsment",
+            "en": "configuration management"
+        },
+        {
+            "hun": "telepítés",
+            "en": "deployment"
+        },
+        {
+            "hun": "összefoglalva",
+            "en": "in a nutshell"
+        },
+        {
+            "hun": "meggyőzi a vezetőket",
+            "en": "convince managers"
+        },
+        {
+            "hun": "igazolja",
+            "en": "justify"
+        },
+        {
+            "hun": "teleegészségügyi stratégia",
+            "en": "telehealth strategy"
+        },
+        {
+            "hun": "úttörő trend",
+            "en": "newest trend"
+        },
+        {
+            "hun": "peer-to-peer hálózatépítés",
+            "en": "peer-to-peer networking"
+        },
+        {
+            "hun": "fájlok megosztása",
+            "en": "sharing files"
+        },
+        {
+            "hun": "szabályozott",
+            "en": "regulated"
+        },
+        {
+            "hun": "üzleti alkalmazások",
+            "en": "business applications"
+        },
+        {
+            "hun": "személyes alkalmazások",
+            "en": "personal applications"
         }
     ]
 }

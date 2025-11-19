@@ -145,8 +145,8 @@
             "en": "flurry of actions"
         },
         {
-            "hun": "elkerülni",
-            "en": "shunning"
+            "hun": "elkerülni, elkerül",
+            "en": "shun"
         },
         {
             "hun": "alapozó évek",
@@ -987,6 +987,262 @@
         {
             "hun": "személyes alkalmazások",
             "en": "personal applications"
+        },
+        {
+            "hun": "rejtélyes",
+            "en": "enigmatic"
+        },
+        {
+            "hun": "zenével kapcsolatos",
+            "en": "music related"
+        },
+        {
+            "hun": "előzmény cégek",
+            "en": "predecessor companies"
+        },
+        {
+            "hun": "egyesített ernyő alatt",
+            "en": "combined umbrella"
+        },
+        {
+            "hun": "függőlegesen",
+            "en": "vertically"
+        },
+        {
+            "hun": "megkülönböztetés",
+            "en": "distinction"
+        },
+        {
+            "hun": "érintésmentes technológia",
+            "en": "contactless technology"
+        },
+        {
+            "hun": "feladatok",
+            "en": "tasks"
+        },
+        {
+            "hun": "adatközpontok",
+            "en": "data centers"
+        },
+        {
+            "hun": "szolgáltatók",
+            "en": "providers"
+        },
+        {
+            "hun": "végponttól végpontig",
+            "en": "end-to-end"
+        },
+        {
+            "hun": "átfogó lefedettség",
+            "en": "global coverage"
+        },
+        {
+            "hun": "alapvető",
+            "en": "fundamental"
+        },
+        {
+            "hun": "átalakítja az iparágat",
+            "en": "transforming an industry"
+        },
+        {
+            "hun": "teljesítmény",
+            "en": "performance"
+        },
+        {
+            "hun": "konfigurálás",
+            "en": "configuring"
+        },
+        {
+            "hun": "kiépítés",
+            "en": "provisioning"
+        },
+        {
+            "hun": "betekintés",
+            "en": "insights"
+        },
+        {
+            "hun": "láthatóság",
+            "en": "visibility"
+        },
+        {
+            "hun": "felhő alapú szolgáltatások",
+            "en": "cloud services"
+        },
+        {
+            "hun": "hálózatépítés",
+            "en": "networking"
+        },
+        {
+            "hun": "átviteli sebesség",
+            "en": "transmission speed"
+        },
+        {
+            "hun": "kiterjedt",
+            "en": "extensive"
+        },
+        {
+            "hun": "hatékony",
+            "en": "efficient"
+        },
+        {
+            "hun": "megbízható",
+            "en": "reliable"
+        },
+        {
+            "hun": "méretezhető",
+            "en": "scalable"
+        },
+        {
+            "hun": "sávszélesség",
+            "en": "bandwidth"
+        },
+        {
+            "hun": "router",
+            "en": "router"
+        },
+        {
+            "hun": "kapcsoló",
+            "en": "switch"
+        },
+        {
+            "hun": "hozzáférési pont",
+            "en": "access point"
+        },
+        {
+            "hun": "modem",
+            "en": "modem"
+        },
+        {
+            "hun": "hálózati kártya",
+            "en": "network interface card"
+        },
+        {
+            "hun": "elosztó",
+            "en": "hub"
+        },
+        {
+            "hun": "ismétlő",
+            "en": "repeater"
+        },
+        {
+            "hun": "híd",
+            "en": "bridge"
+        },
+        {
+            "hun": "átjáró",
+            "en": "gateway"
+        },
+        {
+            "hun": "tartós",
+            "en": "consistent"
+        },
+        {
+            "hun": "megvalósíthatóság",
+            "en": "feasibility"
+        },
+        {
+            "hun": "érzékletesen",
+            "en": "perceptively"
+        },
+        {
+            "hun": "frissítés",
+            "en": "upgrade"
+        },
+        {
+            "hun": "elérhető",
+            "en": "avail"
+        },
+        {
+            "hun": "elégséges",
+            "en": "sufficient"
+        },
+        {
+            "hun": "telepítés",
+            "en": "deployment"
+        },
+        {
+            "hun": "alátámasztani",
+            "en": "substantiate"
+        },
+        {
+            "hun": "értelmesen",
+            "en": "meaningfully"
+        },
+        {
+            "hun": "mérhetetlen",
+            "en": "immeasurable"
+        },
+        {
+            "hun": "nyilvánosságot kap",
+            "en": "make a splash"
+        },
+        {
+            "hun": "szervezni",
+            "en": "orchestrate"
+        },
+        {
+            "hun": "gyűjteni",
+            "en": "garner"
+        },
+        {
+            "hun": "elfogadni",
+            "en": "embrace"
+        },
+        {
+            "hun": "számítástechnika",
+            "en": "computing"
+        },
+        {
+            "hun": "ingadozó, bizonytalan",
+            "en": "vague"
+        },
+        {
+            "hun": "elhagy",
+            "en": "abandoning"
+        },
+        {
+            "hun": "iparág",
+            "en": "industry"
+        },
+        {
+            "hun": "változékony",
+            "en": "changeable"
+        },
+        {
+            "hun": "növekedés",
+            "en": "rise"
+        },
+        {
+            "hun": "csökkenés",
+            "en": "decrease"
+        },
+        {
+            "hun": "elérhető",
+            "en": "available"
+        },
+        {
+            "hun": "érdekes módon",
+            "en": "interestingly"
+        },
+        {
+            "hun": "fontos",
+            "en": "important"
+        },
+        {
+            "hun": "iparos",
+            "en": "innovator"
+        },
+        {
+            "hun": "egyre inkább",
+            "en": "increasingly"
+        },
+        {
+            "hun": "növekvő",
+            "en": "increasing"
+        },
+        {
+            "hun": "fokozott",
+            "en": "increased"
         }
     ]
 }

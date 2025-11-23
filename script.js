@@ -25,6 +25,10 @@ let r2 = 0;
 let r3 = 0;
 let r4 = 0;
 
+// sounds
+const good_answer = new Audio("good_answer.mp3");
+const bad_answer = new Audio("bad_answer.mp3");
+
 async function loadWords() { // ChatGPT supported this function, cause I don't really know JSON
     try {
         const response = await fetch("UnitOfWords.json");
@@ -75,8 +79,9 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
 function check_a(answer){
     if (answer == a)
     {
+        good_answer.play();
         loadWords();
-    }
+    } else {bad_answer.play();}
 }
 
 document.addEventListener("DOMContentLoaded",() => {

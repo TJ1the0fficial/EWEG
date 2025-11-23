@@ -1,1248 +1,628 @@
 {
     "EnglishWords": [
         {
-            "hun": "hálózati protokollok",
-            "en": "networking protocols"
+            "hun": "hirtelen, váratlan",
+            "en": "abrupt"
         },
         {
-            "hun": "videokonferencia",
-            "en": "videoconferencing"
+            "hun": "hozzászokik valamihez",
+            "en": "adjust"
         },
         {
-            "hun": "távmunka",
-            "en": "telecommuting"
+            "hun": "homályos, elmosódott",
+            "en": "blur"
         },
         {
-            "hun": "távsebészet",
-            "en": "telesurgery"
+            "hun": "fékez",
+            "en": "brake"
         },
         {
-            "hun": "szándék alapú hálózatépítés",
-            "en": "Intent-based networking"
+            "hun": "nem bírja elviselni",
+            "en": "can’t bear"
         },
         {
-            "hun": "hálózati szoftvermenedzsment",
-            "en": "network software management"
+            "hun": "festővászon",
+            "en": "canvas"
         },
         {
-            "hun": "gépi tanulás",
-            "en": "machine learning"
+            "hun": "színvak",
+            "en": "colour-blind"
         },
         {
-            "hun": "fejlett orkesztráció",
-            "en": "advanced orchestration"
+            "hun": "színvakság",
+            "en": "colour-blindness"
         },
         {
-            "hun": "hálózati házirendek",
-            "en": "network policies"
+            "hun": "elégedett",
+            "en": "content"
         },
         {
-            "hun": "hálózati rendszergazdák",
-            "en": "network administrators"
+            "hun": "képtelenség, nem képes valamire",
+            "en": "disability"
         },
         {
-            "hun": "hálózati berendezések",
-            "en": "network equipment"
+            "hun": "arany",
+            "en": "golden"
         },
         {
-            "hun": "felhasználói hozzáférés kiépítése",
-            "en": "provisioning user access"
+            "hun": "szürkés",
+            "en": "greyish"
         },
         {
-            "hun": "parancssori felületek",
-            "en": "command line interfaces"
+            "hun": "odaad, átad",
+            "en": "hand"
         },
         {
-            "hun": "hálózati hardver",
-            "en": "network hardware"
+            "hun": "vegyes érzései vannak",
+            "en": "have mixed feelings"
         },
         {
-            "hun": "tűzfal",
-            "en": "firewall"
+            "hun": "közömbös",
+            "en": "indifferent"
         },
         {
-            "hun": "WAN kapcsolat",
-            "en": "WAN link"
+            "hun": "heves, intenzív",
+            "en": "intense"
         },
         {
-            "hun": "érzékeny betegadatok",
-            "en": "sensitive patient data"
+            "hun": "bíró",
+            "en": "judge"
         },
         {
-            "hun": "hozzáférési házirend",
-            "en": "access policy"
+            "hun": "elveszíti a türelmét",
+            "en": "lose one’s patience"
         },
         {
-            "hun": "fordítás és validálás",
-            "en": "Translation and validation"
+            "hun": "eredetiség",
+            "en": "originality"
         },
         {
-            "hun": "alapelv",
-            "en": "tenet"
+            "hun": "azon kívül",
+            "en": "other than that"
         },
         {
-            "hun": "üzleti irányelv",
-            "en": "business policy"
+            "hun": "derült égből (váratlanul)",
+            "en": "out of the blue"
         },
         {
-            "hun": "automatizált megvalósítás",
-            "en": "Automated implementation"
+            "hun": "eredmény, kimenetel",
+            "en": "outcome"
         },
         {
-            "hun": "hálózati erőforrások",
-            "en": "network resources"
+            "hun": "felfogás, észlelés",
+            "en": "perception"
         },
         {
-            "hun": "állapot tudatosság",
-            "en": "Awareness of state"
+            "hun": "igyekszik rávenni valakit valamire",
+            "en": "plead"
         },
         {
-            "hun": "dinamikus optimalizálás és javítás",
-            "en": "Dynamic optimization and remediation"
+            "hun": "pontosan",
+            "en": "precisely"
         },
         {
-            "hun": "biztonsági vonatkozások",
-            "en": "security implications"
+            "hun": "tartomány",
+            "en": "range"
         },
         {
-            "hun": "incidensre adott válasz",
-            "en": "incident response"
+            "hun": "valóság",
+            "en": "reality"
         },
         {
-            "hun": "kiaknázatlan piac",
-            "en": "untapped market"
+            "hun": "visszaemlékszik",
+            "en": "recall"
         },
         {
-            "hun": "úttörők",
-            "en": "pioneers"
+            "hun": "meggyógyul, felépül",
+            "en": "recover"
         },
         {
-            "hun": "intuitív hálózat",
-            "en": "intuitive network"
+            "hun": "utalás",
+            "en": "reference"
         },
         {
-            "hun": "média figyelmet kapott",
-            "en": "garnered quite a bit of media attention"
+            "hun": "visszanyer, visszaszerez",
+            "en": "regain"
         },
         {
-            "hun": "autonóm vagy intelligens",
-            "en": "autonomous or intelligent"
+            "hun": "vonakodó, kelletlen",
+            "en": "reluctant"
         },
         {
-            "hun": "mesterséges intelligencia",
-            "en": "artificial intelligence"
+            "hun": "folytat",
+            "en": "resume"
         },
         {
-            "hun": "adat elemzés",
-            "en": "data analytics"
+            "hun": "elmozdul, visszaváltozik",
+            "en": "shift"
         },
         {
-            "hun": "automatizálás",
-            "en": "automation"
+            "hun": "elrak, elpakol",
+            "en": "store (away)"
         },
         {
-            "hun": "cselekedetek sodra",
-            "en": "flurry of actions"
+            "hun": "döbbent",
+            "en": "stunned"
         },
         {
-            "hun": "elkerülni, elkerül",
-            "en": "shun"
+            "hun": "taktika",
+            "en": "tactic"
         },
         {
-            "hun": "alapozó évek",
-            "en": "formative years"
+            "hun": "nem hajlandó",
+            "en": "unwilling"
         },
         {
-            "hun": "költségcsökkentés",
-            "en": "cut cost"
+            "hun": "látás, nézőpont, elképzelés",
+            "en": "vision"
         },
         {
-            "hun": "digitális hálózatok",
-            "en": "digital networks"
+            "hun": "tartozása van",
+            "en": "be in debt"
         },
         {
-            "hun": "divatszó",
-            "en": "buzzword-du-jour"
+            "hun": "polgármester",
+            "en": "mayor"
         },
         {
-            "hun": "hálózati médiák",
-            "en": "networking media"
+            "hun": "elmesél",
+            "en": "narrate"
         },
         {
-            "hun": "vezeték nélküli jelek",
-            "en": "wireless signals"
+            "hun": "elvesz valamit",
+            "en": "take sth away"
         },
         {
-            "hun": "optikai szálas",
-            "en": "fiber-optic"
+            "hun": "városháza",
+            "en": "town hall"
         },
         {
-            "hun": "csavart érpárú",
-            "en": "twisted-pair"
+            "hun": "tapéta",
+            "en": "wallpaper"
         },
         {
-            "hun": "koaxiális kábel",
-            "en": "coaxial cable"
+            "hun": "van pénze, pozitív az egyenlege",
+            "en": "be in the black"
         },
         {
-            "hun": "vezeték nélküli hálózatépítés (Wi-Fi)",
-            "en": "Wireless Networking (Wi-Fi)"
+            "hun": "tartozása, pénzügyi nehézsége van",
+            "en": "be in the red"
         },
         {
-            "hun": "rádió technológiák",
-            "en": "Radio technologies"
+            "hun": "nagyon boldog",
+            "en": "be tickled pink"
         },
         {
-            "hun": "analóg celluláris rendszerek",
-            "en": "analogue cellular systems"
+            "hun": "tetten ér valakit",
+            "en": "catch sb red-handed"
         },
         {
-            "hun": "digitális vezeték nélküli kommunikációs rendszerek",
-            "en": "digital wireless communication systems"
+            "hun": "zöld utat ad, engedélyez",
+            "en": "give the green light"
         },
         {
-            "hun": "kiugró jellemzők",
-            "en": "salient features"
+            "hun": "sárgul az irigységtől",
+            "en": "green with envy"
         },
         {
-            "hun": "mindennapi élet",
-            "en": "mundane life"
+            "hun": "szomorú, rosszkedvű",
+            "en": "have the blues"
         },
         {
-            "hun": "szupersebesség",
-            "en": "super speed"
+            "hun": "majd ha piros hó esik (nagyon ritkán)",
+            "en": "once in a blue moon"
         },
         {
-            "hun": "késleltetés",
-            "en": "latency"
+            "hun": "kitűnő eredménnyel vizsgázik",
+            "en": "pass with flying colours"
         },
         {
-            "hun": "sávszélesség egységnyi területenként",
-            "en": "bandwidth per unit area"
+            "hun": "dühös",
+            "en": "see red"
         },
         {
-            "hun": "hálózati energiafelhasználás csökkentése",
-            "en": "reduction in network energy usage"
+            "hun": "újraépít",
+            "en": "rebuild"
         },
         {
-            "hun": "folyamatos és egyenletes lefedettség",
-            "en": "contiguous and consistent coverage"
+            "hun": "újra átgondol",
+            "en": "reconsider"
         },
         {
-            "hun": "szélesebb területű mobilitás",
-            "en": "wider area mobility"
+            "hun": "elbeszél, elmond",
+            "en": "recount"
         },
         {
-            "hun": "hálózati elemek",
-            "en": "network elements"
+            "hun": "újradekorál",
+            "en": "redecorate"
         },
         {
-            "hun": "terminálok",
-            "en": "terminals"
+            "hun": "elmozdít, átrak",
+            "en": "remove"
         },
         {
-            "hun": "értéknövelt szolgáltatások",
-            "en": "value-added services"
+            "hun": "újratervez",
+            "en": "reschedule"
         },
         {
-            "hun": "frissíthetőség",
-            "en": "upgradeability"
+            "hun": "kutat",
+            "en": "research"
         },
         {
-            "hun": "kognitív rádió technológia",
-            "en": "cognitive radio technology"
+            "hun": "helyreállít",
+            "en": "restore"
         },
         {
-            "hun": "átviteli berendezés (sugár)",
-            "en": "transceiver (beam)"
+            "hun": "újra elmond",
+            "en": "retell"
         },
         {
-            "hun": "perceptíven érzékel",
-            "en": "perceptively can catch"
+            "hun": "újraír",
+            "en": "rewrite"
         },
         {
-            "hun": "megszakítás nélküli minőségi szolgáltatás",
-            "en": "uninterrupted quality service"
-        },
-        {
-            "hun": "IP alapú modell",
-            "en": "IP based model"
-        },
-        {
-            "hun": "autonóm rádió hozzáférési technológiák",
-            "en": "autonomous radio access technologies"
-        },
-        {
-            "hun": "IP link",
-            "en": "IP link"
-        },
-        {
-            "hun": "vezérlési adatok",
-            "en": "control data"
-        },
-        {
-            "hun": "IP csomagok",
-            "en": "IP packets"
-        },
-        {
-            "hun": "alkalmazás kapcsolatok",
-            "en": "application connections"
-        },
-        {
-            "hun": "munkamenetek",
-            "en": "sessions"
-        },
-        {
-            "hun": "konvergencia pont",
-            "en": "convergence point"
-        },
-        {
-            "hun": "párhuzamos multimódusú",
-            "en": "parallel multimode"
-        },
-        {
-            "hun": "RAN és Különböző Hozzáférési Hálózatok (DAT)",
-            "en": "RAN and Different Access Networks (DAT)"
-        },
-        {
-            "hun": "világ kombinált szolgáltatási mód (WCSM)",
-            "en": "World Combination Service Mode (WCSM)"
-        },
-        {
-            "hun": "elképesztő és figyelemre méltó adatkapacitás",
-            "en": "incredible and remarkable data capabilities"
-        },
-        {
-            "hun": "akadálytalan hívásmennyiség",
-            "en": "unhindered call volumes"
-        },
-        {
-            "hun": "mérhetetlen adatátvitel",
-            "en": "immeasurable data broadcast"
-        },
-        {
-            "hun": "legújabb mobil operációs rendszer",
-            "en": "latest mobile operating system"
-        },
-        {
-            "hun": "univerzális és megszakítás nélküli hozzáférés",
-            "en": "universal and uninterrupted access"
-        },
-        {
-            "hun": "következő mobil technológiai forradalom",
-            "en": "forthcoming revolution of mobile technology"
-        },
-        {
-            "hun": "ultra-nagy sebességű",
-            "en": "ultra-high speed"
-        },
-        {
-            "hun": "innovatív funkciók széles választéka",
-            "en": "huge array of innovative features"
-        },
-        {
-            "hun": "szélessávú internet kapcsolat",
-            "en": "broadband internet connection"
-        },
-        {
-            "hun": "zéró késleltetés",
-            "en": "zero latency"
-        },
-        {
-            "hun": "gyorsabb válaszidő",
-            "en": "faster response time"
-        },
-        {
-            "hun": "jó kormányzás",
-            "en": "good governance"
-        },
-        {
-            "hun": "egészségesebb környezetek",
-            "en": "healthier environments"
-        },
-        {
-            "hun": "folyamatos befektetés",
-            "en": "continuing investment"
-        },
-        {
-            "hun": "előző innovációk",
-            "en": "past innovations"
-        },
-        {
-            "hun": "hálózati hardver",
-            "en": "networking hardware"
-        },
-        {
-            "hun": "helyszíni adatközpontok",
-            "en": "on-premises data centers"
-        },
-        {
-            "hun": "számítástechnika a felhőben",
-            "en": "computing is accomplished in the cloud"
-        },
-        {
-            "hun": "vállalati felhő tervek",
-            "en": "enterprise cloud plans"
-        },
-        {
-            "hun": "informatikai eszközök",
-            "en": "IT gear"
-        },
-        {
-            "hun": "hibrid IT modell",
-            "en": "hybrid IT model"
-        },
-        {
-            "hun": "adókódex változások",
-            "en": "tax law changes"
-        },
-        {
-            "hun": "berendezések értékcsökkenése",
-            "en": "depreciating equipment costs"
-        },
-        {
-            "hun": "gyenge dollár",
-            "en": "weak dollar"
-        },
-        {
-            "hun": "alacsonyabb memóriaköltségek",
-            "en": "lower memory costs"
-        },
-        {
-            "hun": "fogyasztói-orientált technológiai ciklusok",
-            "en": "consumer-oriented tech cycles"
-        },
-        {
-            "hun": "ipari innováció",
-            "en": "industrial innovation"
-        },
-        {
-            "hun": "dolgok internete (IoT)",
-            "en": "Internet of Things (IoT)"
-        },
-        {
-            "hun": "egyre bonyolultabb folyamatok",
-            "en": "increasingly intricate processes"
-        },
-        {
-            "hun": "munkatársak",
-            "en": "collaborators"
-        },
-        {
-            "hun": "OSI referenciamodell",
-            "en": "OSI Reference Model"
-        },
-        {
-            "hun": "TCP/IP referenciamodell",
-            "en": "TCP/IP Reference Model"
-        },
-        {
-            "hun": "protokollfüggetlen szabvány",
-            "en": "protocol independent standard"
-        },
-        {
-            "hun": "kommunikációs átjáró",
-            "en": "communication gateway"
-        },
-        {
-            "hun": "szállítási réteg",
-            "en": "transport layer"
-        },
-        {
-            "hun": "csomagok kézbesítése",
-            "en": "delivery of packets"
-        },
-        {
-            "hun": "vízszintes megközelítés",
-            "en": "horizontal approach"
-        },
-        {
-            "hun": "külön bemutató réteg",
-            "en": "separate Presentation layer"
-        },
-        {
-            "hun": "munkamenet réteg",
-            "en": "Session layer"
-        },
-        {
-            "hun": "implementáció",
-            "en": "implementation"
-        },
-        {
-            "hun": "hálózati réteg",
-            "en": "Network layer"
-        },
-        {
-            "hun": "kapcsolat alapú szolgáltatás",
-            "en": "connection oriented service"
-        },
-        {
-            "hun": "kapcsolat nélküli szolgáltatás",
-            "en": "connectionless service"
-        },
-        {
-            "hun": "protokollok rejtve vannak",
-            "en": "Protocols are hidden"
-        },
-        {
-            "hun": "szolgáltatásokat, interfészeket és protokollokat",
-            "en": "services, interfaces and protocols"
-        },
-        {
-            "hun": "potenciális veszélyei",
-            "en": "potential dangers"
-        },
-        {
-            "hun": "zavarok a vezeték nélküli eszközökkel",
-            "en": "Interference with wireless devices"
-        },
-        {
-            "hun": "engedély nélküli rádiófrekvenciák",
-            "en": "unlicensed radio frequencies"
-        },
-        {
-            "hun": "szabályozatlan rádióhullámok",
-            "en": "unregulated airwaves"
-        },
-        {
-            "hun": "fájlok és egyéb erőforrások megosztása",
-            "en": "sharing files and other resources"
-        },
-        {
-            "hun": "legálisan cserélt tartalom",
-            "en": "legally exchanged via"
-        },
-        {
-            "hun": "illegálisan cserélt tartalom",
-            "en": "exchanged illegally"
-        },
-        {
-            "hun": "szabályozott",
-            "en": "regulated"
-        },
-        {
-            "hun": "legális tevékenységek",
-            "en": "legal activities"
-        },
-        {
-            "hun": "legitim használat",
-            "en": "legitimate use"
-        },
-        {
-            "hun": "felelős",
-            "en": "responsible"
-        },
-        {
-            "hun": "jövőbeni fejlesztés",
-            "en": "Future Development"
-        },
-        {
-            "hun": "előnyök és hátrányok",
-            "en": "Advantages and Disadvantages"
-        },
-        {
-            "hun": "világméretű hatás",
-            "en": "worldwide impact"
-        },
-        {
-            "hun": "hálózati média",
-            "en": "networking media"
-        },
-        {
-            "hun": "vezeték nélküli jelek",
-            "en": "wireless signals"
-        },
-        {
-            "hun": "roham",
-            "en": "flurry"
-        },
-        {
-            "hun": "hálózati menedzsment platform",
-            "en": "network management platform"
-        },
-        {
-            "hun": "beállítja",
-            "en": "configures"
-        },
-        {
-            "hun": "diktálja a szándékot",
-            "en": "dictate their intent"
-        },
-        {
-            "hun": "végrehajtja",
-            "en": "executes"
-        },
-        {
-            "hun": "képes felismerni",
-            "en": "recognizes"
-        },
-        {
-            "hun": "biztosítja",
-            "en": "ensures"
-        },
-        {
-            "hun": "manipulálja",
-            "en": "manipulates"
-        },
-        {
-            "hun": "gyűjti az adatokat",
-            "en": "gathering of data"
-        },
-        {
-            "hun": "alkalmazkodik a változásokhoz",
-            "en": "adapts to changes"
-        },
-        {
-            "hun": "fenntartja a kívánt állapotot",
-            "en": "maintain the desired state"
-        },
-        {
-            "hun": "beveszi, megemészti",
-            "en": "ingests"
-        },
-        {
-            "hun": "felszabadítja",
-            "en": "frees up"
-        },
-        {
-            "hun": "visszaesik",
-            "en": "fairing"
-        },
-        {
-            "hun": "gyűjtött",
-            "en": "garnered"
-        },
-        {
-            "hun": "terjedelem, szakasz",
-            "en": "stretch"
-        },
-        {
-            "hun": "ugrott",
-            "en": "leaped"
-        },
-        {
-            "hun": "átalakítja",
-            "en": "transforming"
-        },
-        {
-            "hun": "hagyományos módok",
-            "en": "modern ways"
-        },
-        {
-            "hun": "gyorsabban és olcsóbban",
-            "en": "faster and cheaper"
-        },
-        {
-            "hun": "veszélyei",
-            "en": "perils"
-        },
-        {
-            "hun": "rázza fel a piacokat",
-            "en": "shake up our markets"
-        },
-        {
-            "hun": "kihasználja a hálózatokat",
-            "en": "utilize networks"
-        },
-        {
-            "hun": "alkalmazások",
-            "en": "applications"
-        },
-        {
-            "hun": "folyamatosan",
-            "en": "consistently"
-        },
-        {
-            "hun": "érvényesít",
-            "en": "enforce"
-        },
-        {
-            "hun": "potenciális",
-            "en": "potential"
-        },
-        {
-            "hun": "érvényesül",
-            "en": "permeate"
-        },
-        {
-            "hun": "felgyorsult",
-            "en": "ramping"
-        },
-        {
-            "hun": "kritikus",
-            "en": "crux"
-        },
-        {
-            "hun": "adattároló infrastruktúra",
-            "en": "data-center infrastructure"
-        },
-        {
-            "hun": "fenyegetés információ",
-            "en": "threat information"
-        },
-        {
-            "hun": "dinamikusan véd",
-            "en": "dynamically defend"
-        },
-        {
-            "hun": "kritikus problémák előtt jár",
-            "en": "stay ahead of critical issues"
-        },
-        {
-            "hun": "hálózati architektúra",
-            "en": "entire architecture"
-        },
-        {
-            "hun": "fokozott növekedés",
-            "en": "strong growth"
-        },
-        {
-            "hun": "vezeték nélküli növekedés",
-            "en": "wireless growth"
-        },
-        {
-            "hun": "két számjegyű növekedés",
-            "en": "double digits"
-        },
-        {
-            "hun": "vállalati routerek",
-            "en": "enterprise routing"
-        },
-        {
-            "hun": "integráció",
-            "en": "integration"
-        },
-        {
-            "hun": "fejlett szoftver előfizetés",
-            "en": "advanced software subscription"
-        },
-        {
-            "hun": "biztosítás",
-            "en": "assurance"
-        },
-        {
-            "hun": "dekódolás",
-            "en": "decrypting"
-        },
-        {
-            "hun": "malware",
-            "en": "malware"
-        },
-        {
-            "hun": "titkosított forgalom",
-            "en": "encrypted traffic"
-        },
-        {
-            "hun": "kontextus",
-            "en": "context"
-        },
-        {
-            "hun": "hálózati biztosítási motor",
-            "en": "Network Assurance engine"
-        },
-        {
-            "hun": "API struktúrák",
-            "en": "API structures"
-        },
-        {
-            "hun": "programozhatóság",
-            "en": "programmability"
-        },
-        {
-            "hun": "elemzési képességek",
-            "en": "analytics capabilities"
-        },
-        {
-            "hun": "hálózatról",
-            "en": "out of the network"
-        },
-        {
-            "hun": "létrehozza a kívánt állapotot",
-            "en": "create the desired state"
-        },
-        {
-            "hun": "erősítés",
-            "en": "fortification"
-        },
-        {
-            "hun": "érvényesít",
-            "en": "validate"
-        },
-        {
-            "hun": "személyes alkalmazások",
-            "en": "personal applications"
-        },
-        {
-            "hun": "átalakult",
-            "en": "transformed"
-        },
-        {
-            "hun": "orvosok",
-            "en": "physicians"
-        },
-        {
-            "hun": "előnyök",
-            "en": "advantages"
-        },
-        {
-            "hun": "definiálja a hálózatot",
-            "en": "define a computer network"
-        },
-        {
-            "hun": "nagyot szólt",
-            "en": "made a big splash"
-        },
-        {
-            "hun": "következő evolúció",
-            "en": "next evolution"
-        },
-        {
-            "hun": "csökkenti a komplexitást",
-            "en": "reduce the complexity"
-        },
-        {
-            "hun": "karbantartja",
-            "en": "maintaining"
-        },
-        {
-            "hun": "összetett folyamat",
-            "en": "complex process"
-        },
-        {
-            "hun": "hálózatkezelés",
-            "en": "managing networks"
-        },
-        {
-            "hun": "nem skálázódik jól",
-            "en": "does not scale very well"
-        },
-        {
-            "hun": "automatikusan implementálja",
-            "en": "automatically implements it"
-        },
-        {
-            "hun": "hálózati rendszer",
-            "en": "networking system"
-        },
-        {
-            "hun": "kölcsönhatásba léphet",
-            "en": "interact with"
-        },
-        {
-            "hun": "négy összetevőből áll",
-            "en": "having four components"
-        },
-        {
-            "hun": "kulcsfontosságú alapelvek",
-            "en": "key tenets"
-        },
-        {
-            "hun": "képes lefordítani",
-            "en": "ability to translate"
-        },
-        {
-            "hun": "magas szintű üzleti házirend",
-            "en": "high-level business policy"
-        },
-        {
-            "hun": "ellenőrzi, hogy végrehajtható-e",
-            "en": "verifies that the policy can be executed"
-        },
-        {
-            "hun": "kívánt állapotot hoz létre",
-            "en": "create the desired state"
-        },
-        {
-            "hun": "fenntartja a kívánt állapotot",
-            "en": "maintain the desired state"
-        },
-        {
-            "hun": "dióhéjban",
-            "en": "in a nutshell"
-        },
-        {
-            "hun": "ígéretesek",
-            "en": "are promising"
-        },
-        {
-            "hun": "incidensre adott válasz",
-            "en": "incident response"
-        },
-        {
-            "hun": "bevezette",
-            "en": "launched"
-        },
-        {
-            "hun": "beágyazott",
-            "en": "embedded"
-        },
-        {
-            "hun": "teljes portfólió",
-            "en": "entire portfolio"
-        },
-        {
-            "hun": "elosztott",
-            "en": "distributed"
-        },
-        {
-            "hun": "kibernetikai biztonság",
-            "en": "cybersecurity"
-        },
-        {
-            "hun": "biztosítani",
-            "en": "ensure"
-        },
-        {
-            "hun": "fejlődik",
-            "en": "evolving"
-        },
-        {
-            "hun": "terjedelem",
-            "en": "scope"
-        },
-        {
-            "hun": "összehasonlítás",
-            "en": "comparison"
-        },
-        {
-            "hun": "hálózati szegmens",
-            "en": "network segment"
-        },
-        {
-            "hun": "nyomon követés",
-            "en": "monitoring"
-        },
-        {
-            "hun": "észlelése",
-            "en": "detection"
-        },
-        {
-            "hun": "folyamatos felügyelet",
-            "en": "constant monitoring"
-        },
-        {
-            "hun": "megelőző",
-            "en": "proactive"
-        },
-        {
-            "hun": "helyreállító",
-            "en": "remediative"
-        },
-        {
-            "hun": "teljesítmény optimalizálása",
-            "en": "optimizing performance"
-        },
-        {
-            "hun": "hibaforrás",
-            "en": "source of errors"
-        },
-        {
-            "hun": "hálózati felügyeleti szoftver",
-            "en": "network monitoring software"
-        },
-        {
-            "hun": "konfigurációs menedzsment",
-            "en": "configuration management"
-        },
-        {
-            "hun": "telepítés",
-            "en": "deployment"
-        },
-        {
-            "hun": "összefoglalva",
-            "en": "in a nutshell"
-        },
-        {
-            "hun": "meggyőzi a vezetőket",
-            "en": "convince managers"
-        },
-        {
-            "hun": "igazolja",
-            "en": "justify"
-        },
-        {
-            "hun": "teleegészségügyi stratégia",
-            "en": "telehealth strategy"
-        },
-        {
-            "hun": "úttörő trend",
-            "en": "newest trend"
-        },
-        {
-            "hun": "peer-to-peer hálózatépítés",
-            "en": "peer-to-peer networking"
-        },
-        {
-            "hun": "fájlok megosztása",
-            "en": "sharing files"
-        },
-        {
-            "hun": "szabályozott",
-            "en": "regulated"
-        },
-        {
-            "hun": "üzleti alkalmazások",
-            "en": "business applications"
-        },
-        {
-            "hun": "személyes alkalmazások",
-            "en": "personal applications"
-        },
-        {
-            "hun": "rejtélyes",
-            "en": "enigmatic"
-        },
-        {
-            "hun": "zenével kapcsolatos",
-            "en": "music related"
-        },
-        {
-            "hun": "előzmény cégek",
-            "en": "predecessor companies"
-        },
-        {
-            "hun": "egyesített ernyő alatt",
-            "en": "combined umbrella"
-        },
-        {
-            "hun": "függőlegesen",
-            "en": "vertically"
-        },
-        {
-            "hun": "megkülönböztetés",
-            "en": "distinction"
-        },
-        {
-            "hun": "érintésmentes technológia",
-            "en": "contactless technology"
-        },
-        {
-            "hun": "feladatok",
-            "en": "tasks"
-        },
-        {
-            "hun": "adatközpontok",
-            "en": "data centers"
-        },
-        {
-            "hun": "szolgáltatók",
-            "en": "providers"
-        },
-        {
-            "hun": "végponttól végpontig",
-            "en": "end-to-end"
-        },
-        {
-            "hun": "átfogó lefedettség",
-            "en": "global coverage"
-        },
-        {
-            "hun": "alapvető",
-            "en": "fundamental"
-        },
-        {
-            "hun": "átalakítja az iparágat",
-            "en": "transforming an industry"
-        },
-        {
-            "hun": "teljesítmény",
-            "en": "performance"
-        },
-        {
-            "hun": "konfigurálás",
-            "en": "configuring"
-        },
-        {
-            "hun": "kiépítés",
-            "en": "provisioning"
-        },
-        {
-            "hun": "betekintés",
-            "en": "insights"
-        },
-        {
-            "hun": "láthatóság",
-            "en": "visibility"
-        },
-        {
-            "hun": "felhő alapú szolgáltatások",
-            "en": "cloud services"
-        },
-        {
-            "hun": "hálózatépítés",
-            "en": "networking"
-        },
-        {
-            "hun": "átviteli sebesség",
-            "en": "transmission speed"
-        },
-        {
-            "hun": "kiterjedt",
-            "en": "extensive"
-        },
-        {
-            "hun": "hatékony",
-            "en": "efficient"
-        },
-        {
-            "hun": "megbízható",
-            "en": "reliable"
-        },
-        {
-            "hun": "méretezhető",
-            "en": "scalable"
-        },
-        {
-            "hun": "sávszélesség",
-            "en": "bandwidth"
-        },
-        {
-            "hun": "router",
-            "en": "router"
-        },
-        {
-            "hun": "kapcsoló",
-            "en": "switch"
-        },
-        {
-            "hun": "hozzáférési pont",
-            "en": "access point"
-        },
-        {
-            "hun": "modem",
-            "en": "modem"
-        },
-        {
-            "hun": "hálózati kártya",
-            "en": "network interface card"
-        },
-        {
-            "hun": "elosztó",
-            "en": "hub"
-        },
-        {
-            "hun": "ismétlő",
-            "en": "repeater"
-        },
-        {
-            "hun": "híd",
-            "en": "bridge"
-        },
-        {
-            "hun": "átjáró",
-            "en": "gateway"
-        },
-        {
-            "hun": "tartós",
-            "en": "consistent"
-        },
-        {
-            "hun": "megvalósíthatóság",
-            "en": "feasibility"
-        },
-        {
-            "hun": "érzékletesen",
-            "en": "perceptively"
-        },
-        {
-            "hun": "frissítés",
-            "en": "upgrade"
-        },
-        {
-            "hun": "elérhető",
-            "en": "avail"
-        },
-        {
-            "hun": "elégséges",
-            "en": "sufficient"
-        },
-        {
-            "hun": "telepítés",
-            "en": "deployment"
-        },
-        {
-            "hun": "alátámasztani",
-            "en": "substantiate"
-        },
-        {
-            "hun": "értelmesen",
-            "en": "meaningfully"
-        },
-        {
-            "hun": "mérhetetlen",
-            "en": "immeasurable"
-        },
-        {
-            "hun": "nyilvánosságot kap",
-            "en": "make a splash"
-        },
-        {
-            "hun": "szervezni",
-            "en": "orchestrate"
-        },
-        {
-            "hun": "gyűjteni",
-            "en": "garner"
-        },
-        {
-            "hun": "elfogadni",
-            "en": "embrace"
-        },
-        {
-            "hun": "számítástechnika",
-            "en": "computing"
-        },
-        {
-            "hun": "ingadozó, bizonytalan",
-            "en": "vague"
-        },
-        {
-            "hun": "elhagy",
-            "en": "abandoning"
-        },
-        {
-            "hun": "iparág",
-            "en": "industry"
-        },
-        {
-            "hun": "változékony",
-            "en": "changeable"
-        },
-        {
-            "hun": "növekedés",
-            "en": "rise"
+            "hun": "bokor",
+            "en": "bush"
         },
         {
             "hun": "csökkenés",
-            "en": "decrease"
+            "en": "decline"
         },
         {
-            "hun": "elérhető",
-            "en": "available"
+            "hun": "erdőirtás",
+            "en": "deforestation"
         },
         {
-            "hun": "érdekes módon",
-            "en": "interestingly"
+            "hun": "kihalt",
+            "en": "extinct"
         },
         {
-            "hun": "fontos",
-            "en": "important"
+            "hun": "eszik valamit, táplálkozik valamivel",
+            "en": "feed on sth"
         },
         {
-            "hun": "iparos",
-            "en": "innovator"
+            "hun": "élőhely",
+            "en": "habitat"
         },
         {
-            "hun": "egyre inkább",
-            "en": "increasingly"
+            "hun": "rovar",
+            "en": "insect"
         },
         {
-            "hun": "növekvő",
-            "en": "increasing"
+            "hun": "levelek",
+            "en": "leaves"
         },
         {
-            "hun": "fokozott",
-            "en": "increased"
+            "hun": "emlős",
+            "en": "mammal"
+        },
+        {
+            "hun": "orvvadászat",
+            "en": "poaching"
+        },
+        {
+            "hun": "ragadozó",
+            "en": "predator"
+        },
+        {
+            "hun": "zsákmány",
+            "en": "prey"
+        },
+        {
+            "hun": "nyomok",
+            "en": "prints"
+        },
+        {
+            "hun": "hüllő",
+            "en": "reptile"
+        },
+        {
+            "hun": "élesít",
+            "en": "sharpen"
+        },
+        {
+            "hun": "kagyló",
+            "en": "shell"
+        },
+        {
+            "hun": "alligátor",
+            "en": "alligator"
+        },
+        {
+            "hun": "hangya",
+            "en": "ant"
+        },
+        {
+            "hun": "lepke",
+            "en": "butterfly"
+        },
+        {
+            "hun": "sas",
+            "en": "eagle"
+        },
+        {
+            "hun": "flamingó",
+            "en": "flamingo"
+        },
+        {
+            "hun": "béka",
+            "en": "frog"
+        },
+        {
+            "hun": "szöcske",
+            "en": "grasshopper"
+        },
+        {
+            "hun": "víziló",
+            "en": "hippopotamus"
+        },
+        {
+            "hun": "kenguru",
+            "en": "kangaroo"
+        },
+        {
+            "hun": "kismacska",
+            "en": "kitten"
+        },
+        {
+            "hun": "gyík",
+            "en": "lizard"
+        },
+        {
+            "hun": "homár",
+            "en": "lobster"
+        },
+        {
+            "hun": "majom",
+            "en": "monkey"
+        },
+        {
+            "hun": "szúnyog",
+            "en": "mosquito"
+        },
+        {
+            "hun": "papagáj",
+            "en": "parrot"
+        },
+        {
+            "hun": "páva",
+            "en": "peacock"
+        },
+        {
+            "hun": "galamb",
+            "en": "pigeon"
+        },
+        {
+            "hun": "csörgőkígyó",
+            "en": "rattlesnake"
+        },
+        {
+            "hun": "mókus",
+            "en": "squirrel"
+        },
+        {
+            "hun": "zebra",
+            "en": "zebra"
+        },
+        {
+            "hun": "csőr",
+            "en": "beak"
+        },
+        {
+            "hun": "karom",
+            "en": "claws"
+        },
+        {
+            "hun": "uszony",
+            "en": "fin"
+        },
+        {
+            "hun": "bunda",
+            "en": "fur"
+        },
+        {
+            "hun": "paták",
+            "en": "hooves"
+        },
+        {
+            "hun": "púp",
+            "en": "hump"
+        },
+        {
+            "hun": "mancs",
+            "en": "paw"
+        },
+        {
+            "hun": "agyar",
+            "en": "trunk"
+        },
+        {
+            "hun": "bajusz",
+            "en": "whiskers"
+        },
+        {
+            "hun": "szárny",
+            "en": "wing"
+        },
+        {
+            "hun": "beállítás, bútor elrendezés",
+            "en": "adjustment"
+        },
+        {
+            "hun": "összeszerel",
+            "en": "assemble"
+        },
+        {
+            "hun": "szűkös költségvetés, kevés pénze van",
+            "en": "be on a tight budget"
+        },
+        {
+            "hun": "világosabbá tesz, vidámabbá tesz",
+            "en": "brighten"
+        },
+        {
+            "hun": "mennyezet",
+            "en": "ceiling"
+        },
+        {
+            "hun": "zsúfolt",
+            "en": "cluttered"
+        },
+        {
+            "hun": "csöpögő",
+            "en": "dripping"
+        },
+        {
+            "hun": "szomorú",
+            "en": "feel blue"
+        },
+        {
+            "hun": "defekt",
+            "en": "flat tyre"
+        },
+        {
+            "hun": "bútoroz",
+            "en": "furnish"
+        },
+        {
+            "hun": "komor",
+            "en": "gloomy"
+        },
+        {
+            "hun": "felvesz, felbérel valakit",
+            "en": "hire"
+        },
+        {
+            "hun": "belsőépítészet, lakberendezés",
+            "en": "interior design"
+        },
+        {
+            "hun": "villanykörte",
+            "en": "light bulb"
+        },
+        {
+            "hun": "felélénkít valamit",
+            "en": "liven sth up"
+        },
+        {
+            "hun": "zár",
+            "en": "lock"
+        },
+        {
+            "hun": "frissen festett",
+            "en": "newly-painted"
+        },
+        {
+            "hun": "beállít",
+            "en": "set up"
+        },
+        {
+            "hun": "kopott",
+            "en": "shabby"
+        },
+        {
+            "hun": "tágas",
+            "en": "spacious"
+        },
+        {
+            "hun": "dolgoszószoba",
+            "en": "study"
+        },
+        {
+            "hun": "csap",
+            "en": "tap"
+        },
+        {
+            "hun": "szellős, nem zsúfolt",
+            "en": "uncluttered"
+        },
+        {
+            "hun": "hihetetlenül",
+            "en": "incredibly"
+        },
+        {
+            "hun": "elképzel",
+            "en": "picture"
+        },
+        {
+            "hun": "visszavonul",
+            "en": "retreat"
+        },
+        {
+            "hun": "kicsit",
+            "en": "slightly"
+        },
+        {
+            "hun": "körülvesz",
+            "en": "surround"
+        },
+        {
+            "hun": "befogad valamit",
+            "en": "take sth in"
+        },
+        {
+            "hun": "gond",
+            "en": "worry"
+        },
+        {
+            "hun": "megdöbbent",
+            "en": "astonished"
+        },
+        {
+            "hun": "ragyogó",
+            "en": "brilliant"
+        },
+        {
+            "hun": "számtalan",
+            "en": "countless"
+        },
+        {
+            "hun": "boldog",
+            "en": "delighted"
+        },
+        {
+            "hun": "szörnyű, borzasztó",
+            "en": "dreadful"
+        },
+        {
+            "hun": "mozgalmas, hektikus",
+            "en": "hectic"
+        },
+        {
+            "hun": "nevetséges",
+            "en": "hilarious"
+        },
+        {
+            "hun": "csodálatos",
+            "en": "marvellous"
+        },
+        {
+            "hun": "nyomorult, boldogtalan",
+            "en": "miserable"
+        },
+        {
+            "hun": "kiemelkedő",
+            "en": "outstanding"
+        },
+        {
+            "hun": "zsúfolt",
+            "en": "packed"
+        },
+        {
+            "hun": "derűs",
+            "en": "serene"
+        },
+        {
+            "hun": "pompás",
+            "en": "superb"
+        },
+        {
+            "hun": "óriási",
+            "en": "tremendous"
+        },
+        {
+            "hun": "hatalmas",
+            "en": "vast"
         }
     ]
 }

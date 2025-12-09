@@ -4,11 +4,13 @@
     --b2 : 10px;
     --b3 : 10px;
     --b4 : 10px;
+    --rb : 10px;
 
     --bt1 : 0px;
     --bt2 : 0px;
     --bt3 : 0px;
     --bt4 : 0px;
+    --rbt : 0px;
 
 }
 
@@ -55,7 +57,7 @@
 
 #box {
     
-    margin-top: 100px;
+    margin-top: 50px;
 
     margin-left: auto;
     margin-right: auto;
@@ -71,8 +73,8 @@
 
     background-color: rgb(166, 255, 255);
 
-    width: 150px;
-    height: 50px;
+    width: 200px;
+    height: 100px;
 
     border-radius: 25px;
 
@@ -80,10 +82,14 @@
     margin-left: auto;
     margin-right: auto;
 
-    padding-top: 15%;
+    /* padding-top: 15%; */
 
     transition: 0.2s;
 
+}
+
+.buttons p {
+    padding: 20%;
 }
 
 #b1 {
@@ -101,4 +107,30 @@
 #b4 {
     box-shadow: lightskyblue 0px var(--b4);
     translate: 0px var(--bt4);
+}
+#rb {
+    /*from buttons*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    transition: 0.2s;
+    /**/
+
+    text-align: center;
+
+    color: azure;
+    background-color: rgb(255, 74, 74);
+    box-shadow: rgb(250, 135, 135) 0px var(--rb);
+    translate: 0px var(--rbt);
+}
+
+#rb p {
+    padding: 20%;
 }

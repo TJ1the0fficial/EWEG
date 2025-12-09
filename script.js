@@ -7,6 +7,8 @@ const b2 = document.getElementById("b2");
 const b3 = document.getElementById("b3");
 const b4 = document.getElementById("b4");
 
+const rb = document.getElementById("rb");
+
 let choosen_button = "";
 let button_pressing_active = false;
 
@@ -25,6 +27,10 @@ let r2 = 0;
 let r3 = 0;
 let r4 = 0;
 
+let counter = 0; // This counts how many how have the user have passed already.
+
+let sizeof_words = 0;
+
 // sounds
 const good_answer = new Audio("good_answer.mp3");
 const bad_answer = new Audio("bad_answer.mp3");
@@ -35,11 +41,13 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
         const data = await response.json();
 
         console.log("Words loaded:", data);
+        
+        sizeof_words = data.EnglishWords.length;
 
         // Pick random word and options
-        rand = Math.floor(Math.random() * data.EnglishWords.length);
-        q = data.EnglishWords[rand]["hun"];
-        a = data.EnglishWords[rand]["en"];
+        rand = Math.floor(Math.random() * data.EnglishWords.length); // the right answer
+        q = data.EnglishWords[rand]["hun"]; // question
+        a = data.EnglishWords[rand]["en"]; // answer
 
         r1 = Math.floor(Math.random() * data.EnglishWords.length);
         w1 = data.EnglishWords[r1]["en"];
@@ -65,7 +73,7 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
         }
 
         // Update the UI
-        sign.innerText = q;
+        sign.innerText = q + "\n" + counter + "/" + sizeof_words;
         b1.innerText = w1;
         b2.innerText = w2;
         b3.innerText = w3;
@@ -78,13 +86,16 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
 
 function check_a(answer){
     if (answer == a)
-    {
-        good_answer.play();
+    {   
+        good_answer.pause();good_answer.play();
+        counter++;
         loadWords();
-    } else {bad_answer.play();}
+    } else {bad_answer.pause();bad_answer.play();}
 }
 
 document.addEventListener("DOMContentLoaded",() => {
+
+    if (counter >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
 
     loadWords();
 
@@ -139,5 +150,17 @@ document.addEventListener("DOMContentLoaded",() => {
         document.documentElement.style.setProperty("--b4","10px");
         document.documentElement.style.setProperty("--bt4","0px");
         button_pressing_active = false; 
+    });
+
+    rb.addEventListener("click",() => {
+        document.documentElement.style.setProperty("--rb","0px");
+        document.documentElement.style.setProperty("--rbt","10px");        
+        button_pressing_active = true;
+    });
+    rb.addEventListener("transitionend",() => {
+        document.documentElement.style.setProperty("--rb","10px");
+        document.documentElement.style.setProperty("--rbt","0px");
+        button_pressing_active = false;
+        document.location.reload(true);
     });
 });

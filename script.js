@@ -95,9 +95,9 @@ function check_a(answer){
 
 document.addEventListener("DOMContentLoaded",() => {
 
-    if (counter >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
-
     loadWords();
+
+    if (counter >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
 
     // Button even handling
     b1.addEventListener("click",() => {

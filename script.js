@@ -37,6 +37,8 @@ let sizeof_words = 0;
 const good_answer = new Audio("good_answer.mp3");
 const bad_answer = new Audio("bad_answer.mp3");
 
+const alreadyUsedWords = [];
+
 async function loadWords() { // ChatGPT supported this function, cause I don't really know JSON
     try {
         const response = await fetch("UnitOfWords.json");
@@ -48,6 +50,13 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
 
         // Pick random word and options
         rand = Math.floor(Math.random() * data.EnglishWords.length); // the right answer
+
+        do {
+        rand = Math.floor(Math.random() * data.EnglishWords.length);
+        } while (alreadyUsedWords.includes(data.EnglishWords[rand].en));
+
+        alreadyUsedWords.push(data.EnglishWords[rand].en);
+
         q = data.EnglishWords[rand]["hun"]; // question
         a = data.EnglishWords[rand]["en"]; // answer
 

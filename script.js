@@ -90,7 +90,7 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
         b3.innerText = w3;
         b4.innerText = w4;
 
-        if (counter >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
+        if (counter-1 >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
 
     } catch (error) {
         console.error("Error loading words:", error);

@@ -5,12 +5,14 @@
     --b3 : 10px;
     --b4 : 10px;
     --rb : 10px;
+    --wb : 10px;
 
     --bt1 : 0px;
     --bt2 : 0px;
     --bt3 : 0px;
     --bt4 : 0px;
     --rbt : 0px;
+    --wbt : 0px;
 
 }
 
@@ -132,5 +134,34 @@
 }
 
 #rb p {
+    padding: 20%;
+}
+
+#wb {
+    /*from buttons*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    transition: 0.2s;
+    /**/
+
+    margin-top: 50px;
+
+    text-align: center;
+
+    color: azure;
+    background-color: rgb(219, 74, 255);
+    box-shadow: rgb(145, 43, 170) 0px var(--wb);
+    translate: 0px var(--wbt);
+}
+
+#wb a {
     padding: 20%;
 }

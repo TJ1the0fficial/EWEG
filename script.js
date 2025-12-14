@@ -9,6 +9,8 @@ const b4 = document.getElementById("b4");
 
 const rb = document.getElementById("rb");
 
+const wb = document.getElementById("wb");
+
 let choosen_button = "";
 let button_pressing_active = false;
 
@@ -80,7 +82,7 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
         b4.innerText = w4;
 
         if (counter >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
-        
+
     } catch (error) {
         console.error("Error loading words:", error);
     }
@@ -162,5 +164,17 @@ document.addEventListener("DOMContentLoaded",() => {
         document.documentElement.style.setProperty("--rbt","0px");
         button_pressing_active = false;
         document.location.reload(true);
+    });
+
+    wb.addEventListener("click",() => {
+        document.documentElement.style.setProperty("--wb","0px");
+        document.documentElement.style.setProperty("--wbt","10px");        
+        button_pressing_active = true;
+    });
+    wb.addEventListener("transitionend",() => {
+        document.documentElement.style.setProperty("--wb","10px");
+        document.documentElement.style.setProperty("--wbt","0px");
+        button_pressing_active = false;
+        window.location.href = "show_words.html";
     });
 });

@@ -51,6 +51,12 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
         // Pick random word and options
         rand = Math.floor(Math.random() * data.EnglishWords.length); // the right answer
 
+        if (alreadyUsedWords.length >= data.EnglishWords.length) { // A fix provided by ChatGPT, because of infinite loop.
+            sign.innerText = "All words completed!";
+            // optional: disable buttons here
+            return;
+        }
+        
         do {
         rand = Math.floor(Math.random() * data.EnglishWords.length);
         } while (alreadyUsedWords.includes(data.EnglishWords[rand].en));
@@ -89,8 +95,6 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
         b2.innerText = w2;
         b3.innerText = w3;
         b4.innerText = w4;
-
-        if (0 == sizeof_words) {document.location.reload(true);}
         
         if (counter >= sizeof_words) {document.location.reload(true);} // Refresh page when all words done, so you can do all of it again.
 

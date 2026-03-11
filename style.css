@@ -6,6 +6,7 @@
     --b4 : 10px;
     --rb : 10px;
     --wb : 10px;
+    --mb : 10px;
 
     --bt1 : 0px;
     --bt2 : 0px;
@@ -13,6 +14,19 @@
     --bt4 : 0px;
     --rbt : 0px;
     --wbt : 0px;
+    --mbt : 0px;
+
+    /* Mute button colors */
+    --mb-main-on-color : rgb(98, 255, 74);
+    --mb-outline-on-color : rgb(75, 170, 43);
+    
+    --mb-main-off-color : rgb(255, 98, 74);
+    --mb-outline-off-color : rgb(170, 75, 43);
+
+    --mb-state : on; /*Don't touch it!*/
+
+    --mb-main-color : rgb(98, 255, 74);
+    --mb-outline-color : rgb(75, 170, 43);
 
 }
 
@@ -162,6 +176,35 @@
     translate: 0px var(--wbt);
 }
 
-#wb a {
+#wb p {
+    padding: 20%;
+}
+
+#mb {
+    /*from buttons*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    transition: 0.2s;
+    /**/
+
+    margin-top: 50px;
+
+    text-align: center;
+
+    color: azure;
+    background-color: var(--mb-main-color);
+    box-shadow: var(--mb-outline-color) 0px var(--mb);
+    translate: 0px var(--mbt);
+}
+
+#mb p {
     padding: 20%;
 }

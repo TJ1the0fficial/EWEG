@@ -11,6 +11,9 @@ const rb = document.getElementById("rb");
 
 const wb = document.getElementById("wb");
 
+const mb = document.getElementById("mb");
+let mb_canPress = true;
+
 let choosen_button = "";
 let button_pressing_active = false;
 
@@ -169,6 +172,7 @@ document.addEventListener("DOMContentLoaded",() => {
         button_pressing_active = false; 
     });
 
+    // restart button
     rb.addEventListener("click",() => {
         document.documentElement.style.setProperty("--rb","0px");
         document.documentElement.style.setProperty("--rbt","10px");        
@@ -181,6 +185,7 @@ document.addEventListener("DOMContentLoaded",() => {
         document.location.reload(true);
     });
 
+    // show words buttons
     wb.addEventListener("click",() => {
         document.documentElement.style.setProperty("--wb","0px");
         document.documentElement.style.setProperty("--wbt","10px");        
@@ -191,5 +196,45 @@ document.addEventListener("DOMContentLoaded",() => {
         document.documentElement.style.setProperty("--wbt","0px");
         button_pressing_active = false;
         window.location.href = "show_words.html";
+    });
+
+    // mute button
+    // document.documentElement.style.setProperty("--mb-state","off");
+    mb.addEventListener("click",() => {
+        document.documentElement.style.setProperty("--mb","0px");
+        document.documentElement.style.setProperty("--mbt","10px");        
+        button_pressing_active = true;
+        let bodystyle = window.getComputedStyle(document.body)
+        let state = bodystyle.getPropertyValue("--mb-state");
+
+        if (state === "off") {
+            document.documentElement.style.setProperty("--mb-main-color",bodystyle.getPropertyValue("--mb-main-on-color"))
+            document.documentElement.style.setProperty("--mb-outline-color",bodystyle.getPropertyValue("--mb-outline-on-color"))
+            document.documentElement.style.setProperty("--mb-state","on");
+        }
+        else 
+        if (state === "on") {
+            document.documentElement.style.setProperty("--mb-main-color",bodystyle.getPropertyValue("--mb-main-off-color"))
+            document.documentElement.style.setProperty("--mb-outline-color",bodystyle.getPropertyValue("--mb-outline-off-color"))
+            document.documentElement.style.setProperty("--mb-state","off");
+        }
+        else {
+            alert("What am I? -> "+state);
+            // somehow when in style.css "" is used, the final value will be for example
+            // "off" not off when read as string, so ""on"" instead of "on"
+        }
+
+        console.log("Mute Button state : "+state);
+
+        // debugging stuff
+        // document.getElementById("i1").textContent = state;
+        // document.getElementById("i2").textContent = bodystyle.getPropertyValue("--mb-main-color");
+        // document.getElementById("i3").textContent = bodystyle.getPropertyValue("--mb-outline-color");
+    });
+
+    mb.addEventListener("transitionend",() => {
+        document.documentElement.style.setProperty("--mb","10px");
+        document.documentElement.style.setProperty("--mbt","0px");
+        button_pressing_active = false;
     });
 });

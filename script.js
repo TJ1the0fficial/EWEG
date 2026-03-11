@@ -13,6 +13,7 @@ const wb = document.getElementById("wb");
 
 const mb = document.getElementById("mb");
 let mb_canPress = true;
+let muted = false;
 
 let choosen_button = "";
 let button_pressing_active = false;
@@ -109,10 +110,10 @@ async function loadWords() { // ChatGPT supported this function, cause I don't r
 function check_a(answer){
     if (answer == a)
     {   
-        good_answer.pause();good_answer.play();
+        if (!muted) {good_answer.pause();good_answer.play();}
         counter++;
         loadWords();
-    } else {bad_answer.pause();bad_answer.play();}
+    } else {if (!muted) {bad_answer.pause();bad_answer.play();}}
 }
 
 document.addEventListener("DOMContentLoaded",() => {
@@ -211,12 +212,14 @@ document.addEventListener("DOMContentLoaded",() => {
             document.documentElement.style.setProperty("--mb-main-color",bodystyle.getPropertyValue("--mb-main-on-color"))
             document.documentElement.style.setProperty("--mb-outline-color",bodystyle.getPropertyValue("--mb-outline-on-color"))
             document.documentElement.style.setProperty("--mb-state","on");
+            muted = false;
         }
         else 
         if (state === "on") {
             document.documentElement.style.setProperty("--mb-main-color",bodystyle.getPropertyValue("--mb-main-off-color"))
             document.documentElement.style.setProperty("--mb-outline-color",bodystyle.getPropertyValue("--mb-outline-off-color"))
             document.documentElement.style.setProperty("--mb-state","off");
+            muted = true;
         }
         else {
             alert("What am I? -> "+state);
@@ -224,7 +227,7 @@ document.addEventListener("DOMContentLoaded",() => {
             // "off" not off when read as string, so ""on"" instead of "on"
         }
 
-        console.log("Mute Button state : "+state);
+        console.log(muted);
 
         // debugging stuff
         // document.getElementById("i1").textContent = state;

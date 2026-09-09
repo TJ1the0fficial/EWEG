@@ -483,6 +483,126 @@
         {
             "hun": "zavaró",
             "en": "distracting"
+        },
+        {
+            "hun": "adományoz",
+            "en": "donate"
+        },
+        {
+            "hun": "meghosszabbít",
+            "en": "extend"
+        },
+        {
+            "hun": "veszélyes",
+            "en": "hazardous"
+        },
+        {
+            "hun": "veszélyt jelent az egészségre",
+            "en": "health hazard"
+        },
+        {
+            "hun": "ipari park",
+            "en": "industrial plant"
+        },
+        {
+            "hun": "zavar, megzavar",
+            "en": "interfere"
+        },
+        {
+            "hun": "idegesítő",
+            "en": "irritating"
+        },
+        {
+            "hun": "hulladéklerakó",
+            "en": "landfill"
+        },
+        {
+            "hun": "életet veszélyeztető",
+            "en": "life-threatening"
+        },
+        {
+            "hun": "hallgató",
+            "en": "listener"
+        },
+        {
+            "hun": "hallásromlás, megsüketülés",
+            "en": "loss of hearing"
+        },
+        {
+            "hun": "migrén, fejfájás",
+            "en": "migraine"
+        },
+        {
+            "hun": "minimalizál, legkisebbre csökkent",
+            "en": "minimise"
+        },
+        {
+            "hun": "napi rendszerességgel",
+            "en": "on a daily basis"
+        },
+        {
+            "hun": "túltölt",
+            "en": "overfill"
+        },
+        {
+            "hun": "lakott terület",
+            "en": "residential area"
+        },
+        {
+            "hun": "légzőszervi, légúti",
+            "en": "respiratory"
+        },
+        {
+            "hun": "haszontalanság",
+            "en": "uselessness"
+        },
+        {
+            "hun": "megtilt, tiltás",
+            "en": "ban"
+        },
+        {
+            "hun": "lakos, polgár",
+            "en": "citizen"
+        },
+        {
+            "hun": "ellentmondó, ellentétes",
+            "en": "conflicting"
+        },
+        {
+            "hun": "folyamatosan növekvő",
+            "en": "ever-growing"
+        },
+        {
+            "hun": "megszűr, szűr",
+            "en": "filter"
+        },
+        {
+            "hun": "előre lát",
+            "en": "foresee"
+        },
+        {
+            "hun": "célszerűtlen, nem praktikus",
+            "en": "impractical"
+        },
+        {
+            "hun": "részleges",
+            "en": "partial"
+        },
+        {
+            "hun": "sajtótájékoztató",
+            "en": "press conference"
+        },
+        {
+            "hun": "szmog, levegőszennyezés",
+            "en": "smog"
+        },
+        {
+            "hun": "növényzet",
+            "en": "vegetation"
+        },
+        {
+            "hun": "megvalósítható, működőképes",
+            "en": "workable"
         }
     ]
 }

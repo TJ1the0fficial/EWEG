@@ -603,6 +603,22 @@
         {
             "hun": "megvalósítható, működőképes",
             "en": "workable"
+        },
+        {
+            "hun": "szófaj",
+            "en": "part of speech"
+        },
+        {
+            "hun": "előszó",
+            "en": "preposition"
+        },
+        {
+            "hun": "segéd ige",
+            "en": "auxiliary verb"
+        },
+        {
+            "hun": "névelő",
+            "en": "articles"
         }
     ]
 }

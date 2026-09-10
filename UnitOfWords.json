@@ -619,6 +619,22 @@
         {
             "hun": "névelő",
             "en": "articles"
+        },
+        {
+            "hun": "átfutni (szövegen)",
+            "en": "skim"
+        },
+        {
+            "hun": "névmás",
+            "en": "pronoun"
+        },
+        {
+            "hun": "kötőszavak",
+            "en": "linking words"
+        },
+        {
+            "hun": "szó elemek",
+            "en": "vocabulary items"
         }
     ]
 }

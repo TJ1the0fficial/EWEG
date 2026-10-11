@@ -1,564 +1,900 @@
 {
-  "EnglishWords": [
-    {
-      "hun": "elhagyatott",
-      "en": "abandoned"
-    },
-    {
-      "hun": "elpusztított, tönkretett",
-      "en": "devastated"
-    },
-    {
-      "hun": "éhínség",
-      "en": "famine"
-    },
-    {
-      "hun": "hálás",
-      "en": "grateful"
-    },
-    {
-      "hun": "megtört szívű",
-      "en": "heartbroken"
-    },
-    {
-      "hun": "dühös",
-      "en": "outraged"
-    },
-    {
-      "hun": "tehetetlen",
-      "en": "powerless"
-    },
-    {
-      "hun": "szenvedés",
-      "en": "suffering"
-    },
-    {
-      "hun": "megpaskolja a vállát, bátorítja",
-      "en": "give a pat on the back"
-    },
-    {
-      "hun": "újra és újra",
-      "en": "again and again"
-    },
-    {
-      "hun": "hadsereg",
-      "en": "army"
-    },
-    {
-      "hun": "szégyell valamit",
-      "en": "ashamed"
-    },
-    {
-      "hun": "köteg",
-      "en": "batch"
-    },
-    {
-      "hun": "felépít",
-      "en": "build up"
-    },
-    {
-      "hun": "megbékél a helyzettel, elfogad egy nehéz szituációt",
-      "en": "come to terms with"
-    },
-    {
-      "hun": "kritizál",
-      "en": "criticise"
-    },
-    {
-      "hun": "néhány helyen, itt-ott",
-      "en": "here and there"
-    },
-    {
-      "hun": "hajléktalanság",
-      "en": "homelessness"
-    },
-    {
-      "hun": "ítélkező, bíráló",
-      "en": "judgemental"
-    },
-    {
-      "hun": "szerez",
-      "en": "obtain"
-    },
-    {
-      "hun": "filozófia",
-      "en": "philosophy"
-    },
-    {
-      "hun": "el van helyezve, helyezkedik",
-      "en": "position"
-    },
-    {
-      "hun": "tettet",
-      "en": "pretend"
-    },
-    {
-      "hun": "közzétesz, nylvánosságra hoz",
-      "en": "publicise"
-    },
-    {
-      "hun": "ha esik, ha fúj",
-      "en": "rain or shine"
-    },
-    {
-      "hun": "olvasóközönség",
-      "en": "readership"
-    },
-    {
-      "hun": "bíztató, megnyugtató",
-      "en": "reassuring"
-    },
-    {
-      "hun": "költözik",
-      "en": "relocate"
-    },
-    {
-      "hun": "ritkán",
-      "en": "seldom"
-    },
-    {
-      "hun": "letelepedett",
-      "en": "settled"
-    },
-    {
-      "hun": "rosszul alszik",
-      "en": "sleep rough"
-    },
-    {
-      "hun": "szociális ellátás",
-      "en": "social services"
-    },
-    {
-      "hun": "zaklatott",
-      "en": "turbulent"
-    },
-    {
-      "hun": "megfordít, átfordít valamit az ellenkezőjére",
-      "en": "turn sth around"
-    },
-    {
-      "hun": "unalom",
-      "en": "boredom"
-    },
-    {
-      "hun": "semmi esetre sem",
-      "en": "by no means"
-    },
-    {
-      "hun": "semmiképpen",
-      "en": "in no way"
-    },
-    {
-      "hun": "vezetői",
-      "en": "leadership"
-    },
-    {
-      "hun": "tagság",
-      "en": "membership"
-    },
-    {
-      "hun": "semmi esetre sem",
-      "en": "on no account"
-    },
-    {
-      "hun": "szülőség",
-      "en": "parenthood"
-    },
-    {
-      "hun": "elnök",
-      "en": "president"
-    },
-    {
-      "hun": "ismétlés",
-      "en": "repetition"
-    },
-    {
-      "hun": "semmi esetre sem",
-      "en": "under no circumstances"
-    },
-    {
-      "hun": "semmiféle, egyáltalán",
-      "en": "whatsoever"
-    },
-    {
-      "hun": "bölcsesség",
-      "en": "wisdom"
-    },
-    {
-      "hun": "Megismételnéd?",
-      "en": "Come again?"
-    },
-    {
-      "hun": "első helyre tesz valamit, legfontosabb neki",
-      "en": "sth come first"
-    },
-    {
-      "hun": "hasznos, jól jön",
-      "en": "come in handy"
-    },
-    {
-      "hun": "hatályba lép",
-      "en": "come into effect"
-    },
-    {
-      "hun": "természetesen, könnyedén jön",
-      "en": "come naturally"
-    },
-    {
-      "hun": "nagykorúvá válik",
-      "en": "come of age"
-    },
-    {
-      "hun": "véget ér",
-      "en": "come to an end"
-    },
-    {
-      "hun": "napvilágot lát, felbukkan",
-      "en": "come to light"
-    },
-    {
-      "hun": "hatalomra lép",
-      "en": "come to power"
-    },
-    {
-      "hun": "most, hogy eszembe jutott ...",
-      "en": "come to think of it"
-    },
-    {
-      "hun": "apró darabok",
-      "en": "bits and pieces"
-    },
-    {
-      "hun": "élet vagy halál",
-      "en": "life or death"
-    },
-    {
-      "hun": "mindig tanul az ember (jó pap holtig tanul)",
-      "en": "live and learn"
-    },
-    {
-      "hun": "tisztán és érthetően",
-      "en": "loud and clear"
-    },
-    {
-      "hun": "szép tiszta",
-      "en": "neat and tidy"
-    },
-    {
-      "hun": "előnyök és hátrányok, mellette és ellene szóló érvek",
-      "en": "pros and cons"
-    },
-    {
-      "hun": "rövid és velős",
-      "en": "short and sweet"
-    },
-    {
-      "hun": "előbb-utóbb",
-      "en": "sooner or later"
-    },
-    {
-      "hun": "próbálgatás",
-      "en": "trial and error"
-    },
-    {
-      "hun": "alatt",
-      "en": "beneath"
-    },
-    {
-      "hun": "láva",
-      "en": "lava"
-    },
-    {
-      "hun": "menekült",
-      "en": "refugee"
-    },
-    {
-      "hun": "szélvédő",
-      "en": "windscreen"
-    },
-    {
-      "hun": "hóvihar, hófúvás",
-      "en": "blizzard"
-    },
-    {
-      "hun": "rekkenő hőség, forróság",
-      "en": "boiling"
-    },
-    {
-      "hun": "hideg, csípős",
-      "en": "chilly"
-    },
-    {
-      "hun": "felhőtlen",
-      "en": "cloudless"
-    },
-    {
-      "hun": "nedves, nyirkos hideg",
-      "en": "damp"
-    },
-    {
-      "hun": "felhőszakadás, zápor",
-      "en": "downpour"
-    },
-    {
-      "hun": "köd",
-      "en": "fog"
-    },
-    {
-      "hun": "fagyos",
-      "en": "freezing"
-    },
-    {
-      "hun": "fagy",
-      "en": "frost"
-    },
-    {
-      "hun": "jégeső",
-      "en": "hail"
-    },
-    {
-      "hun": "hőhullám",
-      "en": "heatwave"
-    },
-    {
-      "hun": "nedves meleg, magas páratartalmú levegő",
-      "en": "humid"
-    },
-    {
-      "hun": "villám",
-      "en": "lightning"
-    },
-    {
-      "hun": "köd, pára",
-      "en": "mist"
-    },
-    {
-      "hun": "borús, felhős",
-      "en": "overcast"
-    },
-    {
-      "hun": "csapadék, eső",
-      "en": "rainfall"
-    },
-    {
-      "hun": "zápor",
-      "en": "shower"
-    },
-    {
-      "hun": "vihar",
-      "en": "thunderstorm"
-    },
-    {
-      "hun": "szökőár",
-      "en": "tsunami"
-    },
-    {
-      "hun": "földrengés",
-      "en": "earthquake"
-    },
-    {
-      "hun": "szárazság",
-      "en": "drought"
-    },
-    {
-      "hun": "hurrikán",
-      "en": "hurricane"
-    },
-    {
-      "hun": "lavina",
-      "en": "avalanche"
-    },
-    {
-      "hun": "erdőtűz",
-      "en": "wildfire"
-    },
-    {
-      "hun": "vulkánkitörés",
-      "en": "volcanic eruption"
-    },
-    {
-      "hun": "földcsuszamlás",
-      "en": "landslide"
-    },
-    {
-      "hun": "egyesület, szervezet",
-      "en": "association"
-    },
-    {
-      "hun": "vödör",
-      "en": "bucket"
-    },
-    {
-      "hun": "adomány, hozzájárulás",
-      "en": "contribution"
-    },
-    {
-      "hun": "kegyetlenség",
-      "en": "cruelty"
-    },
-    {
-      "hun": "hajat fest",
-      "en": "dye"
-    },
-    {
-      "hun": "tágabb családi kör",
-      "en": "extended family"
-    },
-    {
-      "hun": "ételosztás, melegkonyha rászorulóknak",
-      "en": "food kitchen"
-    },
-    {
-      "hun": "alapítvány",
-      "en": "foundation"
-    },
-    {
-      "hun": "tiszteleg valaki előtt, megbecsül valakit",
-      "en": "honour"
-    },
-    {
-      "hun": "megjelöl, bejelöl",
-      "en": "indicate"
-    },
-    {
-      "hun": "karaoke",
-      "en": "karaoke"
-    },
-    {
-      "hun": "mikrochip",
-      "en": "microchip"
-    },
-    {
-      "hun": "rosszul bánik valakivel",
-      "en": "mistreat"
-    },
-    {
-      "hun": "leszűkíti a kört",
-      "en": "narrow sth down"
-    },
-    {
-      "hun": "akadály",
-      "en": "obstacle"
-    },
-    {
-      "hun": "furcsa",
-      "en": "odd"
-    },
-    {
-      "hun": "fazekasság",
-      "en": "pottery"
-    },
-    {
-      "hun": "pihenés, kikapcsolódás",
-      "en": "recreation"
-    },
-    {
-      "hun": "szobrászat",
-      "en": "sculpture"
-    },
-    {
-      "hun": "idős állampolgár, nyugdíjas",
-      "en": "senior citizen"
-    },
-    {
-      "hun": "szponzorál, támogat",
-      "en": "sponsor"
-    },
-    {
-      "hun": "szponzorálás",
-      "en": "sponsorship"
-    },
-    {
-      "hun": "kóbor állat",
-      "en": "stray animal"
-    },
-    {
-      "hun": "tanítás",
-      "en": "tutoring"
-    },
-    {
-      "hun": "oltás",
-      "en": "vaccination"
-    },
-    {
-      "hun": "állatorvos",
-      "en": "vet"
-    },
-    {
-      "hun": "jólét",
-      "en": "welfare"
-    },
-    {
-      "hun": "elfogadható",
-      "en": "acceptable"
-    },
-    {
-      "hun": "függőség",
-      "en": "addiction"
-    },
-    {
-      "hun": "egészében véve",
-      "en": "as a whole"
-    },
-    {
-      "hun": "összecsapás",
-      "en": "clash"
-    },
-    {
-      "hun": "tömegesen elkövetett erőszakos cselekedet",
-      "en": "crowd violence"
-    },
-    {
-      "hun": "oszt, megoszt, szétoszt",
-      "en": "divide"
-    },
-    {
-      "hun": "oktató, pedagógus",
-      "en": "educator"
-    },
-    {
-      "hun": "bizonytalanság",
-      "en": "insecurity"
-    },
-    {
-      "hun": "elhanyagol",
-      "en": "neglect"
-    },
-    {
-      "hun": "hivatalos",
-      "en": "official"
-    },
-    {
-      "hun": "szülői felügyelet",
-      "en": "parental guidance"
-    },
-    {
-      "hun": "szabadidő",
-      "en": "pastime"
-    },
-    {
-      "hun": "rendőrjárőr",
-      "en": "police patrol"
-    },
-    {
-      "hun": "besorolás, minősítés",
-      "en": "rating"
-    },
-    {
-      "hun": "összetör",
-      "en": "smash"
-    },
-    {
-      "hun": "szikrázik",
-      "en": "spark"
-    },
-    {
-      "hun": "megcéloz, célba vesz",
-      "en": "target"
-    },
-    {
-      "hun": "sürgős",
-      "en": "urgent"
-    }
-  ]
+    "EnglishWords": [
+        {
+            "hun": "etnikai hovatartozás",
+            "en": "Citizenship / ethnic origin"
+        },
+        {
+            "hun": "keresztnév",
+            "en": "first name"
+        },
+        {
+            "hun": "nem",
+            "en": "gender"
+        },
+        {
+            "hun": "vezetéknév",
+            "en": "surname"
+        },
+        {
+            "hun": "férfi / nő",
+            "en": "male / female"
+        },
+        {
+            "hun": "családi állapot: egyedülálló / házas / külön élő / elvált / özvegy",
+            "en": "marital status: single / married / separated / divorced / widowed"
+        },
+        {
+            "hun": "nemzetiség",
+            "en": "nationality"
+        },
+        {
+            "hun": "legközelebbi rokon",
+            "en": "next of kin"
+        },
+        {
+            "hun": "becenév",
+            "en": "nickname"
+        },
+        {
+            "hun": "állandó / ideiglenes lakcím",
+            "en": "permanent / temporary address"
+        },
+        {
+            "hun": "lakóhely",
+            "en": "place of residence"
+        },
+        {
+            "hun": "alnév",
+            "en": "pseudonym"
+        },
+        {
+            "hun": "házastárs",
+            "en": "spouse"
+        },
+        {
+            "hun": "gyönyörű / csinos / szemrevaló / vonzó / átlagos külsejű nő",
+            "en": "a beautiful / pretty / good-looking / attractive / ordinary-looking woman"
+        },
+        {
+            "hun": "duci / telt / túlsúlyos / elhízott személy",
+            "en": "a chubby / plump / overweight / obese person"
+        },
+        {
+            "hun": "világos / sötét / sápadt / barnás arcszín",
+            "en": "a fair / dark / pale / tanned complexion"
+        },
+        {
+            "hun": "jóépítésű / jóvágású férfi",
+            "en": "a handsome / well-built man"
+        },
+        {
+            "hun": "vézna / sovány személy",
+            "en": "a skinny / thin person"
+        },
+        {
+            "hun": "vékony / karcsú nő",
+            "en": "a slim / slender woman"
+        },
+        {
+            "hun": "átlagos / középtermetű nő",
+            "en": "a woman of average / medium height"
+        },
+        {
+            "hun": "jól néz ki",
+            "en": "have good looks"
+        },
+        {
+            "hun": "Mennyi a súlya?",
+            "en": "How much does he/she weigh?"
+        },
+        {
+            "hun": "Hogy néz ki?",
+            "en": "What does he/she look like?"
+        },
+        {
+            "hun": "fiatalabbnak / idősebbnek látszik a koránál",
+            "en": "younger / older than he looks"
+        },
+        {
+            "hun": "életkor",
+            "en": "age"
+        },
+        {
+            "hun": "újszülött / csecsemő / totyogó / kisgyerek / kamasz / tizenéves / felnőtt / középkorú / idős",
+            "en": "newborn baby / infant / toddler / adolescent / teenager / adult / middle-aged / elderly"
+        },
+        {
+            "hun": "a harmincas éveiben jár",
+            "en": "in his/her 20s/30s"
+        },
+        {
+            "hun": "testalkat",
+            "en": "build"
+        },
+        {
+            "hun": "sportos / széles vállú / izmos / hhorgias / zömök",
+            "en": "athletic / broad-shouldered / muscular / lanky / stocky"
+        },
+        {
+            "hun": "anyajegy",
+            "en": "birthmark"
+        },
+        {
+            "hun": "sebhely, forradás",
+            "en": "scar"
+        },
+        {
+            "hun": "szemek",
+            "en": "eyes"
+        },
+        {
+            "hun": "barna / kék / zöld / mogyorószínű / ragyogó",
+            "en": "brown / blue / green / hazel / bright"
+        },
+        {
+            "hun": "arcforma",
+            "en": "face"
+        },
+        {
+            "hun": "kerek / ovális / hosszúkás / keskeny",
+            "en": "round / oval / long / thin"
+        },
+        {
+            "hun": "szakáll / bajusz",
+            "en": "beard / moustache"
+        },
+        {
+            "hun": "gödröcskék / homlok / arc / áll / szemöldök",
+            "en": "dimples / forehead / cheeks / chin / eyebrows"
+        },
+        {
+            "hun": "szeplős / ráncos",
+            "en": "freckled / wrinkled"
+        },
+        {
+            "hun": "pattanás",
+            "en": "pimples / spots / acne"
+        },
+        {
+            "hun": "széles / összeszorított szájú mosoly",
+            "en": "broad / tight-lipped smile"
+        },
+        {
+            "hun": "haj",
+            "en": "hair"
+        },
+        {
+            "hun": "szőke / sötét / világos / vörös / ősz / festett",
+            "en": "blonde / dark / fair / red / grey / dyed"
+        },
+        {
+            "hun": "rövid / hosszú / egyenes / göndör / hullámos / tüskés / rövidre nyírt / vállig érő / félhosszú",
+            "en": "short / long / straight / curly / wavy / spiky / cropped / shoulder-length / medium-length"
+        },
+        {
+            "hun": "frufru / lófarkas / középen elválasztott / oldalt elválasztott / kopasz / paróka",
+            "en": "fringe / ponytail / centre-parting / side-parting / bald / wig"
+        },
+        {
+            "hun": "orr",
+            "en": "nose"
+        },
+        {
+            "hun": "nagy / kicsi / hosszú / turcs / hegyes",
+            "en": "big / small / long / snub / pointed"
+        },
+        {
+            "hun": "(helytelenül / őszinte, becsületes / becstelen)",
+            "en": "(dis)honest"
+        },
+        {
+            "hun": "(érett / éretlen)",
+            "en": "(im)mature"
+        },
+        {
+            "hun": "(türelmes / türelmetlen)",
+            "en": "(im)patient"
+        },
+        {
+            "hun": "(udvarias / udvariatlan)",
+            "en": "(im)polite"
+        },
+        {
+            "hun": "(aktív / tetlen)",
+            "en": "(in)active"
+        },
+        {
+            "hun": "(őszinte, nyílt / nem őszinte)",
+            "en": "(in)sincere"
+        },
+        {
+            "hun": "(felelős / felelőtlen)",
+            "en": "(ir)responsible"
+        },
+        {
+            "hun": "(kiszámítható / kiszámíthatatlan)",
+            "en": "(un)predictable"
+        },
+        {
+            "hun": "(megbízható / megbízhatatlan)",
+            "en": "(un)reliable"
+        },
+        {
+            "hun": "szórakozott",
+            "en": "absent-minded"
+        },
+        {
+            "hun": "kalandvágyó szellemű",
+            "en": "adventurous"
+        },
+        {
+            "hun": "agresszív",
+            "en": "aggressive"
+        },
+        {
+            "hun": "becsvágyó",
+            "en": "ambitious / driven"
+        },
+        {
+            "hun": "unalmas / fárasztó",
+            "en": "boring / dull"
+        },
+        {
+            "hun": "irányítgató, főnökösködő",
+            "en": "bossy"
+        },
+        {
+            "hun": "bátor",
+            "en": "brave"
+        },
+        {
+            "hun": "nyugodt",
+            "en": "calm / relaxed"
+        },
+        {
+            "hun": "gondoskodó",
+            "en": "caring"
+        },
+        {
+            "hun": "jótékony",
+            "en": "charitable"
+        },
+        {
+            "hun": "vidám",
+            "en": "cheerful"
+        },
+        {
+            "hun": "gyerekes",
+            "en": "childish"
+        },
+        {
+            "hun": "okos",
+            "en": "clever"
+        },
+        {
+            "hun": "elkötelezett",
+            "en": "committed"
+        },
+        {
+            "hun": "könyörületes",
+            "en": "compassionate"
+        },
+        {
+            "hun": "magabiztos, bizakodó",
+            "en": "confident"
+        },
+        {
+            "hun": "következetes",
+            "en": "consistent"
+        },
+        {
+            "hun": "gyáva",
+            "en": "coward"
+        },
+        {
+            "hun": "kreatív",
+            "en": "creative"
+        },
+        {
+            "hun": "eltökélt",
+            "en": "determined"
+        },
+        {
+            "hun": "kényelmes",
+            "en": "easy-going"
+        },
+        {
+            "hun": "félelmet nem ismerő",
+            "en": "fearless"
+        },
+        {
+            "hun": "rugalmas",
+            "en": "flexible"
+        },
+        {
+            "hun": "feledékeny",
+            "en": "forgetful"
+        },
+        {
+            "hun": "nagylelkű",
+            "en": "generous"
+        },
+        {
+            "hun": "dolgos, szorgalmas",
+            "en": "hard-working"
+        },
+        {
+            "hun": "jó humorérzéke van",
+            "en": "have a sense of humour"
+        },
+        {
+            "hun": "segítőkész",
+            "en": "helpful"
+        },
+        {
+            "hun": "hirtelen haragú",
+            "en": "hot-tempered"
+        },
+        {
+            "hun": "szerény",
+            "en": "humble"
+        },
+        {
+            "hun": "határozatlan",
+            "en": "indecisive"
+        },
+        {
+            "hun": "független",
+            "en": "independent"
+        },
+        {
+            "hun": "intelligens",
+            "en": "intelligent"
+        },
+        {
+            "hun": "találékony",
+            "en": "inventive"
+        },
+        {
+            "hun": "ingerlékeny",
+            "en": "irritable"
+        },
+        {
+            "hun": "féltékeny",
+            "en": "jealous"
+        },
+        {
+            "hun": "kedves",
+            "en": "kind"
+        },
+        {
+            "hun": "lusták",
+            "en": "lazy"
+        },
+        {
+            "hun": "szűkmarkú, fösvény",
+            "en": "mean"
+        },
+        {
+            "hun": "rendetlen",
+            "en": "messy"
+        },
+        {
+            "hun": "boldogtalan, elszomorodott",
+            "en": "miserable"
+        },
+        {
+            "hun": "hangulatingadozása van",
+            "en": "moody"
+        },
+        {
+            "hun": "erkölcsös",
+            "en": "moral"
+        },
+        {
+            "hun": "szűkkörű / nyitott",
+            "en": "narrow-minded / open-minded"
+        },
+        {
+            "hun": "társaságkedvelő",
+            "en": "outgoing"
+        },
+        {
+            "hun": "maximalista",
+            "en": "perfectionist"
+        },
+        {
+            "hun": "büszke",
+            "en": "proud"
+        },
+        {
+            "hun": "pontos",
+            "en": "punctual"
+        },
+        {
+            "hun": "megfontolt, ésszerű",
+            "en": "reasonable"
+        },
+        {
+            "hun": "lázadó",
+            "en": "rebellious"
+        },
+        {
+            "hun": "zárkózott",
+            "en": "reserved"
+        },
+        {
+            "hun": "bunkó, udvariatlan",
+            "en": "rude"
+        },
+        {
+            "hun": "önbizalommal teli",
+            "en": "self-confident"
+        },
+        {
+            "hun": "önző",
+            "en": "selfish"
+        },
+        {
+            "hun": "érzékeny",
+            "en": "sensitive"
+        },
+        {
+            "hun": "komoly",
+            "en": "serious"
+        },
+        {
+            "hun": "félénk",
+            "en": "shy"
+        },
+        {
+            "hun": "társaságkedvelő",
+            "en": "sociable"
+        },
+        {
+            "hun": "elkényeztetett",
+            "en": "spoilt"
+        },
+        {
+            "hun": "sportos",
+            "en": "sporty"
+        },
+        {
+            "hun": "szigorú",
+            "en": "strict"
+        },
+        {
+            "hun": "makacs",
+            "en": "stubborn"
+        },
+        {
+            "hun": "tehetséges",
+            "en": "talented"
+        },
+        {
+            "hun": "beszédes",
+            "en": "talkative"
+        },
+        {
+            "hun": "megbízható",
+            "en": "trustworthy"
+        },
+        {
+            "hun": "megértő",
+            "en": "understanding"
+        },
+        {
+            "hun": "anorák",
+            "en": "anorak"
+        },
+        {
+            "hun": "nadrágtartó",
+            "en": "braces"
+        },
+        {
+            "hun": "gallér",
+            "en": "collar"
+        },
+        {
+            "hun": "kontaktlencse",
+            "en": "contact lenses"
+        },
+        {
+            "hun": "strandpapucs",
+            "en": "flip-flops"
+        },
+        {
+            "hun": "kesztyű",
+            "en": "gloves"
+        },
+        {
+            "hun": "kapucnis pulóver",
+            "en": "hooded sweatshirt"
+        },
+        {
+            "hun": "nagykabát",
+            "en": "overcoat"
+        },
+        {
+            "hun": "golfnyakú",
+            "en": "polo neck"
+        },
+        {
+            "hun": "pizsama",
+            "en": "pyjamas"
+        },
+        {
+            "hun": "szandál",
+            "en": "sandals"
+        },
+        {
+            "hun": "sál",
+            "en": "scarf"
+        },
+        {
+            "hun": "papucs",
+            "en": "slippers"
+        },
+        {
+            "hun": "öltöny",
+            "en": "suit"
+        },
+        {
+            "hun": "úszónadrág",
+            "en": "swimming trunks"
+        },
+        {
+            "hun": "fürdőruha",
+            "en": "swimsuit"
+        },
+        {
+            "hun": "nyakkendő / csokornyakkendő",
+            "en": "tie / bow tie"
+        },
+        {
+            "hun": "harisnyanadrág",
+            "en": "tights"
+        },
+        {
+            "hun": "melegítő",
+            "en": "tracksuit"
+        },
+        {
+            "hun": "edzőcipő",
+            "en": "trainers"
+        },
+        {
+            "hun": "alsónemű",
+            "en": "underwear"
+        },
+        {
+            "hun": "gumicsizma",
+            "en": "wellingtons"
+        },
+        {
+            "hun": "cipzár",
+            "en": "zip"
+        },
+        {
+            "hun": "alkalomra illő",
+            "en": "appropriate for the occasion"
+        },
+        {
+            "hun": "bő",
+            "en": "baggy"
+        },
+        {
+            "hun": "márkás, dizájner / drága / használt",
+            "en": "designer / expensive / second-hand"
+        },
+        {
+            "hun": "kifakult",
+            "en": "faded"
+        },
+        {
+            "hun": "alkalmi / elegáns",
+            "en": "formal / smart / elegant"
+        },
+        {
+            "hun": "kötött",
+            "en": "knitted"
+        },
+        {
+            "hun": "hosszú ujjú / rövid ujjú / ujjatlan",
+            "en": "long-sleeved / short-sleeved / sleeveless"
+        },
+        {
+            "hun": "szakadt",
+            "en": "ripped"
+        },
+        {
+            "hun": "testhezálló / bő szabású, laza",
+            "en": "tight-fitting / loose-fitting"
+        },
+        {
+            "hun": "pamut",
+            "en": "cotton"
+        },
+        {
+            "hun": "farmeranyag",
+            "en": "denim"
+        },
+        {
+            "hun": "szőrme",
+            "en": "fur"
+        },
+        {
+            "hun": "csipke",
+            "en": "lace"
+        },
+        {
+            "hun": "bőr",
+            "en": "leather"
+        },
+        {
+            "hun": "vászon",
+            "en": "linen"
+        },
+        {
+            "hun": "nejlon",
+            "en": "nylon"
+        },
+        {
+            "hun": "gumi",
+            "en": "rubber"
+        },
+        {
+            "hun": "selyem",
+            "en": "silk"
+        },
+        {
+            "hun": "gyapjú, gyapjúszövet",
+            "en": "wool, woollen"
+        },
+        {
+            "hun": "kockás",
+            "en": "checked"
+        },
+        {
+            "hun": "pöttyös",
+            "en": "dotted"
+        },
+        {
+            "hun": "virágos",
+            "en": "floral"
+        },
+        {
+            "hun": "minta nélküli, egyszínű",
+            "en": "plain"
+        },
+        {
+            "hun": "csíkos",
+            "en": "striped"
+        },
+        {
+            "hun": "jóváhagyó / helytelenítő",
+            "en": "approving / disapproving"
+        },
+        {
+            "hun": "csodál",
+            "en": "admire"
+        },
+        {
+            "hun": "imád, csodál",
+            "en": "adore"
+        },
+        {
+            "hun": "mérges / dühös",
+            "en": "angry / furious"
+        },
+        {
+            "hun": "bosszús",
+            "en": "annoyed"
+        },
+        {
+            "hun": "aggódó",
+            "en": "anxious"
+        },
+        {
+            "hun": "elszörnyedt, elborzadt",
+            "en": "appalled"
+        },
+        {
+            "hun": "rajong vmiért / nagyon szeret vmit / odavan vmiért / lelkesedik vmiért",
+            "en": "be a fan of / be fond of / be into / be keen on"
+        },
+        {
+            "hun": "szégyell vmit",
+            "en": "be ashamed of"
+        },
+        {
+            "hun": "vonzódik vkihez",
+            "en": "be attracted to sb"
+        },
+        {
+            "hun": "reménytelen vmiben, nem jó vmiben",
+            "en": "be hopeless at"
+        },
+        {
+            "hun": "vmilyen hangulatban van",
+            "en": "be in the mood for/to"
+        },
+        {
+            "hun": "unatkozik, unatkozó",
+            "en": "bored"
+        },
+        {
+            "hun": "ki nem állhat",
+            "en": "can't stand"
+        },
+        {
+            "hun": "zavarodott, összezavart",
+            "en": "confused"
+        },
+        {
+            "hun": "boldog / pilled",
+            "en": "delighted / pleased"
+        },
+        {
+            "hun": "levert",
+            "en": "depressed"
+        },
+        {
+            "hun": "csalódott",
+            "en": "disappointed"
+        },
+        {
+            "hun": "zavarban van",
+            "en": "embarrassed"
+        },
+        {
+            "hun": "izgatott",
+            "en": "excited"
+        },
+        {
+            "hun": "kimerült",
+            "en": "exhausted"
+        },
+        {
+            "hun": "szerelmes lesz",
+            "en": "fall in love"
+        },
+        {
+            "hun": "kedvére van",
+            "en": "fancy"
+        },
+        {
+            "hun": "torkig van vmivel",
+            "en": "fed up with"
+        },
+        {
+            "hun": "közös nevezőt talál",
+            "en": "find common ground"
+        },
+        {
+            "hun": "rémült / ijedt / megrettent",
+            "en": "frightened / scared / terrified"
+        },
+        {
+            "hun": "frusztrált",
+            "en": "frustrated"
+        },
+        {
+            "hun": "jól kijön vkivel",
+            "en": "get on well with"
+        },
+        {
+            "hun": "hálás",
+            "en": "grateful"
+        },
+        {
+            "hun": "gyűlöl",
+            "en": "hate"
+        },
+        {
+            "hun": "közömbös",
+            "en": "indifferent"
+        },
+        {
+            "hun": "irritált, bosszankodó",
+            "en": "irritated"
+        },
+        {
+            "hun": "magányos",
+            "en": "lonely"
+        },
+        {
+            "hun": "vágyik, vágyódik vmire",
+            "en": "long for sb/sth"
+        },
+        {
+            "hun": "tisztelettel felnéz vkire",
+            "en": "look up to sb"
+        },
+        {
+            "hun": "elveszíti a türelmét, kijön a sodrából",
+            "en": "lose one's temper"
+        },
+        {
+            "hun": "boldogtalan, csalódott",
+            "en": "miserable"
+        },
+        {
+            "hun": "meghatott",
+            "en": "moved"
+        },
+        {
+            "hun": "ideges, ingerült",
+            "en": "nervous"
+        },
+        {
+            "hun": "túlterhelt",
+            "en": "overwhelmed"
+        },
+        {
+            "hun": "szenvedélyes",
+            "en": "passionate"
+        },
+        {
+            "hun": "tisztel, respektál",
+            "en": "respect"
+        },
+        {
+            "hun": "megdöbbent, sokkolt",
+            "en": "shocked"
+        },
+        {
+            "hun": "meglepett / meghökkent",
+            "en": "surprised / amazed"
+        },
+        {
+            "hun": "rokonszenv, együttérzés",
+            "en": "sympathy"
+        },
+        {
+            "hun": "érdeklődik vmi iránt",
+            "en": "take an interest in"
+        },
+        {
+            "hun": "büszke vmire",
+            "en": "take pride in"
+        },
+        {
+            "hun": "izgatott, lenyűgözött",
+            "en": "thrilled"
+        },
+        {
+            "hun": "aggódó",
+            "en": "worried"
+        },
+        {
+            "hun": "felspannolva",
+            "en": "be on top of the world"
+        },
+        {
+            "hun": "kimerült, fáradt",
+            "en": "be out of sorts"
+        },
+        {
+            "hun": "az idegeire megy vkinek, megőrjít vkit",
+            "en": "drive sb up the wall"
+        },
+        {
+            "hun": "szomorkodik",
+            "en": "feel blue"
+        },
+        {
+            "hun": "nehéz helyzetbe hoz",
+            "en": "give sb a hard time"
+        },
+        {
+            "hun": "vegyes érzései vannak",
+            "en": "have mixed feelings"
+        },
+        {
+            "hun": "ugrál örömében",
+            "en": "jumping for joy"
+        }
+    ]
 }

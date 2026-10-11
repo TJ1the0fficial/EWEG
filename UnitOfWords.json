@@ -2,7 +2,7 @@
     "EnglishWords": [
         {
             "hun": "etnikai hovatartozás",
-            "en": "Citizenship / ethnic origin"
+            "en": "ethnic origin"
         },
         {
             "hun": "keresztnév",
@@ -17,12 +17,32 @@
             "en": "surname"
         },
         {
-            "hun": "férfi / nő",
-            "en": "male / female"
+            "hun": "férfi",
+            "en": "male"
         },
         {
-            "hun": "családi állapot: egyedülálló / házas / külön élő / elvált / özvegy",
-            "en": "marital status: single / married / separated / divorced / widowed"
+            "hun": "nő",
+            "en": "female"
+        },
+        {
+            "hun": "egyedülálló",
+            "en": "single"
+        },
+        {
+            "hun": "házas",
+            "en": "married"
+        },
+        {
+            "hun": "külön élő",
+            "en": "separated"
+        },
+        {
+            "hun": "elvált",
+            "en": "divorced"
+        },
+        {
+            "hun": "özvegy",
+            "en": "widowed"
         },
         {
             "hun": "nemzetiség",
@@ -37,8 +57,12 @@
             "en": "nickname"
         },
         {
-            "hun": "állandó / ideiglenes lakcím",
-            "en": "permanent / temporary address"
+            "hun": "állandó lakcím",
+            "en": "permanent address"
+        },
+        {
+            "hun": "ideiglenes lakcím",
+            "en": "temporary address"
         },
         {
             "hun": "lakóhely",
@@ -53,32 +77,88 @@
             "en": "spouse"
         },
         {
-            "hun": "gyönyörű / csinos / szemrevaló / vonzó / átlagos külsejű nő",
-            "en": "a beautiful / pretty / good-looking / attractive / ordinary-looking woman"
+            "hun": "gyönyörű nő",
+            "en": "a beautiful woman"
         },
         {
-            "hun": "duci / telt / túlsúlyos / elhízott személy",
-            "en": "a chubby / plump / overweight / obese person"
+            "hun": "csinos nő",
+            "en": "a pretty woman"
         },
         {
-            "hun": "világos / sötét / sápadt / barnás arcszín",
-            "en": "a fair / dark / pale / tanned complexion"
+            "hun": "szemrevaló nő",
+            "en": "a good-looking woman"
         },
         {
-            "hun": "jóépítésű / jóvágású férfi",
-            "en": "a handsome / well-built man"
+            "hun": "vonzó nő",
+            "en": "an attractive woman"
         },
         {
-            "hun": "vézna / sovány személy",
-            "en": "a skinny / thin person"
+            "hun": "átlagos külsejű nő",
+            "en": "an ordinary-looking woman"
         },
         {
-            "hun": "vékony / karcsú nő",
-            "en": "a slim / slender woman"
+            "hun": "duci személy",
+            "en": "a chubby person"
         },
         {
-            "hun": "átlagos / középtermetű nő",
-            "en": "a woman of average / medium height"
+            "hun": "telt személy",
+            "en": "a plump person"
+        },
+        {
+            "hun": "túlsúlyos személy",
+            "en": "an overweight person"
+        },
+        {
+            "hun": "elhízott személy",
+            "en": "an obese person"
+        },
+        {
+            "hun": "világos arcszín",
+            "en": "a fair complexion"
+        },
+        {
+            "hun": "sötét arcszín",
+            "en": "a dark complexion"
+        },
+        {
+            "hun": "sápadt arcszín",
+            "en": "a pale complexion"
+        },
+        {
+            "hun": "barnás arcszín",
+            "en": "a tanned complexion"
+        },
+        {
+            "hun": "jóépítésű férfi",
+            "en": "a well-built man"
+        },
+        {
+            "hun": "jóvágású férfi",
+            "en": "a handsome man"
+        },
+        {
+            "hun": "vézna személy",
+            "en": "a skinny person"
+        },
+        {
+            "hun": "sovány személy",
+            "en": "a thin person"
+        },
+        {
+            "hun": "vékony nő",
+            "en": "a slim woman"
+        },
+        {
+            "hun": "karcsú nő",
+            "en": "a slender woman"
+        },
+        {
+            "hun": "átlagos termetű nő",
+            "en": "a woman of average height"
+        },
+        {
+            "hun": "középtermetű nő",
+            "en": "a woman of medium height"
         },
         {
             "hun": "jól néz ki",
@@ -93,35 +173,91 @@
             "en": "What does he/she look like?"
         },
         {
-            "hun": "fiatalabbnak / idősebbnek látszik a koránál",
-            "en": "younger / older than he looks"
+            "hun": "fiatalabbnak látszik a koránál",
+            "en": "younger than he looks"
+        },
+        {
+            "hun": "idősebbnek látszik a koránál",
+            "en": "older than he looks"
         },
         {
             "hun": "életkor",
             "en": "age"
         },
         {
-            "hun": "újszülött / csecsemő / totyogó / kisgyerek / kamasz / tizenéves / felnőtt / középkorú / idős",
-            "en": "newborn baby / infant / toddler / adolescent / teenager / adult / middle-aged / elderly"
+            "hun": "újszülött",
+            "en": "newborn baby"
+        },
+        {
+            "hun": "csecsemő",
+            "en": "infant"
+        },
+        {
+            "hun": "totyogó",
+            "en": "toddler"
+        },
+        {
+            "hun": "kisgyerek",
+            "en": "adolescent"
+        },
+        {
+            "hun": "kamasz",
+            "en": "teenager"
+        },
+        {
+            "hun": "felnőtt",
+            "en": "adult"
+        },
+        {
+            "hun": "középkorú",
+            "en": "middle-aged"
+        },
+        {
+            "hun": "idős",
+            "en": "elderly"
+        },
+        {
+            "hun": "a húszas éveiben jár",
+            "en": "in his/her 20s"
         },
         {
             "hun": "a harmincas éveiben jár",
-            "en": "in his/her 20s/30s"
+            "en": "in his/her 30s"
         },
         {
             "hun": "testalkat",
             "en": "build"
         },
         {
-            "hun": "sportos / széles vállú / izmos / hhorgias / zömök",
-            "en": "athletic / broad-shouldered / muscular / lanky / stocky"
+            "hun": "sportos",
+            "en": "athletic"
+        },
+        {
+            "hun": "széles vállú",
+            "en": "broad-shouldered"
+        },
+        {
+            "hun": "izmos",
+            "en": "muscular"
+        },
+        {
+            "hun": "horihorgas",
+            "en": "lanky"
+        },
+        {
+            "hun": "zömök",
+            "en": "stocky"
         },
         {
             "hun": "anyajegy",
             "en": "birthmark"
         },
         {
-            "hun": "sebhely, forradás",
+            "hun": "sebhely",
+            "en": "scar"
+        },
+        {
+            "hun": "forradás",
             "en": "scar"
         },
         {
@@ -129,96 +265,284 @@
             "en": "eyes"
         },
         {
-            "hun": "barna / kék / zöld / mogyorószínű / ragyogó",
-            "en": "brown / blue / green / hazel / bright"
+            "hun": "barna",
+            "en": "brown"
+        },
+        {
+            "hun": "kék",
+            "en": "blue"
+        },
+        {
+            "hun": "zöld",
+            "en": "green"
+        },
+        {
+            "hun": "mogyorószínű",
+            "en": "hazel"
+        },
+        {
+            "hun": "ragyogó",
+            "en": "bright"
         },
         {
             "hun": "arcforma",
             "en": "face"
         },
         {
-            "hun": "kerek / ovális / hosszúkás / keskeny",
-            "en": "round / oval / long / thin"
+            "hun": "kerek",
+            "en": "round"
         },
         {
-            "hun": "szakáll / bajusz",
-            "en": "beard / moustache"
+            "hun": "ovális",
+            "en": "oval"
         },
         {
-            "hun": "gödröcskék / homlok / arc / áll / szemöldök",
-            "en": "dimples / forehead / cheeks / chin / eyebrows"
+            "hun": "hosszúkás",
+            "en": "long"
         },
         {
-            "hun": "szeplős / ráncos",
-            "en": "freckled / wrinkled"
+            "hun": "keskeny",
+            "en": "thin"
+        },
+        {
+            "hun": "szakáll",
+            "en": "beard"
+        },
+        {
+            "hun": "bajusz",
+            "en": "moustache"
+        },
+        {
+            "hun": "gödröcskék",
+            "en": "dimples"
+        },
+        {
+            "hun": "homlok",
+            "en": "forehead"
+        },
+        {
+            "hun": "arc",
+            "en": "cheeks"
+        },
+        {
+            "hun": "áll",
+            "en": "chin"
+        },
+        {
+            "hun": "szemöldök",
+            "en": "eyebrows"
+        },
+        {
+            "hun": "szeplős",
+            "en": "freckled"
+        },
+        {
+            "hun": "ráncos",
+            "en": "wrinkled"
         },
         {
             "hun": "pattanás",
-            "en": "pimples / spots / acne"
+            "en": "pimples"
         },
         {
-            "hun": "széles / összeszorított szájú mosoly",
-            "en": "broad / tight-lipped smile"
+            "hun": "mitesszer",
+            "en": "spots"
+        },
+        {
+            "hun": "akne",
+            "en": "acne"
+        },
+        {
+            "hun": "széles mosoly",
+            "en": "broad smile"
+        },
+        {
+            "hun": "összeszorított szájú mosoly",
+            "en": "tight-lipped smile"
         },
         {
             "hun": "haj",
             "en": "hair"
         },
         {
-            "hun": "szőke / sötét / világos / vörös / ősz / festett",
-            "en": "blonde / dark / fair / red / grey / dyed"
+            "hun": "szőke",
+            "en": "blonde"
         },
         {
-            "hun": "rövid / hosszú / egyenes / göndör / hullámos / tüskés / rövidre nyírt / vállig érő / félhosszú",
-            "en": "short / long / straight / curly / wavy / spiky / cropped / shoulder-length / medium-length"
+            "hun": "sötét",
+            "en": "dark"
         },
         {
-            "hun": "frufru / lófarkas / középen elválasztott / oldalt elválasztott / kopasz / paróka",
-            "en": "fringe / ponytail / centre-parting / side-parting / bald / wig"
+            "hun": "világos szőke",
+            "en": "fair"
+        },
+        {
+            "hun": "vörös",
+            "en": "red"
+        },
+        {
+            "hun": "ősz",
+            "en": "grey"
+        },
+        {
+            "hun": "festett",
+            "en": "dyed"
+        },
+        {
+            "hun": "rövid",
+            "en": "short"
+        },
+        {
+            "hun": "hosszú",
+            "en": "long"
+        },
+        {
+            "hun": "egyenes",
+            "en": "straight"
+        },
+        {
+            "hun": "göndör",
+            "en": "curly"
+        },
+        {
+            "hun": "hullámos",
+            "en": "wavy"
+        },
+        {
+            "hun": "tüskés",
+            "en": "spiky"
+        },
+        {
+            "hun": "rövidre nyírt",
+            "en": "cropped"
+        },
+        {
+            "hun": "vállig érő",
+            "en": "shoulder-length"
+        },
+        {
+            "hun": "félhosszú",
+            "en": "medium-length"
+        },
+        {
+            "hun": "frufru",
+            "en": "fringe"
+        },
+        {
+            "hun": "lófarkas",
+            "en": "ponytail"
+        },
+        {
+            "hun": "középen elválasztott",
+            "en": "centre-parting"
+        },
+        {
+            "hun": "oldalt elválasztott",
+            "en": "side-parting"
+        },
+        {
+            "hun": "kopasz",
+            "en": "bald"
+        },
+        {
+            "hun": "paróka",
+            "en": "wig"
         },
         {
             "hun": "orr",
             "en": "nose"
         },
         {
-            "hun": "nagy / kicsi / hosszú / turcs / hegyes",
-            "en": "big / small / long / snub / pointed"
+            "hun": "nagy",
+            "en": "big"
         },
         {
-            "hun": "(helytelenül / őszinte, becsületes / becstelen)",
-            "en": "(dis)honest"
+            "hun": "kicsi",
+            "en": "small"
         },
         {
-            "hun": "(érett / éretlen)",
-            "en": "(im)mature"
+            "hun": "hosszú",
+            "en": "long"
         },
         {
-            "hun": "(türelmes / türelmetlen)",
-            "en": "(im)patient"
+            "hun": "turcs",
+            "en": "snub"
         },
         {
-            "hun": "(udvarias / udvariatlan)",
-            "en": "(im)polite"
+            "hun": "hegyes",
+            "en": "pointed"
         },
         {
-            "hun": "(aktív / tetlen)",
-            "en": "(in)active"
+            "hun": "őszinte, becsületes",
+            "en": "honest"
         },
         {
-            "hun": "(őszinte, nyílt / nem őszinte)",
-            "en": "(in)sincere"
+            "hun": "becstelen",
+            "en": "dishonest"
         },
         {
-            "hun": "(felelős / felelőtlen)",
-            "en": "(ir)responsible"
+            "hun": "érett",
+            "en": "mature"
         },
         {
-            "hun": "(kiszámítható / kiszámíthatatlan)",
-            "en": "(un)predictable"
+            "hun": "éretlen",
+            "en": "immature"
         },
         {
-            "hun": "(megbízható / megbízhatatlan)",
-            "en": "(un)reliable"
+            "hun": "türelmes",
+            "en": "patient"
+        },
+        {
+            "hun": "türelmetlen",
+            "en": "impatient"
+        },
+        {
+            "hun": "udvarias",
+            "en": "polite"
+        },
+        {
+            "hun": "udvariatlan",
+            "en": "impolite"
+        },
+        {
+            "hun": "aktív",
+            "en": "active"
+        },
+        {
+            "hun": "tetlen",
+            "en": "inactive"
+        },
+        {
+            "hun": "őszinte, nyílt",
+            "en": "sincere"
+        },
+        {
+            "hun": "nem őszinte",
+            "en": "insincere"
+        },
+        {
+            "hun": "felelős",
+            "en": "responsible"
+        },
+        {
+            "hun": "felelőtlen",
+            "en": "irresponsible"
+        },
+        {
+            "hun": "kiszámítható",
+            "en": "predictable"
+        },
+        {
+            "hun": "kiszámíthatatlan",
+            "en": "unpredictable"
+        },
+        {
+            "hun": "megbízható",
+            "en": "reliable"
+        },
+        {
+            "hun": "megbízhatatlan",
+            "en": "unreliable"
         },
         {
             "hun": "szórakozott",
@@ -234,11 +558,19 @@
         },
         {
             "hun": "becsvágyó",
-            "en": "ambitious / driven"
+            "en": "ambitious"
         },
         {
-            "hun": "unalmas / fárasztó",
-            "en": "boring / dull"
+            "hun": "hajtós",
+            "en": "driven"
+        },
+        {
+            "hun": "unalmas",
+            "en": "boring"
+        },
+        {
+            "hun": "fárasztó",
+            "en": "dull"
         },
         {
             "hun": "irányítgató, főnökösködő",
@@ -250,7 +582,11 @@
         },
         {
             "hun": "nyugodt",
-            "en": "calm / relaxed"
+            "en": "calm"
+        },
+        {
+            "hun": "ellazult",
+            "en": "relaxed"
         },
         {
             "hun": "gondoskodó",
@@ -281,7 +617,11 @@
             "en": "compassionate"
         },
         {
-            "hun": "magabiztos, bizakodó",
+            "hun": "magabiztos",
+            "en": "confident"
+        },
+        {
+            "hun": "bizakodó",
             "en": "confident"
         },
         {
@@ -305,7 +645,7 @@
             "en": "easy-going"
         },
         {
-            "hun": "félelmet nem ismerő",
+            "hun": "félelemtelen",
             "en": "fearless"
         },
         {
@@ -369,7 +709,7 @@
             "en": "kind"
         },
         {
-            "hun": "lusták",
+            "hun": "lusta",
             "en": "lazy"
         },
         {
@@ -381,7 +721,11 @@
             "en": "messy"
         },
         {
-            "hun": "boldogtalan, elszomorodott",
+            "hun": "boldogtalan",
+            "en": "miserable"
+        },
+        {
+            "hun": "elszomorodott",
             "en": "miserable"
         },
         {
@@ -393,8 +737,12 @@
             "en": "moral"
         },
         {
-            "hun": "szűkkörű / nyitott",
-            "en": "narrow-minded / open-minded"
+            "hun": "szűkkörű",
+            "en": "narrow-minded"
+        },
+        {
+            "hun": "nyitott",
+            "en": "open-minded"
         },
         {
             "hun": "társaságkedvelő",
@@ -549,8 +897,12 @@
             "en": "swimsuit"
         },
         {
-            "hun": "nyakkendő / csokornyakkendő",
-            "en": "tie / bow tie"
+            "hun": "nyakkendő",
+            "en": "tie"
+        },
+        {
+            "hun": "csokornyakkendő",
+            "en": "bow tie"
         },
         {
             "hun": "harisnyanadrág",
@@ -585,32 +937,56 @@
             "en": "baggy"
         },
         {
-            "hun": "márkás, dizájner / drága / használt",
-            "en": "designer / expensive / second-hand"
+            "hun": "márkás, dizájner",
+            "en": "designer"
+        },
+        {
+            "hun": "drága",
+            "en": "expensive"
+        },
+        {
+            "hun": "használt",
+            "en": "second-hand"
         },
         {
             "hun": "kifakult",
             "en": "faded"
         },
         {
-            "hun": "alkalmi / elegáns",
-            "en": "formal / smart / elegant"
+            "hun": "alkalmi",
+            "en": "formal"
+        },
+        {
+            "hun": "elegáns",
+            "en": "elegant"
         },
         {
             "hun": "kötött",
             "en": "knitted"
         },
         {
-            "hun": "hosszú ujjú / rövid ujjú / ujjatlan",
-            "en": "long-sleeved / short-sleeved / sleeveless"
+            "hun": "hosszú ujjú",
+            "en": "long-sleeved"
+        },
+        {
+            "hun": "rövid ujjú",
+            "en": "short-sleeved"
+        },
+        {
+            "hun": "ujjatlan",
+            "en": "sleeveless"
         },
         {
             "hun": "szakadt",
             "en": "ripped"
         },
         {
-            "hun": "testhezálló / bő szabású, laza",
-            "en": "tight-fitting / loose-fitting"
+            "hun": "testhezálló",
+            "en": "tight-fitting"
+        },
+        {
+            "hun": "bő szabású, laza",
+            "en": "loose-fitting"
         },
         {
             "hun": "pamut",
@@ -649,8 +1025,12 @@
             "en": "silk"
         },
         {
-            "hun": "gyapjú, gyapjúszövet",
-            "en": "wool, woollen"
+            "hun": "gyapjú",
+            "en": "wool"
+        },
+        {
+            "hun": "gyapjúszövet",
+            "en": "woollen"
         },
         {
             "hun": "kockás",
@@ -665,7 +1045,11 @@
             "en": "floral"
         },
         {
-            "hun": "minta nélküli, egyszínű",
+            "hun": "minta nélküli",
+            "en": "plain"
+        },
+        {
+            "hun": "egyszínű",
             "en": "plain"
         },
         {
@@ -673,20 +1057,28 @@
             "en": "striped"
         },
         {
-            "hun": "jóváhagyó / helytelenítő",
-            "en": "approving / disapproving"
+            "hun": "jóváhagyó",
+            "en": "approving"
+        },
+        {
+            "hun": "helytelenítő",
+            "en": "disapproving"
         },
         {
             "hun": "csodál",
             "en": "admire"
         },
         {
-            "hun": "imád, csodál",
+            "hun": "imád",
             "en": "adore"
         },
         {
-            "hun": "mérges / dühös",
-            "en": "angry / furious"
+            "hun": "mérges",
+            "en": "angry"
+        },
+        {
+            "hun": "dühös",
+            "en": "furious"
         },
         {
             "hun": "bosszús",
@@ -697,12 +1089,28 @@
             "en": "anxious"
         },
         {
-            "hun": "elszörnyedt, elborzadt",
+            "hun": "elszörnyedt",
             "en": "appalled"
         },
         {
-            "hun": "rajong vmiért / nagyon szeret vmit / odavan vmiért / lelkesedik vmiért",
-            "en": "be a fan of / be fond of / be into / be keen on"
+            "hun": "elborzadt",
+            "en": "appalled"
+        },
+        {
+            "hun": "rajong vmiért",
+            "en": "be a fan of"
+        },
+        {
+            "hun": "nagyon szeret vmit",
+            "en": "be fond of"
+        },
+        {
+            "hun": "odavan vmiért",
+            "en": "be into"
+        },
+        {
+            "hun": "lelkesedik vmiért",
+            "en": "be keen on"
         },
         {
             "hun": "szégyell vmit",
@@ -713,7 +1121,7 @@
             "en": "be attracted to sb"
         },
         {
-            "hun": "reménytelen vmiben, nem jó vmiben",
+            "hun": "reménytelen vmiben",
             "en": "be hopeless at"
         },
         {
@@ -721,7 +1129,7 @@
             "en": "be in the mood for/to"
         },
         {
-            "hun": "unatkozik, unatkozó",
+            "hun": "unatkozik",
             "en": "bored"
         },
         {
@@ -729,12 +1137,20 @@
             "en": "can't stand"
         },
         {
-            "hun": "zavarodott, összezavart",
+            "hun": "zavarodott",
             "en": "confused"
         },
         {
-            "hun": "boldog / pilled",
-            "en": "delighted / pleased"
+            "hun": "összezavart",
+            "en": "confused"
+        },
+        {
+            "hun": "boldog",
+            "en": "delighted"
+        },
+        {
+            "hun": "örvendező",
+            "en": "pleased"
         },
         {
             "hun": "levert",
@@ -773,8 +1189,16 @@
             "en": "find common ground"
         },
         {
-            "hun": "rémült / ijedt / megrettent",
-            "en": "frightened / scared / terrified"
+            "hun": "rémült",
+            "en": "frightened"
+        },
+        {
+            "hun": "ijedt",
+            "en": "scared"
+        },
+        {
+            "hun": "megrettent",
+            "en": "terrified"
         },
         {
             "hun": "frusztrált",
@@ -797,7 +1221,11 @@
             "en": "indifferent"
         },
         {
-            "hun": "irritált, bosszankodó",
+            "hun": "irritált",
+            "en": "irritated"
+        },
+        {
+            "hun": "bosszankodó",
             "en": "irritated"
         },
         {
@@ -805,7 +1233,7 @@
             "en": "lonely"
         },
         {
-            "hun": "vágyik, vágyódik vmire",
+            "hun": "vágyik vmire",
             "en": "long for sb/sth"
         },
         {
@@ -813,19 +1241,31 @@
             "en": "look up to sb"
         },
         {
-            "hun": "elveszíti a türelmét, kijön a sodrából",
+            "hun": "elveszíti a türelmét",
             "en": "lose one's temper"
         },
         {
-            "hun": "boldogtalan, csalódott",
+            "hun": "kijön a sodrából",
+            "en": "lose one's temper"
+        },
+        {
+            "hun": "boldogtalan",
             "en": "miserable"
+        },
+        {
+            "hun": "meglátogatott",
+            "en": "moved"
         },
         {
             "hun": "meghatott",
             "en": "moved"
         },
         {
-            "hun": "ideges, ingerült",
+            "hun": "ideges",
+            "en": "nervous"
+        },
+        {
+            "hun": "ingerült",
             "en": "nervous"
         },
         {
@@ -837,19 +1277,35 @@
             "en": "passionate"
         },
         {
-            "hun": "tisztel, respektál",
+            "hun": "tisztel",
             "en": "respect"
         },
         {
-            "hun": "megdöbbent, sokkolt",
+            "hun": "respektál",
+            "en": "respect"
+        },
+        {
+            "hun": "megdöbbent",
             "en": "shocked"
         },
         {
-            "hun": "meglepett / meghökkent",
-            "en": "surprised / amazed"
+            "hun": "sokkolt",
+            "en": "shocked"
         },
         {
-            "hun": "rokonszenv, együttérzés",
+            "hun": "meglepett",
+            "en": "surprised"
+        },
+        {
+            "hun": "meghökkent",
+            "en": "amazed"
+        },
+        {
+            "hun": "rokonszenv",
+            "en": "sympathy"
+        },
+        {
+            "hun": "együttérzés",
             "en": "sympathy"
         },
         {
@@ -861,7 +1317,11 @@
             "en": "take pride in"
         },
         {
-            "hun": "izgatott, lenyűgözött",
+            "hun": "izgatott",
+            "en": "thrilled"
+        },
+        {
+            "hun": "lenyűgözött",
             "en": "thrilled"
         },
         {
@@ -873,11 +1333,19 @@
             "en": "be on top of the world"
         },
         {
-            "hun": "kimerült, fáradt",
+            "hun": "kimerült",
             "en": "be out of sorts"
         },
         {
-            "hun": "az idegeire megy vkinek, megőrjít vkit",
+            "hun": "fáradt",
+            "en": "be out of sorts"
+        },
+        {
+            "hun": "az idegeire megy vkinek",
+            "en": "drive sb up the wall"
+        },
+        {
+            "hun": "megőrjít vkit",
             "en": "drive sb up the wall"
         },
         {

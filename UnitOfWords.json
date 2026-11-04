@@ -1,1368 +1,864 @@
 {
     "EnglishWords": [
         {
-            "hun": "etnikai hovatartozás",
-            "en": "ethnic origin"
+            "hun": "házgyári ház / tömbház",
+            "en": "block of flats"
         },
         {
-            "hun": "keresztnév",
-            "en": "first name"
+            "hun": "egyszintes ház",
+            "en": "bungalow"
         },
         {
-            "hun": "nem",
-            "en": "gender"
+            "hun": "vidéki ház, vendégház",
+            "en": "cottage"
         },
         {
-            "hun": "vezetéknév",
-            "en": "surname"
+            "hun": "családi ház",
+            "en": "detached house"
         },
         {
-            "hun": "férfi",
-            "en": "male"
+            "hun": "parasztház, tanya",
+            "en": "farmhouse"
         },
         {
-            "hun": "nő",
-            "en": "female"
+            "hun": "lakás/apartman",
+            "en": "flat/apartment"
         },
         {
-            "hun": "egyedülálló",
-            "en": "single"
+            "hun": "stúdiólakás, bérlakás",
+            "en": "maisonette"
         },
         {
-            "hun": "házas",
-            "en": "married"
+            "hun": "emeletes ház",
+            "en": "multi-storey house"
         },
         {
-            "hun": "külön élő",
-            "en": "separated"
+            "hun": "garzonlakás",
+            "en": "one room flat/bedsit/bedsitter"
         },
         {
-            "hun": "elvált",
-            "en": "divorced"
+            "hun": "ikerház",
+            "en": "semi-detached house"
         },
         {
-            "hun": "özvegy",
-            "en": "widowed"
+            "hun": "felhőkarcoló",
+            "en": "skyscraper"
         },
         {
-            "hun": "nemzetiség",
-            "en": "nationality"
+            "hun": "nyaraló, kerti lak",
+            "en": "summer house"
         },
         {
-            "hun": "legközelebbi rokon",
-            "en": "next of kin"
+            "hun": "tízemeletes ház",
+            "en": "ten-storey block"
         },
         {
-            "hun": "becenév",
-            "en": "nickname"
+            "hun": "sorház",
+            "en": "terraced house"
         },
         {
-            "hun": "állandó lakcím",
-            "en": "permanent address"
+            "hun": "háromszobás lakás",
+            "en": "three-room flat"
         },
         {
-            "hun": "ideiglenes lakcím",
-            "en": "temporary address"
+            "hun": "toronyház",
+            "en": "tower block"
         },
         {
-            "hun": "lakóhely",
-            "en": "place of residence"
+            "hun": "kétemeletes ház",
+            "en": "two-storey house"
         },
         {
-            "hun": "alnév",
-            "en": "pseudonym"
+            "hun": "megfizethető",
+            "en": "affordable"
         },
         {
-            "hun": "házastárs",
-            "en": "spouse"
+            "hun": "levegős",
+            "en": "airy"
         },
         {
-            "hun": "gyönyörű nő",
-            "en": "a beautiful woman"
+            "hun": "stílbútor, antik bútor",
+            "en": "antique furniture"
         },
         {
-            "hun": "csinos nő",
-            "en": "a pretty woman"
+            "hun": "zsúfolt",
+            "en": "cluttered"
         },
         {
-            "hun": "szemrevaló nő",
-            "en": "a good-looking woman"
+            "hun": "megfelelő/kényelmes",
+            "en": "convenient/comfortable"
         },
         {
-            "hun": "vonzó nő",
-            "en": "an attractive woman"
+            "hun": "lakályos",
+            "en": "cosy"
         },
         {
-            "hun": "átlagos külsejű nő",
-            "en": "an ordinary-looking woman"
+            "hun": "nyirkos",
+            "en": "damp"
         },
         {
-            "hun": "duci személy",
-            "en": "a chubby person"
+            "hun": "külső/belső",
+            "en": "exterior/interior"
         },
         {
-            "hun": "telt személy",
-            "en": "a plump person"
+            "hun": "rendeltetésszerű",
+            "en": "functional"
         },
         {
-            "hun": "túlsúlyos személy",
-            "en": "an overweight person"
+            "hun": "személytelen",
+            "en": "impersonal"
         },
         {
-            "hun": "elhízott személy",
-            "en": "an obese person"
+            "hun": "jó/rossz állapotú",
+            "en": "in good/bad condition"
         },
         {
-            "hun": "világos arcszín",
-            "en": "a fair complexion"
+            "hun": "tele van zsúfolva (holmikkal)",
+            "en": "littered (with things)"
         },
         {
-            "hun": "sötét arcszín",
-            "en": "a dark complexion"
-        },
-        {
-            "hun": "sápadt arcszín",
-            "en": "a pale complexion"
-        },
-        {
-            "hun": "barnás arcszín",
-            "en": "a tanned complexion"
-        },
-        {
-            "hun": "jóépítésű férfi",
-            "en": "a well-built man"
-        },
-        {
-            "hun": "jóvágású férfi",
-            "en": "a handsome man"
-        },
-        {
-            "hun": "vézna személy",
-            "en": "a skinny person"
-        },
-        {
-            "hun": "sovány személy",
-            "en": "a thin person"
-        },
-        {
-            "hun": "vékony nő",
-            "en": "a slim woman"
-        },
-        {
-            "hun": "karcsú nő",
-            "en": "a slender woman"
-        },
-        {
-            "hun": "átlagos termetű nő",
-            "en": "a woman of average height"
-        },
-        {
-            "hun": "középtermetű nő",
-            "en": "a woman of medium height"
-        },
-        {
-            "hun": "jól néz ki",
-            "en": "have good looks"
-        },
-        {
-            "hun": "Mennyi a súlya?",
-            "en": "How much does he/she weigh?"
-        },
-        {
-            "hun": "Hogy néz ki?",
-            "en": "What does he/she look like?"
-        },
-        {
-            "hun": "fiatalabbnak látszik a koránál",
-            "en": "younger than he looks"
-        },
-        {
-            "hun": "idősebbnek látszik a koránál",
-            "en": "older than he looks"
-        },
-        {
-            "hun": "életkor",
-            "en": "age"
-        },
-        {
-            "hun": "újszülött",
-            "en": "newborn baby"
-        },
-        {
-            "hun": "csecsemő",
-            "en": "infant"
-        },
-        {
-            "hun": "totyogó",
-            "en": "toddler"
-        },
-        {
-            "hun": "kisgyerek",
-            "en": "adolescent"
-        },
-        {
-            "hun": "kamasz",
-            "en": "teenager"
-        },
-        {
-            "hun": "felnőtt",
-            "en": "adult"
-        },
-        {
-            "hun": "középkorú",
-            "en": "middle-aged"
-        },
-        {
-            "hun": "idős",
-            "en": "elderly"
-        },
-        {
-            "hun": "a húszas éveiben jár",
-            "en": "in his/her 20s"
-        },
-        {
-            "hun": "a harmincas éveiben jár",
-            "en": "in his/her 30s"
-        },
-        {
-            "hun": "testalkat",
-            "en": "build"
-        },
-        {
-            "hun": "sportos",
-            "en": "athletic"
-        },
-        {
-            "hun": "széles vállú",
-            "en": "broad-shouldered"
-        },
-        {
-            "hun": "izmos",
-            "en": "muscular"
-        },
-        {
-            "hun": "horihorgas",
-            "en": "lanky"
-        },
-        {
-            "hun": "zömök",
-            "en": "stocky"
-        },
-        {
-            "hun": "anyajegy",
-            "en": "birthmark"
-        },
-        {
-            "hun": "sebhely",
-            "en": "scar"
-        },
-        {
-            "hun": "forradás",
-            "en": "scar"
-        },
-        {
-            "hun": "szemek",
-            "en": "eyes"
-        },
-        {
-            "hun": "barna",
-            "en": "brown"
-        },
-        {
-            "hun": "kék",
-            "en": "blue"
-        },
-        {
-            "hun": "zöld",
-            "en": "green"
-        },
-        {
-            "hun": "mogyorószínű",
-            "en": "hazel"
-        },
-        {
-            "hun": "ragyogó",
-            "en": "bright"
-        },
-        {
-            "hun": "arcforma",
-            "en": "face"
-        },
-        {
-            "hun": "kerek",
-            "en": "round"
-        },
-        {
-            "hun": "ovális",
-            "en": "oval"
-        },
-        {
-            "hun": "hosszúkás",
-            "en": "long"
-        },
-        {
-            "hun": "keskeny",
-            "en": "thin"
-        },
-        {
-            "hun": "szakáll",
-            "en": "beard"
-        },
-        {
-            "hun": "bajusz",
-            "en": "moustache"
-        },
-        {
-            "hun": "gödröcskék",
-            "en": "dimples"
-        },
-        {
-            "hun": "homlok",
-            "en": "forehead"
-        },
-        {
-            "hun": "arc",
-            "en": "cheeks"
-        },
-        {
-            "hun": "áll",
-            "en": "chin"
-        },
-        {
-            "hun": "szemöldök",
-            "en": "eyebrows"
-        },
-        {
-            "hun": "szeplős",
-            "en": "freckled"
-        },
-        {
-            "hun": "ráncos",
-            "en": "wrinkled"
-        },
-        {
-            "hun": "pattanás",
-            "en": "pimples"
-        },
-        {
-            "hun": "mitesszer",
-            "en": "spots"
-        },
-        {
-            "hun": "akne",
-            "en": "acne"
-        },
-        {
-            "hun": "széles mosoly",
-            "en": "broad smile"
-        },
-        {
-            "hun": "összeszorított szájú mosoly",
-            "en": "tight-lipped smile"
-        },
-        {
-            "hun": "haj",
-            "en": "hair"
-        },
-        {
-            "hun": "szőke",
-            "en": "blonde"
-        },
-        {
-            "hun": "sötét",
-            "en": "dark"
-        },
-        {
-            "hun": "világos szőke",
-            "en": "fair"
-        },
-        {
-            "hun": "vörös",
-            "en": "red"
-        },
-        {
-            "hun": "ősz",
-            "en": "grey"
-        },
-        {
-            "hun": "festett",
-            "en": "dyed"
-        },
-        {
-            "hun": "rövid",
-            "en": "short"
-        },
-        {
-            "hun": "hosszú",
-            "en": "long"
-        },
-        {
-            "hun": "egyenes",
-            "en": "straight"
-        },
-        {
-            "hun": "göndör",
-            "en": "curly"
-        },
-        {
-            "hun": "hullámos",
-            "en": "wavy"
-        },
-        {
-            "hun": "tüskés",
-            "en": "spiky"
-        },
-        {
-            "hun": "rövidre nyírt",
-            "en": "cropped"
-        },
-        {
-            "hun": "vállig érő",
-            "en": "shoulder-length"
-        },
-        {
-            "hun": "félhosszú",
-            "en": "medium-length"
-        },
-        {
-            "hun": "frufru",
-            "en": "fringe"
-        },
-        {
-            "hun": "lófarkas",
-            "en": "ponytail"
-        },
-        {
-            "hun": "középen elválasztott",
-            "en": "centre-parting"
-        },
-        {
-            "hun": "oldalt elválasztott",
-            "en": "side-parting"
-        },
-        {
-            "hun": "kopasz",
-            "en": "bald"
-        },
-        {
-            "hun": "paróka",
-            "en": "wig"
-        },
-        {
-            "hun": "orr",
-            "en": "nose"
-        },
-        {
-            "hun": "nagy",
-            "en": "big"
-        },
-        {
-            "hun": "kicsi",
-            "en": "small"
-        },
-        {
-            "hun": "hosszú",
-            "en": "long"
-        },
-        {
-            "hun": "turcs",
-            "en": "snub"
-        },
-        {
-            "hun": "hegyes",
-            "en": "pointed"
-        },
-        {
-            "hun": "őszinte, becsületes",
-            "en": "honest"
-        },
-        {
-            "hun": "becstelen",
-            "en": "dishonest"
-        },
-        {
-            "hun": "érett",
-            "en": "mature"
-        },
-        {
-            "hun": "éretlen",
-            "en": "immature"
-        },
-        {
-            "hun": "türelmes",
-            "en": "patient"
-        },
-        {
-            "hun": "türelmetlen",
-            "en": "impatient"
-        },
-        {
-            "hun": "udvarias",
-            "en": "polite"
-        },
-        {
-            "hun": "udvariatlan",
-            "en": "impolite"
-        },
-        {
-            "hun": "aktív",
-            "en": "active"
-        },
-        {
-            "hun": "tetlen",
-            "en": "inactive"
-        },
-        {
-            "hun": "őszinte, nyílt",
-            "en": "sincere"
-        },
-        {
-            "hun": "nem őszinte",
-            "en": "insincere"
-        },
-        {
-            "hun": "felelős",
-            "en": "responsible"
-        },
-        {
-            "hun": "felelőtlen",
-            "en": "irresponsible"
-        },
-        {
-            "hun": "kiszámítható",
-            "en": "predictable"
-        },
-        {
-            "hun": "kiszámíthatatlan",
-            "en": "unpredictable"
-        },
-        {
-            "hun": "megbízható",
-            "en": "reliable"
-        },
-        {
-            "hun": "megbízhatatlan",
-            "en": "unreliable"
-        },
-        {
-            "hun": "szórakozott",
-            "en": "absent-minded"
-        },
-        {
-            "hun": "kalandvágyó szellemű",
-            "en": "adventurous"
-        },
-        {
-            "hun": "agresszív",
-            "en": "aggressive"
-        },
-        {
-            "hun": "becsvágyó",
-            "en": "ambitious"
-        },
-        {
-            "hun": "hajtós",
-            "en": "driven"
-        },
-        {
-            "hun": "unalmas",
-            "en": "boring"
-        },
-        {
-            "hun": "fárasztó",
-            "en": "dull"
-        },
-        {
-            "hun": "irányítgató, főnökösködő",
-            "en": "bossy"
-        },
-        {
-            "hun": "bátor",
-            "en": "brave"
-        },
-        {
-            "hun": "nyugodt",
-            "en": "calm"
-        },
-        {
-            "hun": "ellazult",
-            "en": "relaxed"
-        },
-        {
-            "hun": "gondoskodó",
-            "en": "caring"
-        },
-        {
-            "hun": "jótékony",
-            "en": "charitable"
-        },
-        {
-            "hun": "vidám",
-            "en": "cheerful"
-        },
-        {
-            "hun": "gyerekes",
-            "en": "childish"
-        },
-        {
-            "hun": "okos",
-            "en": "clever"
-        },
-        {
-            "hun": "elkötelezett",
-            "en": "committed"
-        },
-        {
-            "hun": "könyörületes",
-            "en": "compassionate"
-        },
-        {
-            "hun": "magabiztos",
-            "en": "confident"
-        },
-        {
-            "hun": "bizakodó",
-            "en": "confident"
-        },
-        {
-            "hun": "következetes",
-            "en": "consistent"
-        },
-        {
-            "hun": "gyáva",
-            "en": "coward"
-        },
-        {
-            "hun": "kreatív",
-            "en": "creative"
-        },
-        {
-            "hun": "eltökélt",
-            "en": "determined"
-        },
-        {
-            "hun": "kényelmes",
-            "en": "easy-going"
-        },
-        {
-            "hun": "félelemtelen",
-            "en": "fearless"
-        },
-        {
-            "hun": "rugalmas",
-            "en": "flexible"
-        },
-        {
-            "hun": "feledékeny",
-            "en": "forgetful"
-        },
-        {
-            "hun": "nagylelkű",
-            "en": "generous"
-        },
-        {
-            "hun": "dolgos, szorgalmas",
-            "en": "hard-working"
-        },
-        {
-            "hun": "jó humorérzéke van",
-            "en": "have a sense of humour"
-        },
-        {
-            "hun": "segítőkész",
-            "en": "helpful"
-        },
-        {
-            "hun": "hirtelen haragú",
-            "en": "hot-tempered"
-        },
-        {
-            "hun": "szerény",
-            "en": "humble"
-        },
-        {
-            "hun": "határozatlan",
-            "en": "indecisive"
-        },
-        {
-            "hun": "független",
-            "en": "independent"
-        },
-        {
-            "hun": "intelligens",
-            "en": "intelligent"
-        },
-        {
-            "hun": "találékony",
-            "en": "inventive"
-        },
-        {
-            "hun": "ingerlékeny",
-            "en": "irritable"
-        },
-        {
-            "hun": "féltékeny",
-            "en": "jealous"
-        },
-        {
-            "hun": "kedves",
-            "en": "kind"
-        },
-        {
-            "hun": "lusta",
-            "en": "lazy"
-        },
-        {
-            "hun": "szűkmarkú, fösvény",
-            "en": "mean"
+            "hun": "fényűző",
+            "en": "luxurious"
         },
         {
             "hun": "rendetlen",
             "en": "messy"
         },
         {
-            "hun": "boldogtalan",
-            "en": "miserable"
+            "hun": "modern",
+            "en": "modern"
         },
         {
-            "hun": "elszomorodott",
-            "en": "miserable"
+            "hun": "szépen berendezett",
+            "en": "nicely-decorated"
         },
         {
-            "hun": "hangulatingadozása van",
-            "en": "moody"
+            "hun": "egyterű",
+            "en": "open-plan"
         },
         {
-            "hun": "erkölcsös",
-            "en": "moral"
+            "hun": "békés, nyugodt",
+            "en": "peaceful"
         },
         {
-            "hun": "szűkkörű",
-            "en": "narrow-minded"
+            "hun": "festői szépségű",
+            "en": "picturesque"
         },
         {
-            "hun": "nyitott",
-            "en": "open-minded"
+            "hun": "elkelő helyen",
+            "en": "prime location"
         },
         {
-            "hun": "társaságkedvelő",
-            "en": "outgoing"
+            "hun": "lakónegyed",
+            "en": "residential area"
         },
         {
-            "hun": "maximalista",
-            "en": "perfectionist"
+            "hun": "lepusztult",
+            "en": "run-down"
         },
         {
-            "hun": "büszke",
-            "en": "proud"
+            "hun": "hangszigetelt",
+            "en": "soundproof"
         },
         {
-            "hun": "pontos",
-            "en": "punctual"
+            "hun": "tágas/nagy",
+            "en": "spacious/large"
         },
         {
-            "hun": "megfontolt, ésszerű",
-            "en": "reasonable"
+            "hun": "gyéren bútorozott",
+            "en": "sparsely furnished"
         },
         {
-            "hun": "lázadó",
-            "en": "rebellious"
+            "hun": "kertvárosi környék",
+            "en": "suburban neighbourhood"
         },
         {
-            "hun": "zárkózott",
-            "en": "reserved"
+            "hun": "napos",
+            "en": "sunny"
         },
         {
-            "hun": "bunkó, udvariatlan",
-            "en": "rude"
+            "hun": "pici, apró",
+            "en": "tiny"
         },
         {
-            "hun": "önbizalommal teli",
-            "en": "self-confident"
+            "hun": "bútorozott/bútorozatlan",
+            "en": "(un)furnished"
         },
         {
-            "hun": "önző",
-            "en": "selfish"
+            "hun": "üdvözlő, barátságos",
+            "en": "welcoming"
         },
         {
-            "hun": "érzékeny",
-            "en": "sensitive"
+            "hun": "jól felszerelt",
+            "en": "well-equipped"
         },
         {
-            "hun": "komoly",
-            "en": "serious"
+            "hun": "gondozott/jól karbantartott",
+            "en": "well-kept/well-maintained"
         },
         {
-            "hun": "félénk",
-            "en": "shy"
+            "hun": "tóra néző",
+            "en": "with a view of the lake"
         },
         {
-            "hun": "társaságkedvelő",
-            "en": "sociable"
+            "hun": "az ablakok forgalmas utcára néznek",
+            "en": "with windows overlooking a busy street"
         },
         {
-            "hun": "elkényeztetett",
-            "en": "spoilt"
+            "hun": "gyalog/autóval elérhető távolságon belül",
+            "en": "within walking/driving distance of..."
         },
         {
-            "hun": "sportos",
-            "en": "sporty"
+            "hun": "padlás, padlásszoba",
+            "en": "attic"
         },
         {
-            "hun": "szigorú",
-            "en": "strict"
+            "hun": "erkély",
+            "en": "balcony"
         },
         {
-            "hun": "makacs",
-            "en": "stubborn"
+            "hun": "alagsor",
+            "en": "basement"
         },
         {
-            "hun": "tehetséges",
-            "en": "talented"
+            "hun": "fürdőszoba",
+            "en": "bathroom"
         },
         {
-            "hun": "beszédes",
-            "en": "talkative"
+            "hun": "hálószoba",
+            "en": "bedroom"
         },
         {
-            "hun": "megbízható",
-            "en": "trustworthy"
+            "hun": "mennyezet",
+            "en": "ceiling"
         },
         {
-            "hun": "megértő",
-            "en": "understanding"
+            "hun": "gyerekszoba",
+            "en": "child's/children's room"
         },
         {
-            "hun": "anorák",
-            "en": "anorak"
+            "hun": "folyosó",
+            "en": "corridor"
         },
         {
-            "hun": "nadrágtartó",
-            "en": "braces"
+            "hun": "ebédlő",
+            "en": "dining room"
         },
         {
-            "hun": "gallér",
-            "en": "collar"
+            "hun": "alsó szint (kétszintes házban)",
+            "en": "downstairs"
         },
         {
-            "hun": "kontaktlencse",
-            "en": "contact lenses"
+            "hun": "bejáró, kocsifeljáró",
+            "en": "drive"
         },
         {
-            "hun": "strandpapucs",
-            "en": "flip-flops"
+            "hun": "fürdőszobás",
+            "en": "en suite (bathroom)"
         },
         {
-            "hun": "kesztyű",
-            "en": "gloves"
+            "hun": "kerítés",
+            "en": "fence"
         },
         {
-            "hun": "kapucnis pulóver",
-            "en": "hooded sweatshirt"
+            "hun": "emelet, padló",
+            "en": "floor"
         },
         {
-            "hun": "nagykabát",
-            "en": "overcoat"
+            "hun": "garázs",
+            "en": "garage"
         },
         {
-            "hun": "golfnyakú",
-            "en": "polo neck"
+            "hun": "kert",
+            "en": "garden"
         },
         {
-            "hun": "pizsama",
-            "en": "pyjamas"
+            "hun": "földszint",
+            "en": "ground floor"
         },
         {
-            "hun": "szandál",
-            "en": "sandals"
+            "hun": "vendégszoba",
+            "en": "guest/spare room"
         },
         {
-            "hun": "sál",
-            "en": "scarf"
+            "hun": "előszoba",
+            "en": "hall"
         },
         {
-            "hun": "papucs",
-            "en": "slippers"
+            "hun": "konyha",
+            "en": "kitchen"
         },
         {
-            "hun": "öltöny",
-            "en": "suit"
+            "hun": "pázsit",
+            "en": "lawn"
         },
         {
-            "hun": "úszónadrág",
-            "en": "swimming trunks"
+            "hun": "felvonó/lift",
+            "en": "lift"
         },
         {
-            "hun": "fürdőruha",
-            "en": "swimsuit"
+            "hun": "galéria, loft",
+            "en": "loft"
         },
         {
-            "hun": "nyakkendő",
-            "en": "tie"
+            "hun": "trottuár / járda",
+            "en": "pavement"
         },
         {
-            "hun": "csokornyakkendő",
-            "en": "bow tie"
+            "hun": "tornác",
+            "en": "porch"
         },
         {
-            "hun": "harisnyanadrág",
-            "en": "tights"
+            "hun": "tető",
+            "en": "roof"
         },
         {
-            "hun": "melegítő",
-            "en": "tracksuit"
+            "hun": "nappali",
+            "en": "sitting/living room"
         },
         {
-            "hun": "edzőcipő",
-            "en": "trainers"
+            "hun": "lépcső",
+            "en": "stairs"
         },
         {
-            "hun": "alsónemű",
-            "en": "underwear"
+            "hun": "dolgozószoba",
+            "en": "study"
         },
         {
-            "hun": "gumicsizma",
-            "en": "wellingtons"
+            "hun": "felső szint",
+            "en": "upstairs"
         },
         {
-            "hun": "cipzár",
-            "en": "zip"
+            "hun": "háztartási helyiség",
+            "en": "utility room"
         },
         {
-            "hun": "alkalomra illő",
-            "en": "appropriate for the occasion"
+            "hun": "roló, reluxa / redőny, spaletta",
+            "en": "blind/shutter"
         },
         {
-            "hun": "bő",
-            "en": "baggy"
+            "hun": "riasztó",
+            "en": "burglar alarm"
         },
         {
-            "hun": "márkás, dizájner",
-            "en": "designer"
+            "hun": "szőnyeg",
+            "en": "carpet"
         },
         {
-            "hun": "drága",
-            "en": "expensive"
+            "hun": "központi fűtés",
+            "en": "central heating"
         },
         {
-            "hun": "használt",
-            "en": "second-hand"
+            "hun": "függöny",
+            "en": "curtain"
         },
         {
-            "hun": "kifakult",
-            "en": "faded"
+            "hun": "csengő",
+            "en": "doorbell"
         },
         {
-            "hun": "alkalmi",
-            "en": "formal"
+            "hun": "lábtörlő",
+            "en": "doormat"
         },
         {
-            "hun": "elegáns",
-            "en": "elegant"
+            "hun": "bárszekrény",
+            "en": "drinks/cocktail cabinet"
         },
         {
-            "hun": "kötött",
-            "en": "knitted"
+            "hun": "padlószőnyeg",
+            "en": "fitted carpet"
         },
         {
-            "hun": "hosszú ujjú",
-            "en": "long-sleeved"
+            "hun": "házi telefon",
+            "en": "intercom"
         },
         {
-            "hun": "rövid ujjú",
-            "en": "short-sleeved"
+            "hun": "levélszekrény",
+            "en": "letter box"
         },
         {
-            "hun": "ujjatlan",
-            "en": "sleeveless"
+            "hun": "dísztárgy",
+            "en": "ornament"
         },
         {
-            "hun": "szakadt",
-            "en": "ripped"
+            "hun": "konnektor",
+            "en": "plug"
         },
         {
-            "hun": "testhezálló",
-            "en": "tight-fitting"
+            "hun": "szaniter szerelvények",
+            "en": "plumbing"
         },
         {
-            "hun": "bő szabású, laza",
-            "en": "loose-fitting"
+            "hun": "cserepes növény",
+            "en": "pot plant"
         },
         {
-            "hun": "pamut",
-            "en": "cotton"
+            "hun": "radiátor, fűtőtest",
+            "en": "radiator"
         },
         {
-            "hun": "farmeranyag",
-            "en": "denim"
+            "hun": "rongyszőnyeg / futószőnyeg",
+            "en": "rug"
         },
         {
-            "hun": "szőrme",
-            "en": "fur"
+            "hun": "polc",
+            "en": "shelf"
         },
         {
-            "hun": "csipke",
-            "en": "lace"
+            "hun": "csempe",
+            "en": "tile"
         },
         {
-            "hun": "bőr",
-            "en": "leather"
+            "hun": "porszívó",
+            "en": "vacuum cleaner/hoover"
         },
         {
-            "hun": "vászon",
-            "en": "linen"
+            "hun": "tapéta",
+            "en": "wallpaper"
         },
         {
-            "hun": "nejlon",
-            "en": "nylon"
+            "hun": "fürdőkád",
+            "en": "bath(tub)"
         },
         {
-            "hun": "gumi",
-            "en": "rubber"
+            "hun": "szekrényke, üveges szekrény",
+            "en": "cabinet"
         },
         {
-            "hun": "selyem",
-            "en": "silk"
+            "hun": "szennyeskosár",
+            "en": "laundry basket"
         },
         {
-            "hun": "gyapjú",
-            "en": "wool"
+            "hun": "tükör",
+            "en": "mirror"
         },
         {
-            "hun": "gyapjúszövet",
-            "en": "woollen"
+            "hun": "zuhanyzó",
+            "en": "shower"
         },
         {
-            "hun": "kockás",
-            "en": "checked"
+            "hun": "csap",
+            "en": "tap"
         },
         {
-            "hun": "pöttyös",
-            "en": "dotted"
+            "hun": "véce",
+            "en": "toilet"
         },
         {
-            "hun": "virágos",
-            "en": "floral"
+            "hun": "mosdókagyló",
+            "en": "washbasin"
         },
         {
-            "hun": "minta nélküli",
-            "en": "plain"
+            "hun": "mosógép",
+            "en": "washing machine"
         },
         {
-            "hun": "egyszínű",
-            "en": "plain"
+            "hun": "ágynemű",
+            "en": "bed linen"
         },
         {
-            "hun": "csíkos",
-            "en": "striped"
+            "hun": "éjjeli szekrény",
+            "en": "bedside table"
         },
         {
-            "hun": "jóváhagyó",
-            "en": "approving"
+            "hun": "(beépített) ruhásszekrény",
+            "en": "(built in) wardrobe"
         },
         {
-            "hun": "helytelenítő",
-            "en": "disapproving"
+            "hun": "ruhás polc",
+            "en": "clothes shelf"
         },
         {
-            "hun": "csodál",
-            "en": "admire"
+            "hun": "matrac",
+            "en": "mattress"
         },
         {
-            "hun": "imád",
-            "en": "adore"
+            "hun": "párna",
+            "en": "pillow"
         },
         {
-            "hun": "mérges",
-            "en": "angry"
+            "hun": "egyszemélyes/franciaágy",
+            "en": "single/double bed"
         },
         {
-            "hun": "dühös",
-            "en": "furious"
+            "hun": "tűzhely",
+            "en": "cooker"
         },
         {
-            "hun": "bosszús",
-            "en": "annoyed"
+            "hun": "mosogatógép",
+            "en": "dishwasher"
         },
         {
-            "hun": "aggódó",
-            "en": "anxious"
+            "hun": "fagyasztó",
+            "en": "freezer"
         },
         {
-            "hun": "elszörnyedt",
-            "en": "appalled"
+            "hun": "hűtő",
+            "en": "fridge"
         },
         {
-            "hun": "elborzadt",
-            "en": "appalled"
+            "hun": "mikrohullámú sütő",
+            "en": "microwave oven"
         },
         {
-            "hun": "rajong vmiért",
-            "en": "be a fan of"
+            "hun": "mosogató",
+            "en": "sink"
         },
         {
-            "hun": "nagyon szeret vmit",
-            "en": "be fond of"
+            "hun": "rozsdamentes készülékek",
+            "en": "stainless steel appliances"
         },
         {
-            "hun": "odavan vmiért",
-            "en": "be into"
+            "hun": "fali szekrény",
+            "en": "(wall) cupboard"
         },
         {
-            "hun": "lelkesedik vmiért",
-            "en": "be keen on"
+            "hun": "fotel",
+            "en": "armchair"
         },
         {
-            "hun": "szégyell vmit",
-            "en": "be ashamed of"
+            "hun": "könyvszekrény",
+            "en": "bookcase"
         },
         {
-            "hun": "vonzódik vkihez",
-            "en": "be attracted to sb"
+            "hun": "könyvespolc",
+            "en": "bookshelf"
         },
         {
-            "hun": "reménytelen vmiben",
-            "en": "be hopeless at"
+            "hun": "komód, fiókos szekrény",
+            "en": "chest of drawers"
         },
         {
-            "hun": "vmilyen hangulatban van",
-            "en": "be in the mood for/to"
+            "hun": "dohányzóasztal",
+            "en": "coffee table"
         },
         {
-            "hun": "unatkozik",
-            "en": "bored"
+            "hun": "párna, díszpárna",
+            "en": "cushion"
         },
         {
-            "hun": "ki nem állhat",
-            "en": "can't stand"
+            "hun": "vitrin",
+            "en": "display cabinet"
         },
         {
-            "hun": "zavarodott",
-            "en": "confused"
+            "hun": "DVD lejátszó",
+            "en": "DVD player"
         },
         {
-            "hun": "összezavart",
-            "en": "confused"
+            "hun": "kandalló",
+            "en": "fireplace"
         },
         {
-            "hun": "boldog",
-            "en": "delighted"
+            "hun": "síkképernyős tévé",
+            "en": "flat-screen TV"
         },
         {
-            "hun": "örvendező",
-            "en": "pleased"
+            "hun": "bútor, bútorzat",
+            "en": "furniture"
         },
         {
-            "hun": "levert",
-            "en": "depressed"
+            "hun": "hintaszék",
+            "en": "rocking chair"
         },
         {
-            "hun": "csalódott",
-            "en": "disappointed"
+            "hun": "kanapé / sarokheverő",
+            "en": "sofa/(corner) couch"
         },
         {
-            "hun": "zavarban van",
-            "en": "embarrassed"
+            "hun": "íróasztal",
+            "en": "desk"
         },
         {
-            "hun": "izgatott",
-            "en": "excited"
+            "hun": "forgószék",
+            "en": "swivel chair"
         },
         {
-            "hun": "kimerült",
-            "en": "exhausted"
+            "hun": "papírkosár",
+            "en": "wastepaper basket"
         },
         {
-            "hun": "szerelmes lesz",
-            "en": "fall in love"
+            "hun": "bútort összeszerel/szétszed",
+            "en": "assemble/dismantle (a piece of furniture)"
         },
         {
-            "hun": "kedvére van",
-            "en": "fancy"
+            "hun": "kicserél egy villanykörtét",
+            "en": "change a light bulb"
         },
         {
-            "hun": "torkig van vmivel",
-            "en": "fed up with"
+            "hun": "kitakarít",
+            "en": "clean/tidy up"
         },
         {
-            "hun": "közös nevezőt talál",
-            "en": "find common ground"
+            "hun": "átalakít vmit vmi mássá",
+            "en": "convert sth into sth else"
         },
         {
-            "hun": "rémült",
-            "en": "frightened"
+            "hun": "kifest egy szobát",
+            "en": "decorate a room"
         },
         {
-            "hun": "ijedt",
-            "en": "scared"
+            "hun": "barkácsolás, csináld magad",
+            "en": "DIY (Do It Yourself)"
         },
         {
-            "hun": "megrettent",
-            "en": "terrified"
+            "hun": "házimunkát végez",
+            "en": "do (the) housework"
         },
         {
-            "hun": "frusztrált",
-            "en": "frustrated"
+            "hun": "karbantartást végez",
+            "en": "do maintenance work"
         },
         {
-            "hun": "jól kijön vkivel",
-            "en": "get on well with"
+            "hun": "elporol, törölget, portalanít",
+            "en": "dust"
         },
         {
-            "hun": "hálás",
-            "en": "grateful"
+            "hun": "kiüríti/bepakolja a mosogatógépet",
+            "en": "empty/load (the dishwasher)"
         },
         {
-            "hun": "gyűlöl",
-            "en": "hate"
+            "hun": "megszünteti a szivárgást",
+            "en": "fix a leak"
         },
         {
-            "hun": "közömbös",
-            "en": "indifferent"
+            "hun": "házfelújítás",
+            "en": "house renovation"
         },
         {
-            "hun": "irritált",
-            "en": "irritated"
+            "hun": "beszerel (egy készüléket)",
+            "en": "install (an appliance)"
         },
         {
-            "hun": "bosszankodó",
-            "en": "irritated"
+            "hun": "javít (kerítést / tetőt)",
+            "en": "mend (a fence / a roof)"
         },
         {
-            "hun": "magányos",
-            "en": "lonely"
+            "hun": "beköltözik/kiköltözik",
+            "en": "move in/out"
         },
         {
-            "hun": "vágyik vmire",
-            "en": "long for sb/sth"
+            "hun": "füvet nyír",
+            "en": "mow the lawn"
         },
         {
-            "hun": "tisztelettel felnéz vkire",
-            "en": "look up to sb"
+            "hun": "átrendezi a bútort",
+            "en": "rearrange (the furniture)"
         },
         {
-            "hun": "elveszíti a türelmét",
-            "en": "lose one's temper"
+            "hun": "foltot eltávolít",
+            "en": "remove a stain"
         },
         {
-            "hun": "kijön a sodrából",
-            "en": "lose one's temper"
+            "hun": "felújít / rendbe hoz",
+            "en": "renovate / do up"
         },
         {
-            "hun": "boldogtalan",
-            "en": "miserable"
+            "hun": "megjavít",
+            "en": "repair"
         },
         {
-            "hun": "meglátogatott",
-            "en": "moved"
+            "hun": "söpör/porszívóz/felmos",
+            "en": "sweep/vacuum/mop the floor"
         },
         {
-            "hun": "meghatott",
-            "en": "moved"
+            "hun": "kiadó lakás",
+            "en": "(a flat) to let"
         },
         {
-            "hun": "ideges",
-            "en": "nervous"
+            "hun": "szállás",
+            "en": "accommodation"
         },
         {
-            "hun": "ingerült",
-            "en": "nervous"
+            "hun": "komfort, felszereltség",
+            "en": "amenities"
         },
         {
-            "hun": "túlterhelt",
-            "en": "overwhelmed"
+            "hun": "szűkös költségvetésből gazdálkodik",
+            "en": "be on a limited/tight budget"
         },
         {
-            "hun": "szenvedélyes",
-            "en": "passionate"
+            "hun": "közüzemi költségek",
+            "en": "cost of utilities"
         },
         {
-            "hun": "tisztel",
-            "en": "respect"
+            "hun": "Croydon kerület, körzet",
+            "en": "Croydon district"
         },
         {
-            "hun": "respektál",
-            "en": "respect"
+            "hun": "kitakarít/megfőz/kivasal/elmosogat",
+            "en": "do the cleaning/cooking/ironing/washing-up"
         },
         {
-            "hun": "megdöbbent",
-            "en": "shocked"
+            "hun": "villany/telefonszámla",
+            "en": "electricity/telephone bill"
         },
         {
-            "hun": "sokkolt",
-            "en": "shocked"
+            "hun": "ingatlanügynök/ingatlanügynökség",
+            "en": "estate agent/agency"
         },
         {
-            "hun": "meglepett",
-            "en": "surprised"
+            "hun": "kilakoltat/kilakoltatás",
+            "en": "evict/eviction"
         },
         {
-            "hun": "meghökkent",
-            "en": "amazed"
+            "hun": "bérleti díjjal / jelzálog részlettel elmarad",
+            "en": "fall behind with the rent / mortgage instalments"
         },
         {
-            "hun": "rokonszenv",
-            "en": "sympathy"
+            "hun": "lakótárs/szobatárs",
+            "en": "flatmate/housemate"
         },
         {
-            "hun": "együttérzés",
-            "en": "sympathy"
+            "hun": "eladó",
+            "en": "for sale"
         },
         {
-            "hun": "érdeklődik vmi iránt",
-            "en": "take an interest in"
+            "hun": "egy hónapos felmondási időt ad",
+            "en": "give (a month's) notice"
         },
         {
-            "hun": "büszke vmire",
-            "en": "take pride in"
+            "hun": "háztulajdonos",
+            "en": "homeowner"
         },
         {
-            "hun": "izgatott",
-            "en": "thrilled"
+            "hun": "lakótelep",
+            "en": "housing estate"
         },
         {
-            "hun": "lenyűgözött",
-            "en": "thrilled"
+            "hun": "A King utca 1. szám alatt az 1-es számú lakásban lakom.",
+            "en": "I live at 1 King Street, flat 1."
         },
         {
-            "hun": "aggódó",
-            "en": "worried"
+            "hun": "a központban",
+            "en": "in the centre"
         },
         {
-            "hun": "felspannolva",
-            "en": "be on top of the world"
+            "hun": "a kertvárosban",
+            "en": "in the suburbs"
         },
         {
-            "hun": "kimerült",
-            "en": "be out of sorts"
+            "hun": "lakos/lakó/háztulajdonos",
+            "en": "inhabitant/resident/householder"
         },
         {
-            "hun": "fáradt",
-            "en": "be out of sorts"
+            "hun": "főbérlő",
+            "en": "landlord/landlady"
         },
         {
-            "hun": "az idegeire megy vkinek",
-            "en": "drive sb up the wall"
+            "hun": "az első / második emeleten lakik",
+            "en": "live on the first / second floor"
         },
         {
-            "hun": "megőrjít vkit",
-            "en": "drive sb up the wall"
+            "hun": "egy lakónegyedben található",
+            "en": "located in a residential area"
         },
         {
-            "hun": "szomorkodik",
-            "en": "feel blue"
+            "hun": "csökkenti/emeli a bérleti díjat",
+            "en": "lower/increase the rent"
         },
         {
-            "hun": "nehéz helyzetbe hoz",
-            "en": "give sb a hard time"
+            "hun": "szomszéd",
+            "en": "neighbour"
         },
         {
-            "hun": "vegyes érzései vannak",
-            "en": "have mixed feelings"
+            "hun": "a földszinten",
+            "en": "on the ground floor"
         },
         {
-            "hun": "ugrál örömében",
-            "en": "jumping for joy"
+            "hun": "a peremvárosban",
+            "en": "on the outskirts"
+        },
+        {
+            "hun": "(magas/alacsony) bérleti díjat fizet",
+            "en": "pay (high/low) rent"
+        },
+        {
+            "hun": "előre fizet",
+            "en": "pay in advance"
+        },
+        {
+            "hun": "kiegyenlíti a számlát",
+            "en": "pay the bills"
+        },
+        {
+            "hun": "előre kifizeti a teljes összeget",
+            "en": "pay up front"
+        },
+        {
+            "hun": "havi / heti részletben fizet",
+            "en": "per month (p.m.) / per week (p.w.)"
+        },
+        {
+            "hun": "letétbe helyez",
+            "en": "place a deposit"
+        },
+        {
+            "hun": "tulajdon, ingatlan",
+            "en": "property"
+        },
+        {
+            "hun": "piacra dob egy házat",
+            "en": "put a house on the market"
+        },
+        {
+            "hun": "ingatlan",
+            "en": "real estate"
+        },
+        {
+            "hun": "csökkent/csökkentés",
+            "en": "reduce/reduction"
+        },
+        {
+            "hun": "költöztetés, költözés",
+            "en": "removal"
+        },
+        {
+            "hun": "lakást bérel valakitől",
+            "en": "rent a flat from sb"
+        },
+        {
+            "hun": "lakást ad bérbe valakinek",
+            "en": "rent a flat to sb"
+        },
+        {
+            "hun": "vidéki helyszín",
+            "en": "rural site"
+        },
+        {
+            "hun": "megosztja a szobát",
+            "en": "share a room"
+        },
+        {
+            "hun": "aláírja a bérleti szerződést",
+            "en": "sign a lease"
+        },
+        {
+            "hun": "jelzáloghitelt vesz igénybe",
+            "en": "take out a mortgage"
+        },
+        {
+            "hun": "kiviszi a szemetet",
+            "en": "take the rubbish out"
+        },
+        {
+            "hun": "bérlő, lakó",
+            "en": "tenant"
+        },
+        {
+            "hun": "Van egy iskola a környéken",
+            "en": "There is a school in the neighbourhood"
+        },
+        {
+            "hun": "építés alatti",
+            "en": "under construction"
+        },
+        {
+            "hun": "városi",
+            "en": "urban"
+        },
+        {
+            "hun": "Tavaly újíttattuk fel a házunkat.",
+            "en": "We had our house renovated / done up last year."
         }
     ]
 }

@@ -17,17 +17,21 @@
     --mbt : 0px;
 
     /* Mute button colors */
-    --mb-main-on-color : rgb(98, 255, 74);
-    --mb-outline-on-color : rgb(75, 170, 43);
+    --mb-main-on-color : rgba(98, 255, 74, 0.5);
+    --mb-outline-on-color : rgba(75, 170, 43, 0.5);
     
-    --mb-main-off-color : rgb(255, 98, 74);
-    --mb-outline-off-color : rgb(170, 75, 43);
+    --mb-main-off-color : rgba(255, 98, 74, 0.5);
+    --mb-outline-off-color : rgba(170, 75, 43, 0.5);
 
     --mb-state : on; /*Don't touch it!*/
 
-    --mb-main-color : rgb(98, 255, 74);
-    --mb-outline-color : rgb(75, 170, 43);
+    --mb-main-color : rgba(98, 255, 74, 0.5);
+    --mb-outline-color : rgba(75, 170, 43, 0.5);
 
+}
+
+body {
+    background-color: black;
 }
 
 #game {
@@ -51,7 +55,7 @@
     /**/
 
     /*Test*/
-    background-color: whitesmoke;
+    background-color: rgb(5, 5, 9);
 }
 
 #sign {
@@ -63,12 +67,12 @@
     margin: auto;
 
     padding-top: 50px;
-    background-color: lightgreen;
+    background-color: rgba(144, 238, 144, 0.5);
 
-    box-shadow: green 0px 10px;
+    box-shadow: rgba(0, 128, 0, 0.5) 0px 10px;
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: green;
+    color: rgb(0, 255, 0);
 }
 
 #box {
@@ -85,9 +89,9 @@
 .buttons {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: teal;
+    color: rgb(0, 255, 255);
 
-    background-color: rgb(166, 255, 255);
+    background-color: rgba(166, 255, 255, 0.5);
 
     width: 200px;
     height: 100px;
@@ -109,19 +113,19 @@
 }
 
 #b1 {
-    box-shadow: lightskyblue 0px var(--b1);
+    box-shadow: rgba(135, 206, 250, 0.5) 0px var(--b1);
     translate: 0px var(--bt1);
 }
 #b2 {
-    box-shadow: lightskyblue 0px var(--b2);
+    box-shadow: rgba(135, 206, 250, 0.5) 0px var(--b2);
     translate: 0px var(--bt2);
 }
 #b3 {
-    box-shadow: lightskyblue 0px var(--b3);
+    box-shadow: rgba(135, 206, 250, 0.5) 0px var(--b3);
     translate: 0px var(--bt3);
 }
 #b4 {
-    box-shadow: lightskyblue 0px var(--b4);
+    box-shadow: rgba(135, 206, 250, 0.5) 0px var(--b4);
     translate: 0px var(--bt4);
 }
 #rb {
@@ -129,7 +133,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: teal;
 
-    background-color: rgb(166, 255, 255);
+    background-color: rgba(166, 255, 255, 0.5);
 
     width: 200px;
     height: 100px;
@@ -142,8 +146,8 @@
     text-align: center;
 
     color: azure;
-    background-color: rgb(255, 74, 74);
-    box-shadow: rgb(250, 135, 135) 0px var(--rb);
+    background-color: rgba(255, 74, 74, 0.5);
+    box-shadow: rgba(250, 135, 135, 0.5) 0px var(--rb);
     translate: 0px var(--rbt);
 }
 
@@ -171,8 +175,8 @@
     text-align: center;
 
     color: azure;
-    background-color: rgb(219, 74, 255);
-    box-shadow: rgb(145, 43, 170) 0px var(--wb);
+    background-color: rgba(219, 74, 255, 0.5);
+    box-shadow: rgba(145, 43, 170, 0.5) 0px var(--wb);
     translate: 0px var(--wbt);
 }
 
@@ -185,7 +189,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: teal;
 
-    background-color: rgb(166, 255, 255);
+    background-color: rgba(166, 255, 255, 0.5);
 
     width: 200px;
     height: 100px;
